@@ -66,8 +66,63 @@ void syscalls_entry_point(void){
 	
 	//attend syscall
 	switch(svc_number){
+		//LED
 		case SVCLedWrite:
 			hal_led_write( (tLedNum)arg0, (tLedState)arg1 );
+			break;
+		case SVCLedRead:
+			*((tLedState*)arg1) = hal_led_read((tLedNum)arg0);
+			break;
+		//Button
+		case SVCButtonStartEv:
+			hal_button_start_int((void(*)(tButtonNum)) arg0);
+			break;
+		//Clock
+		case SVCClockRead:
+			hal_clock_read((tTime*)arg0);
+			break;
+		case SVCClockWrite:
+			hal_clock_write((tTime*)arg0);
+			break;
+		//Serial
+		case SVCSerialPutc:
+			hal_serial_putc((tSerialId)arg0, (uint8_t)arg1);
+			break;
+		case SVCSerialGetc:
+			hal_serial_getc((tSerialId)arg0);
+			break;
+		//Sensor
+		case SVCSensorStartEv:
+			hal_sensor_start((tSensorId)arg0);
+			break;
+		case SVCSensorRead:
+			*((uint32_t*)arg1) = hal_sensor_read((tSensorId)arg0);
+			break;
+		//Display
+		case SVCDisplayCls:
+			hal_display_cls();
+			break;
+		case SVCDisplayPutc:
+			hal_display_putc((uint8_t)arg0);
+			break;
+		case SVCDisplayGotoxy:
+			hal_display_gotoxy((uint32_t)arg0, (uint32_t)arg1);
+			break;
+		case SVCDisplayNumLines:
+			*((uint32_t*)arg0) = hal_display_numlines();
+			break;
+		//Millisecond Timer
+		case SVCMtimerStartEv:
+			hal_mtimer_start((uint32_t)arg0);
+			break;
+		//case SVCMtimerStartPoll:
+		//	hal_mtimer_start_int((uint32_t)arg0, ((void)*(void))arg1);
+		//	break;
+		case SVCMtimerStop:
+			hal_mtimer_stop();
+			break;
+		case SVCMtimerRead:
+			*((uint32_t*)arg0) = hal_mtimer_read();
 			break;
 		default:	/* Error */
 			break;

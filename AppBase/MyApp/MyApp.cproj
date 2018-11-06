@@ -136,7 +136,7 @@
     <Compile Include="main.c">
       <SubType>compile</SubType>
     </Compile>
-    <Compile Include="minilib\IncFile1.h">
+    <Compile Include="minilib\space_inv.h">
       <SubType>compile</SubType>
     </Compile>
     <Compile Include="minilib\led.h">

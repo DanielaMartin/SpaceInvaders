@@ -1,0 +1,263 @@
+
+MyApp.elf:     file format elf32-littlearm
+
+Sections:
+Idx Name          Size      VMA       LMA       File off  Algn
+  0 .text         000001d0  20014000  20014000  00004000  2**2
+                  CONTENTS, ALLOC, LOAD, READONLY, CODE
+  1 .relocate     0000042c  200141d0  200141d0  000041d0  2**3
+                  CONTENTS, ALLOC, LOAD, DATA
+  2 .bss          00000040  200145fc  200145fc  000045fc  2**2
+                  ALLOC
+  3 .stack        00000404  2001463c  2001463c  000045fc  2**0
+                  ALLOC
+  4 .heap         00000200  20014a40  20014a40  000045fc  2**0
+                  ALLOC
+  5 .ARM.attributes 0000002a  00000000  00000000  000045fc  2**0
+                  CONTENTS, READONLY
+  6 .comment      00000059  00000000  00000000  00004626  2**0
+                  CONTENTS, READONLY
+  7 .debug_info   00000189  00000000  00000000  0000467f  2**0
+                  CONTENTS, READONLY, DEBUGGING
+  8 .debug_abbrev 000000d1  00000000  00000000  00004808  2**0
+                  CONTENTS, READONLY, DEBUGGING
+  9 .debug_loc    00000020  00000000  00000000  000048d9  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 10 .debug_aranges 00000040  00000000  00000000  00004900  2**3
+                  CONTENTS, READONLY, DEBUGGING
+ 11 .debug_ranges 00000010  00000000  00000000  00004940  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 12 .debug_macro  00000c59  00000000  00000000  00004950  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 13 .debug_line   0000011f  00000000  00000000  000055a9  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 14 .debug_str    00002f63  00000000  00000000  000056c8  2**0
+                  CONTENTS, READONLY, DEBUGGING
+ 15 .debug_frame  000001bc  00000000  00000000  0000862c  2**2
+                  CONTENTS, READONLY, DEBUGGING
+
+Disassembly of section .text:
+
+20014000 <sp>:
+20014000:	40 4a 01 20                                         @J. 
+
+20014004 <main>:
+#define STACKINFO __attribute__ ((section(".stack_info"))) uint32_t
+
+extern uint32_t _estack;
+STACKINFO sp  = &_estack;
+
+MINIOSAPP main(void){
+20014004:	b508      	push	{r3, lr}
+	led_set( Led1, LedOn );
+20014006:	2101      	movs	r1, #1
+20014008:	4608      	mov	r0, r1
+2001400a:	4b02      	ldr	r3, [pc, #8]	; (20014014 <main+0x10>)
+2001400c:	4798      	blx	r3
+	
+	return 0;
+2001400e:	2000      	movs	r0, #0
+20014010:	bd08      	pop	{r3, pc}
+20014012:	bf00      	nop
+20014014:	20014085 	.word	0x20014085
+
+20014018 <__do_global_dtors_aux>:
+20014018:	b510      	push	{r4, lr}
+2001401a:	4c05      	ldr	r4, [pc, #20]	; (20014030 <__do_global_dtors_aux+0x18>)
+2001401c:	7823      	ldrb	r3, [r4, #0]
+2001401e:	b933      	cbnz	r3, 2001402e <__do_global_dtors_aux+0x16>
+20014020:	4b04      	ldr	r3, [pc, #16]	; (20014034 <__do_global_dtors_aux+0x1c>)
+20014022:	b113      	cbz	r3, 2001402a <__do_global_dtors_aux+0x12>
+20014024:	4804      	ldr	r0, [pc, #16]	; (20014038 <__do_global_dtors_aux+0x20>)
+20014026:	f3af 8000 	nop.w
+2001402a:	2301      	movs	r3, #1
+2001402c:	7023      	strb	r3, [r4, #0]
+2001402e:	bd10      	pop	{r4, pc}
+20014030:	200145fc 	.word	0x200145fc
+20014034:	00000000 	.word	0x00000000
+20014038:	200141d0 	.word	0x200141d0
+
+2001403c <frame_dummy>:
+2001403c:	4b0c      	ldr	r3, [pc, #48]	; (20014070 <frame_dummy+0x34>)
+2001403e:	b143      	cbz	r3, 20014052 <frame_dummy+0x16>
+20014040:	480c      	ldr	r0, [pc, #48]	; (20014074 <frame_dummy+0x38>)
+20014042:	490d      	ldr	r1, [pc, #52]	; (20014078 <frame_dummy+0x3c>)
+20014044:	b510      	push	{r4, lr}
+20014046:	f3af 8000 	nop.w
+2001404a:	480c      	ldr	r0, [pc, #48]	; (2001407c <frame_dummy+0x40>)
+2001404c:	6803      	ldr	r3, [r0, #0]
+2001404e:	b923      	cbnz	r3, 2001405a <frame_dummy+0x1e>
+20014050:	bd10      	pop	{r4, pc}
+20014052:	480a      	ldr	r0, [pc, #40]	; (2001407c <frame_dummy+0x40>)
+20014054:	6803      	ldr	r3, [r0, #0]
+20014056:	b933      	cbnz	r3, 20014066 <frame_dummy+0x2a>
+20014058:	4770      	bx	lr
+2001405a:	4b09      	ldr	r3, [pc, #36]	; (20014080 <frame_dummy+0x44>)
+2001405c:	2b00      	cmp	r3, #0
+2001405e:	d0f7      	beq.n	20014050 <frame_dummy+0x14>
+20014060:	e8bd 4010 	ldmia.w	sp!, {r4, lr}
+20014064:	4718      	bx	r3
+20014066:	4b06      	ldr	r3, [pc, #24]	; (20014080 <frame_dummy+0x44>)
+20014068:	2b00      	cmp	r3, #0
+2001406a:	d0f5      	beq.n	20014058 <frame_dummy+0x1c>
+2001406c:	4718      	bx	r3
+2001406e:	bf00      	nop
+20014070:	00000000 	.word	0x00000000
+20014074:	200141d0 	.word	0x200141d0
+20014078:	20014600 	.word	0x20014600
+2001407c:	200141d0 	.word	0x200141d0
+20014080:	00000000 	.word	0x00000000
+
+20014084 <led_set>:
+.equ	SVCLedSet, 0
+
+.thumb_func 
+.global led_set
+led_set:
+	svc SVCLedSet
+20014084:	df00      	svc	0
+	bx lr
+20014086:	4770      	bx	lr
+
+20014088 <register_fini>:
+20014088:	4b02      	ldr	r3, [pc, #8]	; (20014094 <register_fini+0xc>)
+2001408a:	b113      	cbz	r3, 20014092 <register_fini+0xa>
+2001408c:	4802      	ldr	r0, [pc, #8]	; (20014098 <register_fini+0x10>)
+2001408e:	f000 b805 	b.w	2001409c <atexit>
+20014092:	4770      	bx	lr
+20014094:	00000000 	.word	0x00000000
+20014098:	200140a9 	.word	0x200140a9
+
+2001409c <atexit>:
+2001409c:	2300      	movs	r3, #0
+2001409e:	4601      	mov	r1, r0
+200140a0:	461a      	mov	r2, r3
+200140a2:	4618      	mov	r0, r3
+200140a4:	f000 b81e 	b.w	200140e4 <__register_exitproc>
+
+200140a8 <__libc_fini_array>:
+200140a8:	b538      	push	{r3, r4, r5, lr}
+200140aa:	4c0a      	ldr	r4, [pc, #40]	; (200140d4 <__libc_fini_array+0x2c>)
+200140ac:	4d0a      	ldr	r5, [pc, #40]	; (200140d8 <__libc_fini_array+0x30>)
+200140ae:	1b64      	subs	r4, r4, r5
+200140b0:	10a4      	asrs	r4, r4, #2
+200140b2:	d00a      	beq.n	200140ca <__libc_fini_array+0x22>
+200140b4:	f104 4380 	add.w	r3, r4, #1073741824	; 0x40000000
+200140b8:	3b01      	subs	r3, #1
+200140ba:	eb05 0583 	add.w	r5, r5, r3, lsl #2
+200140be:	3c01      	subs	r4, #1
+200140c0:	f855 3904 	ldr.w	r3, [r5], #-4
+200140c4:	4798      	blx	r3
+200140c6:	2c00      	cmp	r4, #0
+200140c8:	d1f9      	bne.n	200140be <__libc_fini_array+0x16>
+200140ca:	e8bd 4038 	ldmia.w	sp!, {r3, r4, r5, lr}
+200140ce:	f000 b877 	b.w	200141c0 <_fini>
+200140d2:	bf00      	nop
+200140d4:	200141d0 	.word	0x200141d0
+200140d8:	200141cc 	.word	0x200141cc
+
+200140dc <__retarget_lock_acquire_recursive>:
+200140dc:	4770      	bx	lr
+200140de:	bf00      	nop
+
+200140e0 <__retarget_lock_release_recursive>:
+200140e0:	4770      	bx	lr
+200140e2:	bf00      	nop
+
+200140e4 <__register_exitproc>:
+200140e4:	e92d 43f8 	stmdb	sp!, {r3, r4, r5, r6, r7, r8, r9, lr}
+200140e8:	4d2c      	ldr	r5, [pc, #176]	; (2001419c <__register_exitproc+0xb8>)
+200140ea:	4606      	mov	r6, r0
+200140ec:	6828      	ldr	r0, [r5, #0]
+200140ee:	4698      	mov	r8, r3
+200140f0:	460f      	mov	r7, r1
+200140f2:	4691      	mov	r9, r2
+200140f4:	f7ff fff2 	bl	200140dc <__retarget_lock_acquire_recursive>
+200140f8:	4b29      	ldr	r3, [pc, #164]	; (200141a0 <__register_exitproc+0xbc>)
+200140fa:	681c      	ldr	r4, [r3, #0]
+200140fc:	f8d4 3148 	ldr.w	r3, [r4, #328]	; 0x148
+20014100:	2b00      	cmp	r3, #0
+20014102:	d03e      	beq.n	20014182 <__register_exitproc+0x9e>
+20014104:	685a      	ldr	r2, [r3, #4]
+20014106:	2a1f      	cmp	r2, #31
+20014108:	dc1c      	bgt.n	20014144 <__register_exitproc+0x60>
+2001410a:	f102 0e01 	add.w	lr, r2, #1
+2001410e:	b176      	cbz	r6, 2001412e <__register_exitproc+0x4a>
+20014110:	eb03 0182 	add.w	r1, r3, r2, lsl #2
+20014114:	2401      	movs	r4, #1
+20014116:	f8c1 9088 	str.w	r9, [r1, #136]	; 0x88
+2001411a:	f8d3 0188 	ldr.w	r0, [r3, #392]	; 0x188
+2001411e:	4094      	lsls	r4, r2
+20014120:	4320      	orrs	r0, r4
+20014122:	2e02      	cmp	r6, #2
+20014124:	f8c3 0188 	str.w	r0, [r3, #392]	; 0x188
+20014128:	f8c1 8108 	str.w	r8, [r1, #264]	; 0x108
+2001412c:	d023      	beq.n	20014176 <__register_exitproc+0x92>
+2001412e:	3202      	adds	r2, #2
+20014130:	f8c3 e004 	str.w	lr, [r3, #4]
+20014134:	6828      	ldr	r0, [r5, #0]
+20014136:	f843 7022 	str.w	r7, [r3, r2, lsl #2]
+2001413a:	f7ff ffd1 	bl	200140e0 <__retarget_lock_release_recursive>
+2001413e:	2000      	movs	r0, #0
+20014140:	e8bd 83f8 	ldmia.w	sp!, {r3, r4, r5, r6, r7, r8, r9, pc}
+20014144:	4b17      	ldr	r3, [pc, #92]	; (200141a4 <__register_exitproc+0xc0>)
+20014146:	b30b      	cbz	r3, 2001418c <__register_exitproc+0xa8>
+20014148:	f44f 70c8 	mov.w	r0, #400	; 0x190
+2001414c:	f3af 8000 	nop.w
+20014150:	4603      	mov	r3, r0
+20014152:	b1d8      	cbz	r0, 2001418c <__register_exitproc+0xa8>
+20014154:	f8d4 2148 	ldr.w	r2, [r4, #328]	; 0x148
+20014158:	6002      	str	r2, [r0, #0]
+2001415a:	2100      	movs	r1, #0
+2001415c:	6041      	str	r1, [r0, #4]
+2001415e:	460a      	mov	r2, r1
+20014160:	f8c4 0148 	str.w	r0, [r4, #328]	; 0x148
+20014164:	f04f 0e01 	mov.w	lr, #1
+20014168:	f8c0 1188 	str.w	r1, [r0, #392]	; 0x188
+2001416c:	f8c0 118c 	str.w	r1, [r0, #396]	; 0x18c
+20014170:	2e00      	cmp	r6, #0
+20014172:	d0dc      	beq.n	2001412e <__register_exitproc+0x4a>
+20014174:	e7cc      	b.n	20014110 <__register_exitproc+0x2c>
+20014176:	f8d3 118c 	ldr.w	r1, [r3, #396]	; 0x18c
+2001417a:	430c      	orrs	r4, r1
+2001417c:	f8c3 418c 	str.w	r4, [r3, #396]	; 0x18c
+20014180:	e7d5      	b.n	2001412e <__register_exitproc+0x4a>
+20014182:	f504 73a6 	add.w	r3, r4, #332	; 0x14c
+20014186:	f8c4 3148 	str.w	r3, [r4, #328]	; 0x148
+2001418a:	e7bb      	b.n	20014104 <__register_exitproc+0x20>
+2001418c:	6828      	ldr	r0, [r5, #0]
+2001418e:	f7ff ffa7 	bl	200140e0 <__retarget_lock_release_recursive>
+20014192:	f04f 30ff 	mov.w	r0, #4294967295
+20014196:	e8bd 83f8 	ldmia.w	sp!, {r3, r4, r5, r6, r7, r8, r9, pc}
+2001419a:	bf00      	nop
+2001419c:	200145f8 	.word	0x200145f8
+200141a0:	200141a8 	.word	0x200141a8
+200141a4:	00000000 	.word	0x00000000
+
+200141a8 <_global_impure_ptr>:
+200141a8:	200141d0                                .A. 
+
+200141ac <_init>:
+200141ac:	b5f8      	push	{r3, r4, r5, r6, r7, lr}
+200141ae:	bf00      	nop
+200141b0:	bcf8      	pop	{r3, r4, r5, r6, r7}
+200141b2:	bc08      	pop	{r3}
+200141b4:	469e      	mov	lr, r3
+200141b6:	4770      	bx	lr
+
+200141b8 <__init_array_start>:
+200141b8:	20014089 	.word	0x20014089
+
+200141bc <__frame_dummy_init_array_entry>:
+200141bc:	2001403d                                =@. 
+
+200141c0 <_fini>:
+200141c0:	b5f8      	push	{r3, r4, r5, r6, r7, lr}
+200141c2:	bf00      	nop
+200141c4:	bcf8      	pop	{r3, r4, r5, r6, r7}
+200141c6:	bc08      	pop	{r3}
+200141c8:	469e      	mov	lr, r3
+200141ca:	4770      	bx	lr
+
+200141cc <__fini_array_start>:
+200141cc:	20014019 	.word	0x20014019

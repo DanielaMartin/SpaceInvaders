@@ -28,7 +28,7 @@
 					<Description></Description>
 					<Files>
 						<d4p1:anyType i:type="FileInfo">
-							<AbsolutePath>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\SAM4S_DFP\1.0.57\sam4s\include</AbsolutePath>
+							<AbsolutePath>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\SAM4S_DFP\1.0.56\sam4s\include</AbsolutePath>
 							<Attribute></Attribute>
 							<Category>include</Category>
 							<Condition>C</Condition>
@@ -39,18 +39,18 @@
 							<SourcePath></SourcePath>
 						</d4p1:anyType>
 						<d4p1:anyType i:type="FileInfo">
-							<AbsolutePath>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\SAM4S_DFP\1.0.57\sam4s\include\sam.h</AbsolutePath>
+							<AbsolutePath>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\SAM4S_DFP\1.0.56\sam4s\include\sam.h</AbsolutePath>
 							<Attribute></Attribute>
 							<Category>header</Category>
 							<Condition>C</Condition>
-							<FileContentHash>b05/oCFUaTpDbND7k2iUlQ==</FileContentHash>
+							<FileContentHash>BxC/xxYrWruCFlKYLTv8cg==</FileContentHash>
 							<FileVersion></FileVersion>
 							<Name>sam4s/include/sam.h</Name>
 							<SelectString></SelectString>
 							<SourcePath></SourcePath>
 						</d4p1:anyType>
 						<d4p1:anyType i:type="FileInfo">
-							<AbsolutePath>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\SAM4S_DFP\1.0.57\sam4s\templates\main.c</AbsolutePath>
+							<AbsolutePath>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\SAM4S_DFP\1.0.56\sam4s\templates\main.c</AbsolutePath>
 							<Attribute>template</Attribute>
 							<Category>source</Category>
 							<Condition>C Exe</Condition>
@@ -61,7 +61,7 @@
 							<SourcePath></SourcePath>
 						</d4p1:anyType>
 						<d4p1:anyType i:type="FileInfo">
-							<AbsolutePath>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\SAM4S_DFP\1.0.57\sam4s\templates\main.cpp</AbsolutePath>
+							<AbsolutePath>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\SAM4S_DFP\1.0.56\sam4s\templates\main.cpp</AbsolutePath>
 							<Attribute>template</Attribute>
 							<Category>source</Category>
 							<Condition>C Exe</Condition>
@@ -72,7 +72,7 @@
 							<SourcePath></SourcePath>
 						</d4p1:anyType>
 						<d4p1:anyType i:type="FileInfo">
-							<AbsolutePath>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\SAM4S_DFP\1.0.57\sam4s\gcc\system_sam4s.c</AbsolutePath>
+							<AbsolutePath>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\SAM4S_DFP\1.0.56\sam4s\gcc\system_sam4s.c</AbsolutePath>
 							<Attribute>config</Attribute>
 							<Category>source</Category>
 							<Condition>GCC Exe</Condition>
@@ -83,7 +83,7 @@
 							<SourcePath></SourcePath>
 						</d4p1:anyType>
 						<d4p1:anyType i:type="FileInfo">
-							<AbsolutePath>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\SAM4S_DFP\1.0.57\sam4s\gcc\gcc\startup_sam4s.c</AbsolutePath>
+							<AbsolutePath>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\SAM4S_DFP\1.0.56\sam4s\gcc\gcc\startup_sam4s.c</AbsolutePath>
 							<Attribute>config</Attribute>
 							<Category>source</Category>
 							<Condition>GCC Exe</Condition>
@@ -94,7 +94,7 @@
 							<SourcePath></SourcePath>
 						</d4p1:anyType>
 						<d4p1:anyType i:type="FileInfo">
-							<AbsolutePath>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\SAM4S_DFP\1.0.57\sam4s\gcc\gcc\sam4sd32c_flash.ld</AbsolutePath>
+							<AbsolutePath>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\SAM4S_DFP\1.0.56\sam4s\gcc\gcc\sam4sd32c_flash.ld</AbsolutePath>
 							<Attribute>config</Attribute>
 							<Category>linkerScript</Category>
 							<Condition>GCC Exe</Condition>
@@ -105,7 +105,7 @@
 							<SourcePath></SourcePath>
 						</d4p1:anyType>
 						<d4p1:anyType i:type="FileInfo">
-							<AbsolutePath>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\SAM4S_DFP\1.0.57\sam4s\gcc\gcc\sam4sd32c_sram.ld</AbsolutePath>
+							<AbsolutePath>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\SAM4S_DFP\1.0.56\sam4s\gcc\gcc\sam4sd32c_sram.ld</AbsolutePath>
 							<Attribute>config</Attribute>
 							<Category>other</Category>
 							<Condition>GCC Exe</Condition>
@@ -116,7 +116,7 @@
 							<SourcePath></SourcePath>
 						</d4p1:anyType>
 						<d4p1:anyType i:type="FileInfo">
-							<AbsolutePath>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\SAM4S_DFP\1.0.57\sam4s\gcc\gcc\sam4s_flash.ld</AbsolutePath>
+							<AbsolutePath>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\SAM4S_DFP\1.0.56\sam4s\gcc\gcc\sam4s_flash.ld</AbsolutePath>
 							<Attribute>config</Attribute>
 							<Category>other</Category>
 							<Condition>GCC Exe</Condition>
@@ -127,7 +127,7 @@
 							<SourcePath></SourcePath>
 						</d4p1:anyType>
 						<d4p1:anyType i:type="FileInfo">
-							<AbsolutePath>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\SAM4S_DFP\1.0.57\sam4s\gcc\gcc\sam4s_sram.ld</AbsolutePath>
+							<AbsolutePath>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\SAM4S_DFP\1.0.56\sam4s\gcc\gcc\sam4s_sram.ld</AbsolutePath>
 							<Attribute>config</Attribute>
 							<Category>other</Category>
 							<Condition>GCC Exe</Condition>
@@ -139,8 +139,8 @@
 						</d4p1:anyType>
 					</Files>
 					<PackName>SAM4S_DFP</PackName>
-					<PackPath>C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/SAM4S_DFP/1.0.57/Atmel.SAM4S_DFP.pdsc</PackPath>
-					<PackVersion>1.0.57</PackVersion>
+					<PackPath>C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/SAM4S_DFP/1.0.56/Atmel.SAM4S_DFP.pdsc</PackPath>
+					<PackVersion>1.0.56</PackVersion>
 					<PresentInProject>true</PresentInProject>
 					<ReferenceConditionId>ATSAM4SD32C</ReferenceConditionId>
 					<RteComponents>

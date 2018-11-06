@@ -9,8 +9,17 @@
 #ifndef INCFILE1_H_
 #define INCFILE1_H_
 
+enum gfx_shape{alien, ship, bullet};
+enum alien_shape {type1, type2, type3};
+	
+struct shape(gfx_shape shp, pos position);
+struct pos(gfx_shape shape, uint32_t x, uint32_t y);
 
-
+void move_shape(gfx_shape shape, pos old_pos, pos new_pos);
+void draw_shape(gfx_shape shape, pos position);
+void alien_invade(alien start_pos, gfx_shape[] aliens);
+void shoot(gfx_shape ship, gfx_shape[] aliens);
+void display();
 
 
 #endif /* INCFILE1_H_ */

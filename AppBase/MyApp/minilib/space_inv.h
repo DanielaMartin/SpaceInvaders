@@ -19,10 +19,9 @@ void move_shape(gfx_shape shape, pos old_pos, pos new_pos);
 void draw_shape(gfx_shape shape, pos position);
 void alien_invade(alien start_pos, shape[] aliens);
 void shoot(gfx_shape ship, shape[] aliens);
+void 
 
-/*
-	
-*/
+//	This function will be used to
 void display();
 
 

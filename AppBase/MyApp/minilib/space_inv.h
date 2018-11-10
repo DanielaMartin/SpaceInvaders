@@ -15,9 +15,9 @@ enum alien_shape {type1, type2, type3};
 struct shape(pos position);
 struct pos(gfx_shape shape, uint32_t x, uint32_t y);
 
-void move_shape(gfx_shape shape, pos old_pos, pos new_pos);
-void draw_shape(gfx_shape shape, pos position);
-void alien_invade(alien start_pos, shape[] aliens);
+void move_shape(gfx_shape shape, pos new_pos);
+void draw_shape(gfx_shape shape);
+void alien_invade(shape[] aliens);
 void shoot(gfx_shape ship, shape[] aliens);
 void 
 

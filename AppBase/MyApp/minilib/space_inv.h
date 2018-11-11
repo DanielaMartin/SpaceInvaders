@@ -9,17 +9,16 @@
 #ifndef INCFILE1_H_
 #define INCFILE1_H_
 
-enum gfx_shape{alien, ship, bullet};
+enum gfx_shape{alien, ship};
 enum alien_shape {type1, type2, type3};
 	
-struct shape(pos position, gfx_shape shp);
-struct pos(gfx_shape shape, uint32_t x, uint32_t y);
+struct shape;
 
-void move_shape(gfx_shape shape, pos new_pos);
-void draw_shape(gfx_shape shape);
-void alien_invade(shape[] aliens);
+void move_shape(gfx_shape shp, char[][] nextpos);
+shape make_shape(gfx_shape shape, char pos[][]);
+void draw_shape(gfx_shape shape, char pos[][]);
+void alien_invade(shape aliens[]);
 void shoot(gfx_shape ship, shape[] aliens);
-void 
 
 //	This function will be used to
 void display();

@@ -16,7 +16,7 @@ struct shape;
 
 void move_shape(gfx_shape shp, char[][] nextpos);
 shape make_shape(gfx_shape shape, char pos[][]);
-void draw_shape(gfx_shape shape, char pos[][]);
+void draw_shape(shape shp);
 void alien_invade(shape aliens[]);
 void shoot(gfx_shape ship, shape[] aliens);
 

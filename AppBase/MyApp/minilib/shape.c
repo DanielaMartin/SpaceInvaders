@@ -25,3 +25,6 @@ shape make_shape(gfx_shape shp, char pos[][]) {
 	}
 	return chshape;
 }
+void draw_shape(shape shp) {
+	
+}

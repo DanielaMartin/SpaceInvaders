@@ -5,13 +5,16 @@
  *  Author: CaLePegasus
  */ 
 #include "space_inv.h";
-struct shape {
+typedef struct shape {
 	char body;
-	char position[][];
-}
-shape make_shape(gfx_shape shp, char pos[][]) {	
+	uint16_t x;
+	uint16_t y;
+} Shape;
+// test: try making shape
+shape make_shape(gfx_shape shp, uint16_t x, uint16_t y) {	
 	struct shape chshape;
-	shape.position = pos;
+	shape.x = x;
+	shape.y = y;
 	switch (shp) {
 		case alien:
 		chshape.body = '"';

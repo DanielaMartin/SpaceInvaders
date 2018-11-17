@@ -9,7 +9,7 @@
 #ifndef INCFILE1_H_
 #define INCFILE1_H_
 
-enum gfx_shape{alien, ship};
+enum gfx_shape{alien, ship, bullet};
 enum alien_shape {type1, type2, type3};
 	
 struct shape;

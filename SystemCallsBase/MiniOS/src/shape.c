@@ -12,13 +12,15 @@ struct shape {
 shape make_shape(gfx_shape shp, char pos[][]) {	
 	struct shape chshape;
 	shape.position = pos;
-	switch (shp)
-	{
+	switch (shp) {
 		case alien:
-		chshape.body = 'a';
+		chshape.body = '"';
 		break;
 		case ship:
-		chshape.body = 's';
+		chshape.body = '!';
+		break;
+		case bullet:
+		chshape.body = '$';
 		break;
 		default:
 		break;

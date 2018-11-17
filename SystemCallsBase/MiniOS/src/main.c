@@ -7,19 +7,26 @@
 #include "minios/console/console.h"
 
 bool gameover = false;
+bool button_pressed = false;
+tButtonNum seleced_button;
+
+void button_callback (tButtonNum);
 
 int main(void)
 {
-	/*//Initializes the system
+	//Initializes the system
 	system_init();		
 	
-	//Execute the console
+	/*//Execute the console
 	console_begin( "\n\r" ); //Some serial console like putty use \n\r as newlines,
 							 //others like Atmel's Terminal use only \n. Choose accordingly.
 
 	while(1); //if main returns we want to stop here...
 			  //else garbage gets executed.
 			  //Q: why? (Hint: Picture machine code in memory)*/
+	
+	// start button
+	hal_button_start_int(button_callback);
 	
 	while (true)
 	{
@@ -37,13 +44,39 @@ int main(void)
 			
 			// was a button pressed 
 			// if yes handle it
+			if (button_pressed)
+			{
+				switch(seleced_button)
+				{
+					case Button1:
+						// move the space ship up wards
+						break;
+					case  Button2:
+						// shoot a bullet from the position of the space ship
+						break;
+					case Button3:
+						// move the space ship down wards
+						break;
+					default:
+						/*Error*/
+						break;
+				}
+			}
 			
 			// display the new game stat
+			// including move all existing bullets one step to the right
+			// move every thing else every second or third time
 		}
 		
 		// game is over -> display gameoverstate
 		
 		// wait for button to be pressed for a new game state
 	}
+}
+
+void button_callback (tButtonNum b)
+{
+	button_pressed = true;
+	seleced_button = b;
 }
 

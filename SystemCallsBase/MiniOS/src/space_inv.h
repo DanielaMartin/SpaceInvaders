@@ -14,8 +14,8 @@ enum alien_shape {type1, type2, type3};
 	
 struct shape;
 
-void move_shape(gfx_shape shp, char[][] nextpos);
-shape make_shape(gfx_shape shape, char pos[][]);
+void move_shape(gfx_shape shp, int x, int y);
+shape make_shape(gfx_shape shape, int x, int y);
 void draw_shape(shape shp);
 void alien_invade(shape aliens[]);
 void shoot(gfx_shape ship, shape[] aliens);

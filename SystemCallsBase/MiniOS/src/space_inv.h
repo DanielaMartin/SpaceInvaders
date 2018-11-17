@@ -12,7 +12,7 @@
 enum gfx_shape{alien, ship, bullet};
 enum alien_shape {type1, type2, type3};
 	
-struct shape;
+typedef struct shape Shape;
 
 void move_shape(gfx_shape shp, int x, int y);
 shape make_shape(gfx_shape shape, int x, int y);

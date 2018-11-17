@@ -7,15 +7,15 @@
 #include "minios/console/console.h"
 #include "space_inv.h"
 
-#define AlienNum = 15;
+#define ALIEN_NUM 15
 bool gameover = false;
 bool button_pressed = false;
 tButtonNum seleced_button;
 
 // shape instances
-struct shape spaceship;
-struct shape [AlienNum] aliens;
-struct shape bullet;
+Shape spaceship;
+Shape [ALIEN_NUM] aliens;
+Shape bullet;
 
 
 void button_callback (tButtonNum);

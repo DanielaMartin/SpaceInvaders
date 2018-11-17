@@ -24,6 +24,8 @@ src\minios\syscalls.c
 
 src\minios\system.c
 
+src\shape.c
+
 src\ASF\common\components\display\ssd1306\font.c
 
 src\ASF\common\components\display\ssd1306\ssd1306.c

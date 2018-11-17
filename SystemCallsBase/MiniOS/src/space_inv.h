@@ -9,21 +9,30 @@
 #ifndef INCFILE1_H_
 #define INCFILE1_H_
 
-enum gfx_shape{alien, ship, bullet};
-enum alien_shape {type1, type2, type3};
+#include <stdint-gcc.h>	//defs for size-specific primitive data types
+
+typedef uint32_t gfx_shape;
+typedef uint32_t alien_shape;
+
+enum gfx_shape{alien = 0, ship, bullet};
+enum alien_shape {type1 = 0, type2, type3};
 	
-typedef struct shape Shape;
+typedef struct shape {
+	char body;
+	uint16_t x;
+	uint16_t y;
+} Shape;
 
-void move_shape(gfx_shape shp, int x, int y);
-shape make_shape(gfx_shape shape, int x, int y);
-void draw_shape(shape shp);
-void alien_invade(shape aliens[]);
-void shoot(gfx_shape ship, shape[] aliens);
+void move_shape(gfx_shape shp, uint16_t x, uint16_t y);
+Shape make_shape(gfx_shape shp, uint16_t x, uint16_t y);
+void draw_shape(Shape shp);
+void alien_invade(Shape aliens[]);
+void shoot(gfx_shape ship, Shape aliens []);
 
-void move_shape_up(shape shp);
-void move_shape_down(shape shp);
-void move_shape_left(shape shp);
-void move_shape_right(shape shp);
+void move_shape_up(Shape shp);
+void move_shape_down(Shape shp);
+void move_shape_left(Shape shp);
+void move_shape_right(Shape shp);
 
 //	This function will be used to
 void display();

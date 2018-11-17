@@ -14,8 +14,8 @@ tButtonNum seleced_button;
 
 // shape instances
 Shape spaceship;
-Shape [ALIEN_NUM] aliens;
-Shape bullet;
+Shape aliens [ALIEN_NUM];
+Shape bullets;
 
 
 void button_callback (tButtonNum);

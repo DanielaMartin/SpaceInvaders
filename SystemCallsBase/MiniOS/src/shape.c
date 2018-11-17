@@ -30,3 +30,23 @@ shape make_shape(gfx_shape shp, char pos[][]) {
 void draw_shape(shape shp) {
 	
 }
+
+void move_shape_up(shape shp)
+{
+	
+}
+
+void move_shape_down(shape shp)
+{
+	
+}
+
+void move_shape_left(shape shp)
+{
+	
+}
+
+void move_shape_right(shape shp)
+{
+	
+}

@@ -5,10 +5,18 @@
 #include "minios/system.h"
 #include "minios/hal/hal.h"
 #include "minios/console/console.h"
+#include "space_inv.h"
 
+#define AlienNum = 15;
 bool gameover = false;
 bool button_pressed = false;
 tButtonNum seleced_button;
+
+// shape instances
+struct shape spaceship;
+struct shape [AlienNum] aliens;
+struct shape bullet;
+
 
 void button_callback (tButtonNum);
 
@@ -50,17 +58,20 @@ int main(void)
 				{
 					case Button1:
 						// move the space ship up wards
+						move_shape_up(spaceship);
 						break;
 					case  Button2:
 						// shoot a bullet from the position of the space ship
 						break;
 					case Button3:
 						// move the space ship down wards
+						move_shape_down(spaceship);
 						break;
 					default:
 						/*Error*/
 						break;
 				}
+				button_pressed = false;
 			}
 			
 			// display the new game stat

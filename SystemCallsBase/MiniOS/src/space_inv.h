@@ -20,6 +20,11 @@ void draw_shape(shape shp);
 void alien_invade(shape aliens[]);
 void shoot(gfx_shape ship, shape[] aliens);
 
+void move_shape_up(shape shp);
+void move_shape_down(shape shp);
+void move_shape_left(shape shp);
+void move_shape_right(shape shp);
+
 //	This function will be used to
 void display();
 

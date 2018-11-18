@@ -35,13 +35,11 @@ void draw_shape(Shape shp) {
 	hal_display_putc(shp.body);
 }
 
-void move_shape_up(Shape shp)
-{
+void move_shape_up(Shape shp) {
 	
 }
 
-void move_shape_down(Shape shp)
-{
+void move_shape_down(Shape shp) {
 	
 }
 

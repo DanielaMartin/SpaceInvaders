@@ -54,11 +54,11 @@
 extern uint8_t *font_table[95];
 
 /*======= Characters data =======*/
-extern uint8_t Font08px_32[3];
-extern uint8_t Font08px_33[2];
-extern uint8_t Font08px_34[4];
-extern uint8_t Font08px_35[6];
-extern uint8_t Font08px_36[6];
+extern uint8_t Font08px_32[9];
+extern uint8_t Font08px_33[9];
+extern uint8_t Font08px_34[9];
+extern uint8_t Font08px_35[9];
+extern uint8_t Font08px_36[9];
 extern uint8_t Font08px_37[6];
 extern uint8_t Font08px_38[6];
 extern uint8_t Font08px_39[2];

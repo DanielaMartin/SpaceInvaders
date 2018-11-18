@@ -157,7 +157,6 @@ void ssd1306_write_text(const char *string)
 			for (i = 1; i <= char_ptr[0]; i++) {
 				ssd1306_write_data(char_ptr[i]);
 			}
-			ssd1306_write_data(0x00);
 		}
 			string++;
 	}

@@ -154,35 +154,59 @@ uint8_t * font_table[95] = {
 /*===================================*/
 
 /**  0x20 - 32  - ' '  **/
-uint8_t Font08px_32[3] = {2,
+uint8_t Font08px_32[9] = {8,
+	bits2bytes(0,0,0,0,0,0,0,0),
+	bits2bytes(0,0,0,0,0,0,0,0),
+	bits2bytes(0,0,0,0,0,0,0,0),
+	bits2bytes(0,0,0,0,0,0,0,0),
+	bits2bytes(0,0,0,0,0,0,0,0),
+	bits2bytes(0,0,0,0,0,0,0,0),
 	bits2bytes(0,0,0,0,0,0,0,0),
 	bits2bytes(0,0,0,0,0,0,0,0)};
 
-/**  0x21 - 33  - '!'  **/
-uint8_t Font08px_33[2] = {1,
-	bits2bytes(1,0,1,1,1,1,1,0)};
+/**  0x21 - 33  - '!'  space ship**/ 
+uint8_t Font08px_33[9] = {8,
+	bits2bytes(1,0,0,1,1,0,0,1),
+	bits2bytes(0,1,1,1,1,1,1,0),
+	bits2bytes(0,0,1,1,1,1,0,0),
+	bits2bytes(0,0,1,0,0,1,0,0),
+	bits2bytes(0,0,1,0,0,1,0,0),
+	bits2bytes(0,0,1,1,1,1,0,0),
+	bits2bytes(0,0,1,1,1,1,0,0),
+	bits2bytes(0,0,0,1,1,0,0,0)};
 
-/**  0x22 - 34  - '"'  **/
-uint8_t Font08px_34[4] = {3,
-	bits2bytes(0,0,0,0,0,1,1,0),
-	bits2bytes(0,0,0,0,0,0,0,0),
-	bits2bytes(0,0,0,0,0,1,1,0)};
+/**  0x22 - 34  - '"'  alien 1**/
+uint8_t Font08px_34[9] = {8,
+	bits2bytes(0,0,0,0,0,1,0,0),
+	bits2bytes(1,0,1,1,1,1,0,1),
+	bits2bytes(0,1,1,0,0,1,1,0),
+	bits2bytes(0,0,1,1,1,1,0,0),
+	bits2bytes(0,0,1,1,1,1,1,0),
+	bits2bytes(0,1,1,0,0,1,0,1),
+	bits2bytes(1,0,1,1,1,1,0,0),
+	bits2bytes(0,0,0,0,0,1,0,0)};
 
 /**  0x23 - 35  - '#'  **/
-uint8_t Font08px_35[6] = {5,
-	bits2bytes(0,0,1,0,1,0,0,0),
-	bits2bytes(1,1,1,1,1,1,1,0),
-	bits2bytes(0,0,1,0,1,0,0,0),
-	bits2bytes(1,1,1,1,1,1,1,0),
-	bits2bytes(0,0,1,0,1,0,0,0)};
+uint8_t Font08px_35[9] = {8,
+	bits2bytes(0,0,0,1,1,0,0,0),
+	bits2bytes(0,0,0,1,1,0,0,0),
+	bits2bytes(0,0,0,1,1,0,0,0),
+	bits2bytes(0,0,0,1,1,0,0,0),
+	bits2bytes(0,0,0,0,0,0,0,0),
+	bits2bytes(0,0,0,0,0,0,0,0),
+	bits2bytes(0,0,0,0,0,0,0,0),
+	bits2bytes(0,0,0,0,0,0,0,0)};
 
 /**  0x24 - 36  - '$'  **/
-uint8_t Font08px_36[6] = {5,
-	bits2bytes(0,1,0,0,1,0,0,0),
-	bits2bytes(0,1,0,1,0,1,0,0),
-	bits2bytes(1,1,1,1,1,1,1,0),
-	bits2bytes(0,1,0,1,0,1,0,0),
-	bits2bytes(0,0,1,0,0,1,0,0)};
+uint8_t Font08px_36[9] = {8,
+	bits2bytes(0,0,0,0,0,0,0,0),
+	bits2bytes(0,0,0,0,0,0,0,0),
+	bits2bytes(0,0,0,0,0,0,0,0),
+	bits2bytes(0,0,0,0,0,0,0,0),
+	bits2bytes(0,0,0,1,1,0,0,0),
+	bits2bytes(0,0,0,1,1,0,0,0),
+	bits2bytes(0,0,0,1,1,0,0,0),
+	bits2bytes(0,0,0,1,1,0,0,0)};
 
 /**  0x25 - 37  - '%'  **/
 uint8_t Font08px_37[6] = {5,

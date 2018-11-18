@@ -10,6 +10,7 @@
 #define INCFILE1_H_
 
 #include <stdint-gcc.h>	//defs for size-specific primitive data types
+#include <stdbool.h>
 
 typedef uint32_t gfx_shape;
 typedef uint32_t alien_shape;
@@ -21,6 +22,7 @@ typedef struct shape {
 	char body;
 	uint16_t x;
 	uint16_t y;
+	bool exists;
 } Shape;
 
 void move_shape(gfx_shape shp, uint16_t x, uint16_t y);

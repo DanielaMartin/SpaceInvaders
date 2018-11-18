@@ -24,6 +24,7 @@ Shape make_shape(gfx_shape shp, uint16_t x, uint16_t y) {
 		default:
 		break;
 	}
+	chshape.exists = true;
 	return chshape;
 }
 void draw_shape(Shape shp) {

@@ -20,7 +20,6 @@ tButtonNum seleced_button;
 Shape spaceship;
 Shape aliens [ALIEN_NUM];
 Shape bullets;
-bool hasBullet = false;
 
 
 
@@ -56,6 +55,10 @@ int main(void)
 		// initialize the spaceship
 		spaceship = make_shape(ship, 0, 2);
 		
+		// create a bullet and set it to not existing
+		bullets = make_shape(bullet, 0, 0);
+		bullets.exists = false;
+		
 		// display all the aliens and the space ship
 		for (uint16_t i = 0; i < 15; i++)
 		{
@@ -83,13 +86,13 @@ int main(void)
 						// shoot a bullet from the position of the space ship
 						// is there a bullet already? if yes do not shoot.
 						// if no shoot
-						if (!hasBullet)
+						if (!bullets.exists)
 						{
 							// create a new bullet
 							// set bullet position
 							// it should be the position right to the current position of the spaceship 
 							bullets = make_shape(bullet, (spaceship.x + 1), spaceship.y);
-							hasBullet = true;
+							bullets.exists = true;
 						}
 						break;
 					case Button3:
@@ -104,14 +107,23 @@ int main(void)
 			}
 			
 			// advance bullets
-			if (hasBullet)
+			if (bullets.exists)
 				move_shape_right(bullets);
+			// move every thing else every second or third time
 			
 			// check for collisions
 			
 			// display the new game stat
-			// including move all existing bullets one step to the right
-			// move every thing else every second or third time
+			// display all the aliens and the space ship
+			for (uint16_t i = 0; i < 15; i++)
+			{
+				// if the alien is still alive
+				if (aliens[i].exists)
+					draw_shape(aliens[i]);
+			}
+			draw_shape(spaceship);
+			if (bullets.exists)
+				draw_shape(bullets);
 			
 			// check if all the aliens are gone -> then game is over
 		}

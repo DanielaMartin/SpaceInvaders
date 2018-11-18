@@ -4,7 +4,6 @@
 
 #include "minios/system.h"
 #include "minios/hal/hal.h"
-#include "minios/console/console.h"
 #include "space_inv.h"
 #include <stddef.h>
 #include <stdbool.h>

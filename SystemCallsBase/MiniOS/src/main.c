@@ -53,6 +53,17 @@ int main(void)
 			x = (i % 4 == 3) ? x+1 : x;
 		}
 		
+		// initialize the spaceship
+		spaceship = make_shape(ship, 0, 2);
+		
+		// display all the aliens and the space ship
+		for (uint16_t i = 0; i < 15; i++)
+		{
+			draw_shape(aliens[i]);
+		}
+		draw_shape(spaceship);
+		
+		
 		while (!gameover)
 		{
 			// do a delay
@@ -93,12 +104,16 @@ int main(void)
 			}
 			
 			// advance bullets
+			if (hasBullet)
+				move_shape_right(bullets);
 			
 			// check for collisions
 			
 			// display the new game stat
 			// including move all existing bullets one step to the right
 			// move every thing else every second or third time
+			
+			// check if all the aliens are gone -> then game is over
 		}
 		
 		// game is over -> display gameoverstate

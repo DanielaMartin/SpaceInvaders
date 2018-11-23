@@ -1508,14 +1508,309 @@ Discarded input sections
  .group         0x00000000        0x8 src/shape.o
  .group         0x00000000        0x8 src/shape.o
  .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
+ .group         0x00000000        0x8 src/shape.o
  .text          0x00000000        0x0 src/shape.o
  .data          0x00000000        0x0 src/shape.o
  .bss           0x00000000        0x0 src/shape.o
  .text.move_shape_left
                 0x00000000        0xc src/shape.o
+ .bss.cpu_irq_critical_section_counter
+                0x00000000        0x4 src/shape.o
+ .bss.cpu_irq_prev_interrupt_state
+                0x00000000        0x1 src/shape.o
  .debug_macro   0x00000000      0x8d4 src/shape.o
  .debug_macro   0x00000000      0x34e src/shape.o
  .debug_macro   0x00000000       0x22 src/shape.o
+ .debug_macro   0x00000000       0x10 src/shape.o
+ .debug_macro   0x00000000      0x16d src/shape.o
+ .debug_macro   0x00000000      0x64b src/shape.o
+ .debug_macro   0x00000000       0x76 src/shape.o
+ .debug_macro   0x00000000       0x16 src/shape.o
+ .debug_macro   0x00000000      0x6e4 src/shape.o
+ .debug_macro   0x00000000       0x22 src/shape.o
+ .debug_macro   0x00000000       0x87 src/shape.o
+ .debug_macro   0x00000000       0x51 src/shape.o
+ .debug_macro   0x00000000       0xef src/shape.o
+ .debug_macro   0x00000000       0x6a src/shape.o
+ .debug_macro   0x00000000       0x27 src/shape.o
+ .debug_macro   0x00000000       0x3b src/shape.o
+ .debug_macro   0x00000000       0x2d src/shape.o
+ .debug_macro   0x00000000       0x26 src/shape.o
+ .debug_macro   0x00000000      0xbbf src/shape.o
+ .debug_macro   0x00000000      0x159 src/shape.o
+ .debug_macro   0x00000000      0xaaf src/shape.o
+ .debug_macro   0x00000000      0x1b9 src/shape.o
+ .debug_macro   0x00000000      0x11e src/shape.o
+ .debug_macro   0x00000000       0xac src/shape.o
+ .debug_macro   0x00000000      0x401 src/shape.o
+ .debug_macro   0x00000000      0x106 src/shape.o
+ .debug_macro   0x00000000       0x1c src/shape.o
+ .debug_macro   0x00000000      0x738 src/shape.o
+ .debug_macro   0x00000000      0x2d2 src/shape.o
+ .debug_macro   0x00000000       0xbe src/shape.o
+ .debug_macro   0x00000000     0x280b src/shape.o
+ .debug_macro   0x00000000      0x777 src/shape.o
+ .debug_macro   0x00000000      0xa8e src/shape.o
+ .debug_macro   0x00000000       0x9a src/shape.o
+ .debug_macro   0x00000000      0x3d8 src/shape.o
+ .debug_macro   0x00000000       0x64 src/shape.o
+ .debug_macro   0x00000000      0x1ae src/shape.o
+ .debug_macro   0x00000000      0x386 src/shape.o
+ .debug_macro   0x00000000      0x624 src/shape.o
+ .debug_macro   0x00000000      0x690 src/shape.o
+ .debug_macro   0x00000000      0x59f src/shape.o
+ .debug_macro   0x00000000      0x34d src/shape.o
+ .debug_macro   0x00000000      0x28c src/shape.o
+ .debug_macro   0x00000000      0x2d6 src/shape.o
+ .debug_macro   0x00000000      0x6d9 src/shape.o
+ .debug_macro   0x00000000       0x76 src/shape.o
+ .debug_macro   0x00000000       0xb8 src/shape.o
+ .debug_macro   0x00000000       0xb2 src/shape.o
+ .debug_macro   0x00000000       0x88 src/shape.o
+ .debug_macro   0x00000000      0x105 src/shape.o
+ .debug_macro   0x00000000      0x105 src/shape.o
+ .debug_macro   0x00000000       0x88 src/shape.o
+ .debug_macro   0x00000000       0x88 src/shape.o
+ .debug_macro   0x00000000      0x2cd src/shape.o
+ .debug_macro   0x00000000       0xb2 src/shape.o
+ .debug_macro   0x00000000       0xb2 src/shape.o
+ .debug_macro   0x00000000       0x52 src/shape.o
+ .debug_macro   0x00000000       0xac src/shape.o
+ .debug_macro   0x00000000       0x7c src/shape.o
+ .debug_macro   0x00000000       0x40 src/shape.o
+ .debug_macro   0x00000000       0x64 src/shape.o
+ .debug_macro   0x00000000       0x46 src/shape.o
+ .debug_macro   0x00000000       0x88 src/shape.o
+ .debug_macro   0x00000000       0x4c src/shape.o
+ .debug_macro   0x00000000       0xa6 src/shape.o
+ .debug_macro   0x00000000       0x7c src/shape.o
+ .debug_macro   0x00000000       0x16 src/shape.o
+ .debug_macro   0x00000000       0x7c src/shape.o
+ .debug_macro   0x00000000       0x22 src/shape.o
+ .debug_macro   0x00000000       0x22 src/shape.o
+ .debug_macro   0x00000000      0x195 src/shape.o
+ .debug_macro   0x00000000      0x165 src/shape.o
+ .debug_macro   0x00000000      0x165 src/shape.o
+ .debug_macro   0x00000000       0x1c src/shape.o
+ .debug_macro   0x00000000       0x2e src/shape.o
+ .debug_macro   0x00000000       0x22 src/shape.o
+ .debug_macro   0x00000000       0x1c src/shape.o
+ .debug_macro   0x00000000       0x52 src/shape.o
+ .debug_macro   0x00000000       0x10 src/shape.o
+ .debug_macro   0x00000000      0x234 src/shape.o
+ .debug_macro   0x00000000      0x938 src/shape.o
+ .debug_macro   0x00000000      0x12a src/shape.o
+ .debug_macro   0x00000000       0x58 src/shape.o
+ .debug_macro   0x00000000       0x35 src/shape.o
+ .debug_macro   0x00000000       0x9c src/shape.o
+ .debug_macro   0x00000000       0x16 src/shape.o
+ .debug_macro   0x00000000       0x35 src/shape.o
+ .debug_macro   0x00000000      0x353 src/shape.o
+ .debug_macro   0x00000000       0x10 src/shape.o
+ .debug_macro   0x00000000       0x58 src/shape.o
+ .debug_macro   0x00000000       0x1f src/shape.o
+ .debug_macro   0x00000000       0x43 src/shape.o
+ .debug_macro   0x00000000       0x20 src/shape.o
+ .debug_macro   0x00000000      0x187 src/shape.o
+ .debug_macro   0x00000000       0x10 src/shape.o
+ .debug_macro   0x00000000       0x1c src/shape.o
+ .debug_macro   0x00000000       0x52 src/shape.o
+ .debug_macro   0x00000000       0x40 src/shape.o
+ .debug_macro   0x00000000       0x10 src/shape.o
+ .debug_macro   0x00000000       0x40 src/shape.o
+ .debug_macro   0x00000000       0xd7 src/shape.o
+ .debug_macro   0x00000000       0x16 src/shape.o
+ .debug_macro   0x00000000      0x18b src/shape.o
+ .debug_macro   0x00000000       0x16 src/shape.o
+ .debug_macro   0x00000000       0x16 src/shape.o
+ .debug_macro   0x00000000       0x29 src/shape.o
+ .debug_macro   0x00000000       0x75 src/shape.o
+ .debug_macro   0x00000000       0x3f src/shape.o
+ .debug_macro   0x00000000      0x3ca src/shape.o
+ .debug_macro   0x00000000       0x1c src/shape.o
+ .debug_macro   0x00000000       0x28 src/shape.o
+ .debug_macro   0x00000000      0x2c6 src/shape.o
+ .debug_macro   0x00000000       0x3a src/shape.o
+ .debug_macro   0x00000000      0x8de src/shape.o
+ .debug_macro   0x00000000       0x58 src/shape.o
+ .debug_macro   0x00000000       0x64 src/shape.o
+ .debug_macro   0x00000000       0x46 src/shape.o
+ .debug_macro   0x00000000       0x90 src/shape.o
+ .debug_macro   0x00000000       0x28 src/shape.o
+ .debug_macro   0x00000000       0x23 src/shape.o
+ .debug_macro   0x00000000       0x9a src/shape.o
+ .debug_macro   0x00000000       0xe8 src/shape.o
+ .debug_macro   0x00000000       0x10 src/shape.o
+ .debug_macro   0x00000000       0x82 src/shape.o
+ .debug_macro   0x00000000       0x9b src/shape.o
+ .debug_macro   0x00000000       0xe7 src/shape.o
+ .debug_macro   0x00000000       0x94 src/shape.o
+ .debug_macro   0x00000000       0x40 src/shape.o
+ .debug_macro   0x00000000       0x88 src/shape.o
+ .debug_macro   0x00000000      0x1c8 src/shape.o
+ .debug_macro   0x00000000       0x4f src/shape.o
+ .debug_macro   0x00000000       0x34 src/shape.o
+ .debug_macro   0x00000000       0x1c src/shape.o
+ .debug_macro   0x00000000       0x22 src/shape.o
+ .debug_macro   0x00000000       0x9a src/shape.o
+ .debug_macro   0x00000000       0x16 src/shape.o
+ .debug_macro   0x00000000       0x22 src/shape.o
+ .debug_macro   0x00000000       0x34 src/shape.o
+ .debug_macro   0x00000000       0x10 src/shape.o
+ .debug_macro   0x00000000       0x3a src/shape.o
+ .debug_macro   0x00000000       0xff src/shape.o
+ .debug_macro   0x00000000       0x1c src/shape.o
+ .debug_macro   0x00000000       0x2e src/shape.o
+ .debug_macro   0x00000000       0x2e src/shape.o
+ .debug_macro   0x00000000       0x4c src/shape.o
+ .debug_macro   0x00000000       0x10 src/shape.o
+ .debug_macro   0x00000000       0x16 src/shape.o
+ .debug_macro   0x00000000       0x10 src/shape.o
  .group         0x00000000        0x8 src/ASF/common/components/display/ssd1306/font.o
  .group         0x00000000        0x8 src/ASF/common/components/display/ssd1306/font.o
  .group         0x00000000        0x8 src/ASF/common/components/display/ssd1306/font.o
@@ -1871,7 +2166,7 @@ Discarded input sections
  .data          0x00000000        0x0 src/ASF/common/components/display/ssd1306/ssd1306.o
  .bss           0x00000000        0x0 src/ASF/common/components/display/ssd1306/ssd1306.o
  .text.ssd1306_write_text
-                0x00000000       0xb8 src/ASF/common/components/display/ssd1306/ssd1306.o
+                0x00000000       0x8c src/ASF/common/components/display/ssd1306/ssd1306.o
  .bss.cpu_irq_critical_section_counter
                 0x00000000        0x4 src/ASF/common/components/display/ssd1306/ssd1306.o
  .bss.cpu_irq_prev_interrupt_state
@@ -11084,7 +11379,7 @@ LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin
                 0x00003000                __stack_size__ = DEFINED (__stack_size__)?__stack_size__:0x3000
                 0x20013ffc                __ram_end__ = ((ORIGIN (ram) + LENGTH (ram)) - 0x4)
 
-.text           0x00400000     0x3dfc
+.text           0x00400000     0x3e98
                 0x00400000                . = ALIGN (0x4)
                 0x00400000                _sfixed = .
  *(.vectors .vectors.*)
@@ -11233,507 +11528,509 @@ LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin
  .text.system_init
                 0x00400d34       0x3c src/minios/system.o
                 0x00400d34                system_init
- .text.make_shape
-                0x00400d70       0x22 src/shape.o
-                0x00400d70                make_shape
- .text.draw_shape
-                0x00400d92        0xc src/shape.o
-                0x00400d92                draw_shape
- .text.move_shape_up
-                0x00400d9e        0xc src/shape.o
-                0x00400d9e                move_shape_up
- .text.move_shape_down
-                0x00400daa        0xc src/shape.o
-                0x00400daa                move_shape_down
- .text.move_shape_right
-                0x00400db6        0xc src/shape.o
-                0x00400db6                move_shape_right
- *fill*         0x00400dc2        0x2 
  .text.ssd1306_write_command
-                0x00400dc4       0x48 src/ASF/common/components/display/ssd1306/ssd1306.o
+                0x00400d70       0x48 src/shape.o
+ .text.make_shape
+                0x00400db8       0x22 src/shape.o
+                0x00400db8                make_shape
+ *fill*         0x00400dda        0x2 
+ .text.draw_shape
+                0x00400ddc       0x50 src/shape.o
+                0x00400ddc                draw_shape
+ .text.move_shape_up
+                0x00400e2c        0xc src/shape.o
+                0x00400e2c                move_shape_up
+ .text.move_shape_down
+                0x00400e38        0xc src/shape.o
+                0x00400e38                move_shape_down
+ .text.move_shape_right
+                0x00400e44        0xc src/shape.o
+                0x00400e44                move_shape_right
+ .text.ssd1306_write_command
+                0x00400e50       0x48 src/ASF/common/components/display/ssd1306/ssd1306.o
  .text.ssd1306_init
-                0x00400e0c       0xb8 src/ASF/common/components/display/ssd1306/ssd1306.o
-                0x00400e0c                ssd1306_init
+                0x00400e98       0xb8 src/ASF/common/components/display/ssd1306/ssd1306.o
+                0x00400e98                ssd1306_init
  .text.at30tse_init
-                0x00400ec4       0x38 src/ASF/common/components/memory/eeprom/at30tse75x/at30tse75x.o
-                0x00400ec4                at30tse_init
+                0x00400f50       0x38 src/ASF/common/components/memory/eeprom/at30tse75x/at30tse75x.o
+                0x00400f50                at30tse_init
  .text.at30tse_read_register
-                0x00400efc       0x34 src/ASF/common/components/memory/eeprom/at30tse75x/at30tse75x.o
-                0x00400efc                at30tse_read_register
+                0x00400f88       0x34 src/ASF/common/components/memory/eeprom/at30tse75x/at30tse75x.o
+                0x00400f88                at30tse_read_register
  .text.at30tse_read_temperature
-                0x00400f30       0xd0 src/ASF/common/components/memory/eeprom/at30tse75x/at30tse75x.o
-                0x00400f30                at30tse_read_temperature
+                0x00400fbc       0xd0 src/ASF/common/components/memory/eeprom/at30tse75x/at30tse75x.o
+                0x00400fbc                at30tse_read_temperature
  .text.sd_mmc_configure_slot
-                0x00401000       0x2c src/ASF/common/components/memory/sd_mmc/sd_mmc.o
+                0x0040108c       0x2c src/ASF/common/components/memory/sd_mmc/sd_mmc.o
  .text.sd_mmc_select_slot
-                0x0040102c       0xfc src/ASF/common/components/memory/sd_mmc/sd_mmc.o
+                0x004010b8       0xfc src/ASF/common/components/memory/sd_mmc/sd_mmc.o
  .text.sd_mmc_cmd13
-                0x00401128       0x38 src/ASF/common/components/memory/sd_mmc/sd_mmc.o
+                0x004011b4       0x38 src/ASF/common/components/memory/sd_mmc/sd_mmc.o
  .text.sd_mmc_cmd9_spi
-                0x00401160       0x50 src/ASF/common/components/memory/sd_mmc/sd_mmc.o
+                0x004011ec       0x50 src/ASF/common/components/memory/sd_mmc/sd_mmc.o
  .text.sd_mmc_deselect_slot
-                0x004011b0       0x1c src/ASF/common/components/memory/sd_mmc/sd_mmc.o
+                0x0040123c       0x1c src/ASF/common/components/memory/sd_mmc/sd_mmc.o
  .text.sd_mmc_init
-                0x004011cc       0x2c src/ASF/common/components/memory/sd_mmc/sd_mmc.o
-                0x004011cc                sd_mmc_init
+                0x00401258       0x2c src/ASF/common/components/memory/sd_mmc/sd_mmc.o
+                0x00401258                sd_mmc_init
  .text.sd_mmc_check
-                0x004011f8      0x498 src/ASF/common/components/memory/sd_mmc/sd_mmc.o
-                0x004011f8                sd_mmc_check
+                0x00401284      0x498 src/ASF/common/components/memory/sd_mmc/sd_mmc.o
+                0x00401284                sd_mmc_check
  .text.sd_mmc_spi_wait_busy
-                0x00401690       0x58 src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
+                0x0040171c       0x58 src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
  .text.sd_mmc_spi_start_read_block
-                0x004016e8       0x60 src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
+                0x00401774       0x60 src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
  .text.sd_mmc_spi_init
-                0x00401748       0x30 src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
-                0x00401748                sd_mmc_spi_init
+                0x004017d4       0x30 src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
+                0x004017d4                sd_mmc_spi_init
  .text.sd_mmc_spi_select_device
-                0x00401778       0x40 src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
-                0x00401778                sd_mmc_spi_select_device
+                0x00401804       0x40 src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
+                0x00401804                sd_mmc_spi_select_device
  .text.sd_mmc_spi_deselect_device
-                0x004017b8       0x28 src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
-                0x004017b8                sd_mmc_spi_deselect_device
+                0x00401844       0x28 src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
+                0x00401844                sd_mmc_spi_deselect_device
  .text.sd_mmc_spi_send_clock
-                0x004017e0       0x38 src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
-                0x004017e0                sd_mmc_spi_send_clock
+                0x0040186c       0x38 src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
+                0x0040186c                sd_mmc_spi_send_clock
  .text.sd_mmc_spi_adtc_start
-                0x00401818      0x188 src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
-                0x00401818                sd_mmc_spi_adtc_start
+                0x004018a4      0x188 src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
+                0x004018a4                sd_mmc_spi_adtc_start
  .text.sd_mmc_spi_send_cmd
-                0x004019a0       0x18 src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
-                0x004019a0                sd_mmc_spi_send_cmd
+                0x00401a2c       0x18 src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
+                0x00401a2c                sd_mmc_spi_send_cmd
  .text.sd_mmc_spi_get_response
-                0x004019b8        0xc src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
-                0x004019b8                sd_mmc_spi_get_response
+                0x00401a44        0xc src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
+                0x00401a44                sd_mmc_spi_get_response
  .text.sd_mmc_spi_read_word
-                0x004019c4       0x74 src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
-                0x004019c4                sd_mmc_spi_read_word
+                0x00401a50       0x74 src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
+                0x00401a50                sd_mmc_spi_read_word
  .text.sd_mmc_spi_start_read_blocks
-                0x00401a38       0x7c src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
-                0x00401a38                sd_mmc_spi_start_read_blocks
+                0x00401ac4       0x7c src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
+                0x00401ac4                sd_mmc_spi_start_read_blocks
  .text.sd_mmc_spi_wait_end_of_read_blocks
-                0x00401ab4        0x4 src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
-                0x00401ab4                sd_mmc_spi_wait_end_of_read_blocks
+                0x00401b40        0x4 src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
+                0x00401b40                sd_mmc_spi_wait_end_of_read_blocks
  .text.sysclk_init
-                0x00401ab8       0x64 src/ASF/common/services/clock/sam4s/sysclk.o
-                0x00401ab8                sysclk_init
+                0x00401b44       0x64 src/ASF/common/services/clock/sam4s/sysclk.o
+                0x00401b44                sysclk_init
  .text.spi_master_init
-                0x00401b1c       0x54 src/ASF/common/services/spi/sam_spi/spi_master.o
-                0x00401b1c                spi_master_init
+                0x00401ba8       0x54 src/ASF/common/services/spi/sam_spi/spi_master.o
+                0x00401ba8                spi_master_init
  .text.spi_master_setup_device
-                0x00401b70       0x80 src/ASF/common/services/spi/sam_spi/spi_master.o
-                0x00401b70                spi_master_setup_device
+                0x00401bfc       0x80 src/ASF/common/services/spi/sam_spi/spi_master.o
+                0x00401bfc                spi_master_setup_device
  .text.spi_select_device
-                0x00401bf0       0x30 src/ASF/common/services/spi/sam_spi/spi_master.o
-                0x00401bf0                spi_select_device
+                0x00401c7c       0x30 src/ASF/common/services/spi/sam_spi/spi_master.o
+                0x00401c7c                spi_select_device
  .text.spi_deselect_device
-                0x00401c20       0x20 src/ASF/common/services/spi/sam_spi/spi_master.o
-                0x00401c20                spi_deselect_device
+                0x00401cac       0x20 src/ASF/common/services/spi/sam_spi/spi_master.o
+                0x00401cac                spi_deselect_device
  .text.spi_write_packet
-                0x00401c40       0x34 src/ASF/common/services/spi/sam_spi/spi_master.o
-                0x00401c40                spi_write_packet
+                0x00401ccc       0x34 src/ASF/common/services/spi/sam_spi/spi_master.o
+                0x00401ccc                spi_write_packet
  .text.spi_read_packet
-                0x00401c74       0x54 src/ASF/common/services/spi/sam_spi/spi_master.o
-                0x00401c74                spi_read_packet
+                0x00401d00       0x54 src/ASF/common/services/spi/sam_spi/spi_master.o
+                0x00401d00                spi_read_packet
  .text.board_init
-                0x00401cc8      0x110 src/ASF/sam/boards/sam4s_xplained_pro/init.o
-                0x00401cc8                board_init
+                0x00401d54      0x110 src/ASF/sam/boards/sam4s_xplained_pro/init.o
+                0x00401d54                board_init
  .text.adc_init
-                0x00401dd8       0x34 src/ASF/sam/drivers/adc/adc.o
-                0x00401dd8                adc_init
+                0x00401e64       0x34 src/ASF/sam/drivers/adc/adc.o
+                0x00401e64                adc_init
  .text.adc_configure_trigger
-                0x00401e0c        0xe src/ASF/sam/drivers/adc/adc.o
-                0x00401e0c                adc_configure_trigger
+                0x00401e98        0xe src/ASF/sam/drivers/adc/adc.o
+                0x00401e98                adc_configure_trigger
  .text.adc_start
-                0x00401e1a        0x6 src/ASF/sam/drivers/adc/adc.o
-                0x00401e1a                adc_start
+                0x00401ea6        0x6 src/ASF/sam/drivers/adc/adc.o
+                0x00401ea6                adc_start
  .text.adc_enable_channel
-                0x00401e20        0xa src/ASF/sam/drivers/adc/adc.o
-                0x00401e20                adc_enable_channel
+                0x00401eac        0xa src/ASF/sam/drivers/adc/adc.o
+                0x00401eac                adc_enable_channel
  .text.adc_get_channel_value
-                0x00401e2a        0xe src/ASF/sam/drivers/adc/adc.o
-                0x00401e2a                adc_get_channel_value
+                0x00401eb6        0xe src/ASF/sam/drivers/adc/adc.o
+                0x00401eb6                adc_get_channel_value
  .text.pio_set_debounce_filter
-                0x00401e38       0x1a src/ASF/sam/drivers/pio/pio.o
-                0x00401e38                pio_set_debounce_filter
+                0x00401ec4       0x1a src/ASF/sam/drivers/pio/pio.o
+                0x00401ec4                pio_set_debounce_filter
  .text.pio_set_peripheral
-                0x00401e52       0x90 src/ASF/sam/drivers/pio/pio.o
-                0x00401e52                pio_set_peripheral
+                0x00401ede       0x90 src/ASF/sam/drivers/pio/pio.o
+                0x00401ede                pio_set_peripheral
  .text.pio_set_input
-                0x00401ee2       0x32 src/ASF/sam/drivers/pio/pio.o
-                0x00401ee2                pio_set_input
+                0x00401f6e       0x32 src/ASF/sam/drivers/pio/pio.o
+                0x00401f6e                pio_set_input
  .text.pio_set_output
-                0x00401f14       0x26 src/ASF/sam/drivers/pio/pio.o
-                0x00401f14                pio_set_output
- *fill*         0x00401f3a        0x2 
+                0x00401fa0       0x26 src/ASF/sam/drivers/pio/pio.o
+                0x00401fa0                pio_set_output
+ *fill*         0x00401fc6        0x2 
  .text.pio_configure
-                0x00401f3c       0x8c src/ASF/sam/drivers/pio/pio.o
-                0x00401f3c                pio_configure
+                0x00401fc8       0x8c src/ASF/sam/drivers/pio/pio.o
+                0x00401fc8                pio_configure
  .text.pio_configure_interrupt
-                0x00401fc8       0x2e src/ASF/sam/drivers/pio/pio.o
-                0x00401fc8                pio_configure_interrupt
+                0x00402054       0x2e src/ASF/sam/drivers/pio/pio.o
+                0x00402054                pio_configure_interrupt
  .text.pio_enable_interrupt
-                0x00401ff6        0x4 src/ASF/sam/drivers/pio/pio.o
-                0x00401ff6                pio_enable_interrupt
+                0x00402082        0x4 src/ASF/sam/drivers/pio/pio.o
+                0x00402082                pio_enable_interrupt
  .text.pio_disable_interrupt
-                0x00401ffa        0x4 src/ASF/sam/drivers/pio/pio.o
-                0x00401ffa                pio_disable_interrupt
+                0x00402086        0x4 src/ASF/sam/drivers/pio/pio.o
+                0x00402086                pio_disable_interrupt
  .text.pio_get_interrupt_status
-                0x00401ffe        0x4 src/ASF/sam/drivers/pio/pio.o
-                0x00401ffe                pio_get_interrupt_status
+                0x0040208a        0x4 src/ASF/sam/drivers/pio/pio.o
+                0x0040208a                pio_get_interrupt_status
  .text.pio_get_interrupt_mask
-                0x00402002        0x4 src/ASF/sam/drivers/pio/pio.o
-                0x00402002                pio_get_interrupt_mask
+                0x0040208e        0x4 src/ASF/sam/drivers/pio/pio.o
+                0x0040208e                pio_get_interrupt_mask
  .text.pio_get_pin_value
-                0x00402006       0x1c src/ASF/sam/drivers/pio/pio.o
-                0x00402006                pio_get_pin_value
- *fill*         0x00402022        0x2 
+                0x00402092       0x1c src/ASF/sam/drivers/pio/pio.o
+                0x00402092                pio_get_pin_value
+ *fill*         0x004020ae        0x2 
  .text.pio_configure_pin
-                0x00402024      0x120 src/ASF/sam/drivers/pio/pio.o
-                0x00402024                pio_configure_pin
+                0x004020b0      0x120 src/ASF/sam/drivers/pio/pio.o
+                0x004020b0                pio_configure_pin
  .text.pio_configure_pin_group
-                0x00402144       0xd8 src/ASF/sam/drivers/pio/pio.o
-                0x00402144                pio_configure_pin_group
+                0x004021d0       0xd8 src/ASF/sam/drivers/pio/pio.o
+                0x004021d0                pio_configure_pin_group
  .text.pio_handler_process
-                0x0040221c       0x68 src/ASF/sam/drivers/pio/pio_handler.o
-                0x0040221c                pio_handler_process
+                0x004022a8       0x68 src/ASF/sam/drivers/pio/pio_handler.o
+                0x004022a8                pio_handler_process
  .text.pio_handler_set
-                0x00402284       0x70 src/ASF/sam/drivers/pio/pio_handler.o
-                0x00402284                pio_handler_set
+                0x00402310       0x70 src/ASF/sam/drivers/pio/pio_handler.o
+                0x00402310                pio_handler_set
  .text.PIOA_Handler
-                0x004022f4       0x14 src/ASF/sam/drivers/pio/pio_handler.o
-                0x004022f4                PIOA_Handler
+                0x00402380       0x14 src/ASF/sam/drivers/pio/pio_handler.o
+                0x00402380                PIOA_Handler
  .text.PIOB_Handler
-                0x00402308       0x14 src/ASF/sam/drivers/pio/pio_handler.o
-                0x00402308                PIOB_Handler
+                0x00402394       0x14 src/ASF/sam/drivers/pio/pio_handler.o
+                0x00402394                PIOB_Handler
  .text.PIOC_Handler
-                0x0040231c       0x14 src/ASF/sam/drivers/pio/pio_handler.o
-                0x0040231c                PIOC_Handler
+                0x004023a8       0x14 src/ASF/sam/drivers/pio/pio_handler.o
+                0x004023a8                PIOC_Handler
  .text.pio_handler_set_priority
-                0x00402330       0x80 src/ASF/sam/drivers/pio/pio_handler.o
-                0x00402330                pio_handler_set_priority
+                0x004023bc       0x80 src/ASF/sam/drivers/pio/pio_handler.o
+                0x004023bc                pio_handler_set_priority
  .text.pmc_switch_mck_to_pllack
-                0x004023b0       0x64 src/ASF/sam/drivers/pmc/pmc.o
-                0x004023b0                pmc_switch_mck_to_pllack
+                0x0040243c       0x64 src/ASF/sam/drivers/pmc/pmc.o
+                0x0040243c                pmc_switch_mck_to_pllack
  .text.pmc_switch_sclk_to_32kxtal
-                0x00402414       0x24 src/ASF/sam/drivers/pmc/pmc.o
-                0x00402414                pmc_switch_sclk_to_32kxtal
+                0x004024a0       0x24 src/ASF/sam/drivers/pmc/pmc.o
+                0x004024a0                pmc_switch_sclk_to_32kxtal
  .text.pmc_osc_is_ready_32kxtal
-                0x00402438       0x20 src/ASF/sam/drivers/pmc/pmc.o
-                0x00402438                pmc_osc_is_ready_32kxtal
+                0x004024c4       0x20 src/ASF/sam/drivers/pmc/pmc.o
+                0x004024c4                pmc_osc_is_ready_32kxtal
  .text.pmc_switch_mainck_to_xtal
-                0x00402458       0x54 src/ASF/sam/drivers/pmc/pmc.o
-                0x00402458                pmc_switch_mainck_to_xtal
+                0x004024e4       0x54 src/ASF/sam/drivers/pmc/pmc.o
+                0x004024e4                pmc_switch_mainck_to_xtal
  .text.pmc_osc_is_ready_mainck
-                0x004024ac       0x10 src/ASF/sam/drivers/pmc/pmc.o
-                0x004024ac                pmc_osc_is_ready_mainck
+                0x00402538       0x10 src/ASF/sam/drivers/pmc/pmc.o
+                0x00402538                pmc_osc_is_ready_mainck
  .text.pmc_disable_pllack
-                0x004024bc       0x10 src/ASF/sam/drivers/pmc/pmc.o
-                0x004024bc                pmc_disable_pllack
+                0x00402548       0x10 src/ASF/sam/drivers/pmc/pmc.o
+                0x00402548                pmc_disable_pllack
  .text.pmc_is_locked_pllack
-                0x004024cc       0x10 src/ASF/sam/drivers/pmc/pmc.o
-                0x004024cc                pmc_is_locked_pllack
+                0x00402558       0x10 src/ASF/sam/drivers/pmc/pmc.o
+                0x00402558                pmc_is_locked_pllack
  .text.pmc_enable_periph_clk
-                0x004024dc       0x54 src/ASF/sam/drivers/pmc/pmc.o
-                0x004024dc                pmc_enable_periph_clk
+                0x00402568       0x54 src/ASF/sam/drivers/pmc/pmc.o
+                0x00402568                pmc_enable_periph_clk
  .text.rtc_set_hour_mode
-                0x00402530       0x16 src/ASF/sam/drivers/rtc/rtc.o
-                0x00402530                rtc_set_hour_mode
+                0x004025bc       0x16 src/ASF/sam/drivers/rtc/rtc.o
+                0x004025bc                rtc_set_hour_mode
  .text.rtc_get_time
-                0x00402546       0x5a src/ASF/sam/drivers/rtc/rtc.o
-                0x00402546                rtc_get_time
+                0x004025d2       0x5a src/ASF/sam/drivers/rtc/rtc.o
+                0x004025d2                rtc_get_time
  .text.rtc_set_time
-                0x004025a0       0x94 src/ASF/sam/drivers/rtc/rtc.o
-                0x004025a0                rtc_set_time
+                0x0040262c       0x94 src/ASF/sam/drivers/rtc/rtc.o
+                0x0040262c                rtc_set_time
  .text.rtc_get_date
-                0x00402634       0x72 src/ASF/sam/drivers/rtc/rtc.o
-                0x00402634                rtc_get_date
- *fill*         0x004026a6        0x2 
+                0x004026c0       0x72 src/ASF/sam/drivers/rtc/rtc.o
+                0x004026c0                rtc_get_date
+ *fill*         0x00402732        0x2 
  .text.rtc_set_date
-                0x004026a8       0xb8 src/ASF/sam/drivers/rtc/rtc.o
-                0x004026a8                rtc_set_date
+                0x00402734       0xb8 src/ASF/sam/drivers/rtc/rtc.o
+                0x00402734                rtc_set_date
  .text.spi_enable_clock
-                0x00402760       0x10 src/ASF/sam/drivers/spi/spi.o
-                0x00402760                spi_enable_clock
+                0x004027ec       0x10 src/ASF/sam/drivers/spi/spi.o
+                0x004027ec                spi_enable_clock
  .text.spi_set_peripheral_chip_select_value
-                0x00402770       0x16 src/ASF/sam/drivers/spi/spi.o
-                0x00402770                spi_set_peripheral_chip_select_value
+                0x004027fc       0x16 src/ASF/sam/drivers/spi/spi.o
+                0x004027fc                spi_set_peripheral_chip_select_value
  .text.spi_set_delay_between_chip_select
-                0x00402786       0x12 src/ASF/sam/drivers/spi/spi.o
-                0x00402786                spi_set_delay_between_chip_select
+                0x00402812       0x12 src/ASF/sam/drivers/spi/spi.o
+                0x00402812                spi_set_delay_between_chip_select
  .text.spi_set_clock_polarity
-                0x00402798       0x1e src/ASF/sam/drivers/spi/spi.o
-                0x00402798                spi_set_clock_polarity
+                0x00402824       0x1e src/ASF/sam/drivers/spi/spi.o
+                0x00402824                spi_set_clock_polarity
  .text.spi_set_clock_phase
-                0x004027b6       0x1e src/ASF/sam/drivers/spi/spi.o
-                0x004027b6                spi_set_clock_phase
+                0x00402842       0x1e src/ASF/sam/drivers/spi/spi.o
+                0x00402842                spi_set_clock_phase
  .text.spi_configure_cs_behavior
-                0x004027d4       0x46 src/ASF/sam/drivers/spi/spi.o
-                0x004027d4                spi_configure_cs_behavior
+                0x00402860       0x46 src/ASF/sam/drivers/spi/spi.o
+                0x00402860                spi_configure_cs_behavior
  .text.spi_set_bits_per_transfer
-                0x0040281a       0x14 src/ASF/sam/drivers/spi/spi.o
-                0x0040281a                spi_set_bits_per_transfer
+                0x004028a6       0x14 src/ASF/sam/drivers/spi/spi.o
+                0x004028a6                spi_set_bits_per_transfer
  .text.spi_calc_baudrate_div
-                0x0040282e       0x16 src/ASF/sam/drivers/spi/spi.o
-                0x0040282e                spi_calc_baudrate_div
+                0x004028ba       0x16 src/ASF/sam/drivers/spi/spi.o
+                0x004028ba                spi_calc_baudrate_div
  .text.spi_set_baudrate_div
-                0x00402844       0x26 src/ASF/sam/drivers/spi/spi.o
-                0x00402844                spi_set_baudrate_div
+                0x004028d0       0x26 src/ASF/sam/drivers/spi/spi.o
+                0x004028d0                spi_set_baudrate_div
  .text.spi_set_transfer_delay
-                0x0040286a       0x1c src/ASF/sam/drivers/spi/spi.o
-                0x0040286a                spi_set_transfer_delay
- *fill*         0x00402886        0x2 
+                0x004028f6       0x1c src/ASF/sam/drivers/spi/spi.o
+                0x004028f6                spi_set_transfer_delay
+ *fill*         0x00402912        0x2 
  .text.twi_set_speed
-                0x00402888       0xb8 src/ASF/sam/drivers/twi/twi.o
-                0x00402888                twi_set_speed
+                0x00402914       0xb8 src/ASF/sam/drivers/twi/twi.o
+                0x00402914                twi_set_speed
  .text.twi_master_init
-                0x00402940       0x40 src/ASF/sam/drivers/twi/twi.o
-                0x00402940                twi_master_init
+                0x004029cc       0x40 src/ASF/sam/drivers/twi/twi.o
+                0x004029cc                twi_master_init
  .text.twi_mk_addr
-                0x00402980       0x22 src/ASF/sam/drivers/twi/twi.o
-                0x00402980                twi_mk_addr
- *fill*         0x004029a2        0x2 
+                0x00402a0c       0x22 src/ASF/sam/drivers/twi/twi.o
+                0x00402a0c                twi_mk_addr
+ *fill*         0x00402a2e        0x2 
  .text.twi_master_read
-                0x004029a4       0xc0 src/ASF/sam/drivers/twi/twi.o
-                0x004029a4                twi_master_read
+                0x00402a30       0xc0 src/ASF/sam/drivers/twi/twi.o
+                0x00402a30                twi_master_read
  .text.uart_init
-                0x00402a64       0x36 src/ASF/sam/drivers/uart/uart.o
-                0x00402a64                uart_init
+                0x00402af0       0x36 src/ASF/sam/drivers/uart/uart.o
+                0x00402af0                uart_init
  .text.uart_enable_tx
-                0x00402a9a        0x6 src/ASF/sam/drivers/uart/uart.o
-                0x00402a9a                uart_enable_tx
+                0x00402b26        0x6 src/ASF/sam/drivers/uart/uart.o
+                0x00402b26                uart_enable_tx
  .text.uart_enable_rx
-                0x00402aa0        0x6 src/ASF/sam/drivers/uart/uart.o
-                0x00402aa0                uart_enable_rx
+                0x00402b2c        0x6 src/ASF/sam/drivers/uart/uart.o
+                0x00402b2c                uart_enable_rx
  .text.uart_get_status
-                0x00402aa6        0x4 src/ASF/sam/drivers/uart/uart.o
-                0x00402aa6                uart_get_status
+                0x00402b32        0x4 src/ASF/sam/drivers/uart/uart.o
+                0x00402b32                uart_get_status
  .text.uart_write
-                0x00402aaa       0x10 src/ASF/sam/drivers/uart/uart.o
-                0x00402aaa                uart_write
+                0x00402b36       0x10 src/ASF/sam/drivers/uart/uart.o
+                0x00402b36                uart_write
  .text.uart_read
-                0x00402aba       0x12 src/ASF/sam/drivers/uart/uart.o
-                0x00402aba                uart_read
+                0x00402b46       0x12 src/ASF/sam/drivers/uart/uart.o
+                0x00402b46                uart_read
  .text.usart_set_async_baudrate
-                0x00402acc       0x58 src/ASF/sam/drivers/usart/usart.o
-                0x00402acc                usart_set_async_baudrate
+                0x00402b58       0x58 src/ASF/sam/drivers/usart/usart.o
+                0x00402b58                usart_set_async_baudrate
  .text.usart_reset
-                0x00402b24       0x30 src/ASF/sam/drivers/usart/usart.o
-                0x00402b24                usart_reset
+                0x00402bb0       0x30 src/ASF/sam/drivers/usart/usart.o
+                0x00402bb0                usart_reset
  .text.usart_init_rs232
-                0x00402b54       0x54 src/ASF/sam/drivers/usart/usart.o
-                0x00402b54                usart_init_rs232
+                0x00402be0       0x54 src/ASF/sam/drivers/usart/usart.o
+                0x00402be0                usart_init_rs232
  .text.usart_enable_tx
-                0x00402ba8        0x6 src/ASF/sam/drivers/usart/usart.o
-                0x00402ba8                usart_enable_tx
+                0x00402c34        0x6 src/ASF/sam/drivers/usart/usart.o
+                0x00402c34                usart_enable_tx
  .text.usart_enable_rx
-                0x00402bae        0x6 src/ASF/sam/drivers/usart/usart.o
-                0x00402bae                usart_enable_rx
+                0x00402c3a        0x6 src/ASF/sam/drivers/usart/usart.o
+                0x00402c3a                usart_enable_rx
  .text.usart_get_status
-                0x00402bb4        0x4 src/ASF/sam/drivers/usart/usart.o
-                0x00402bb4                usart_get_status
+                0x00402c40        0x4 src/ASF/sam/drivers/usart/usart.o
+                0x00402c40                usart_get_status
  .text.usart_write
-                0x00402bb8       0x14 src/ASF/sam/drivers/usart/usart.o
-                0x00402bb8                usart_write
+                0x00402c44       0x14 src/ASF/sam/drivers/usart/usart.o
+                0x00402c44                usart_write
  .text.usart_read
-                0x00402bcc       0x18 src/ASF/sam/drivers/usart/usart.o
-                0x00402bcc                usart_read
+                0x00402c58       0x18 src/ASF/sam/drivers/usart/usart.o
+                0x00402c58                usart_read
  .text.wdt_disable
-                0x00402be4        0x8 src/ASF/sam/drivers/wdt/wdt.o
-                0x00402be4                wdt_disable
+                0x00402c70        0x8 src/ASF/sam/drivers/wdt/wdt.o
+                0x00402c70                wdt_disable
  .text.Dummy_Handler
-                0x00402bec        0x2 src/ASF/sam/utils/cmsis/sam4s/source/templates/gcc/startup_sam4s.o
-                0x00402bec                DACC_Handler
-                0x00402bec                DebugMon_Handler
-                0x00402bec                HardFault_Handler
-                0x00402bec                TC2_Handler
-                0x00402bec                SPI_Handler
-                0x00402bec                TWI1_Handler
-                0x00402bec                PendSV_Handler
-                0x00402bec                NMI_Handler
-                0x00402bec                ADC_Handler
-                0x00402bec                CRCCU_Handler
-                0x00402bec                USART0_Handler
-                0x00402bec                EFC1_Handler
-                0x00402bec                RTC_Handler
-                0x00402bec                UsageFault_Handler
-                0x00402bec                WDT_Handler
-                0x00402bec                TC4_Handler
-                0x00402bec                TC1_Handler
-                0x00402bec                HSMCI_Handler
-                0x00402bec                TC3_Handler
-                0x00402bec                Dummy_Handler
-                0x00402bec                TWI0_Handler
-                0x00402bec                SSC_Handler
-                0x00402bec                EFC0_Handler
-                0x00402bec                ACC_Handler
-                0x00402bec                PMC_Handler
-                0x00402bec                PWM_Handler
-                0x00402bec                MemManage_Handler
-                0x00402bec                SUPC_Handler
-                0x00402bec                UART0_Handler
-                0x00402bec                UDP_Handler
-                0x00402bec                BusFault_Handler
-                0x00402bec                RSTC_Handler
-                0x00402bec                TC0_Handler
-                0x00402bec                TC5_Handler
- *fill*         0x00402bee        0x2 
+                0x00402c78        0x2 src/ASF/sam/utils/cmsis/sam4s/source/templates/gcc/startup_sam4s.o
+                0x00402c78                DACC_Handler
+                0x00402c78                DebugMon_Handler
+                0x00402c78                HardFault_Handler
+                0x00402c78                TC2_Handler
+                0x00402c78                SPI_Handler
+                0x00402c78                TWI1_Handler
+                0x00402c78                PendSV_Handler
+                0x00402c78                NMI_Handler
+                0x00402c78                ADC_Handler
+                0x00402c78                CRCCU_Handler
+                0x00402c78                USART0_Handler
+                0x00402c78                EFC1_Handler
+                0x00402c78                RTC_Handler
+                0x00402c78                UsageFault_Handler
+                0x00402c78                WDT_Handler
+                0x00402c78                TC4_Handler
+                0x00402c78                TC1_Handler
+                0x00402c78                HSMCI_Handler
+                0x00402c78                TC3_Handler
+                0x00402c78                Dummy_Handler
+                0x00402c78                TWI0_Handler
+                0x00402c78                SSC_Handler
+                0x00402c78                EFC0_Handler
+                0x00402c78                ACC_Handler
+                0x00402c78                PMC_Handler
+                0x00402c78                PWM_Handler
+                0x00402c78                MemManage_Handler
+                0x00402c78                SUPC_Handler
+                0x00402c78                UART0_Handler
+                0x00402c78                UDP_Handler
+                0x00402c78                BusFault_Handler
+                0x00402c78                RSTC_Handler
+                0x00402c78                TC0_Handler
+                0x00402c78                TC5_Handler
+ *fill*         0x00402c7a        0x2 
  .text.Reset_Handler
-                0x00402bf0       0xac src/ASF/sam/utils/cmsis/sam4s/source/templates/gcc/startup_sam4s.o
-                0x00402bf0                Reset_Handler
+                0x00402c7c       0xac src/ASF/sam/utils/cmsis/sam4s/source/templates/gcc/startup_sam4s.o
+                0x00402c7c                Reset_Handler
  .text.SystemCoreClockUpdate
-                0x00402c9c      0x110 src/ASF/sam/utils/cmsis/sam4s/source/templates/system_sam4s.o
-                0x00402c9c                SystemCoreClockUpdate
+                0x00402d28      0x110 src/ASF/sam/utils/cmsis/sam4s/source/templates/system_sam4s.o
+                0x00402d28                SystemCoreClockUpdate
  .text.system_init_flash
-                0x00402dac       0x94 src/ASF/sam/utils/cmsis/sam4s/source/templates/system_sam4s.o
-                0x00402dac                system_init_flash
- .text.f_mount  0x00402e40       0x28 src/ASF/thirdparty/fatfs/fatfs-r0.09/src/ff.o
-                0x00402e40                f_mount
+                0x00402e38       0x94 src/ASF/sam/utils/cmsis/sam4s/source/templates/system_sam4s.o
+                0x00402e38                system_init_flash
+ .text.f_mount  0x00402ecc       0x28 src/ASF/thirdparty/fatfs/fatfs-r0.09/src/ff.o
+                0x00402ecc                f_mount
  .text.button_callback
-                0x00402e68       0x14 src/main.o
-                0x00402e68                button_callback
- .text.main     0x00402e7c      0x1b4 src/main.o
-                0x00402e7c                main
- .text          0x00403030      0x370 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubdf3.o)
-                0x00403030                __aeabi_drsub
-                0x00403038                __aeabi_dsub
-                0x00403038                __subdf3
-                0x0040303c                __aeabi_dadd
-                0x0040303c                __adddf3
-                0x004032b4                __floatunsidf
-                0x004032b4                __aeabi_ui2d
-                0x004032d4                __floatsidf
-                0x004032d4                __aeabi_i2d
-                0x004032f8                __aeabi_f2d
-                0x004032f8                __extendsfdf2
-                0x00403334                __floatundidf
-                0x00403334                __aeabi_ul2d
-                0x00403344                __floatdidf
-                0x00403344                __aeabi_l2d
- .text          0x004033a0      0x424 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_muldivdf3.o)
-                0x004033a0                __aeabi_dmul
-                0x004033a0                __muldf3
-                0x004035f4                __divdf3
-                0x004035f4                __aeabi_ddiv
- .text          0x004037c4       0x40 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_fixunsdfsi.o)
-                0x004037c4                __aeabi_d2uiz
-                0x004037c4                __fixunsdfsi
- .text          0x00403804       0x30 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_aeabi_uldivmod.o)
-                0x00403804                __aeabi_uldivmod
- .text          0x00403834      0x2dc c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_udivmoddi4.o)
-                0x00403834                __udivmoddi4
- .text          0x00403b10        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_dvmd_tls.o)
-                0x00403b10                __aeabi_idiv0
-                0x00403b10                __aeabi_ldiv0
+                0x00402ef4       0x14 src/main.o
+                0x00402ef4                button_callback
+ .text.main     0x00402f08      0x1c4 src/main.o
+                0x00402f08                main
+ .text          0x004030cc      0x370 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubdf3.o)
+                0x004030cc                __aeabi_drsub
+                0x004030d4                __aeabi_dsub
+                0x004030d4                __subdf3
+                0x004030d8                __aeabi_dadd
+                0x004030d8                __adddf3
+                0x00403350                __floatunsidf
+                0x00403350                __aeabi_ui2d
+                0x00403370                __floatsidf
+                0x00403370                __aeabi_i2d
+                0x00403394                __aeabi_f2d
+                0x00403394                __extendsfdf2
+                0x004033d0                __floatundidf
+                0x004033d0                __aeabi_ul2d
+                0x004033e0                __floatdidf
+                0x004033e0                __aeabi_l2d
+ .text          0x0040343c      0x424 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_muldivdf3.o)
+                0x0040343c                __aeabi_dmul
+                0x0040343c                __muldf3
+                0x00403690                __divdf3
+                0x00403690                __aeabi_ddiv
+ .text          0x00403860       0x40 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_fixunsdfsi.o)
+                0x00403860                __aeabi_d2uiz
+                0x00403860                __fixunsdfsi
+ .text          0x004038a0       0x30 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_aeabi_uldivmod.o)
+                0x004038a0                __aeabi_uldivmod
+ .text          0x004038d0      0x2dc c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_udivmoddi4.o)
+                0x004038d0                __udivmoddi4
+ .text          0x00403bac        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_dvmd_tls.o)
+                0x00403bac                __aeabi_idiv0
+                0x00403bac                __aeabi_ldiv0
  .text.__libc_init_array
-                0x00403b14       0x50 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-init.o)
-                0x00403b14                __libc_init_array
- .text.memset   0x00403b64       0x9c c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-memset.o)
-                0x00403b64                memset
+                0x00403bb0       0x50 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-init.o)
+                0x00403bb0                __libc_init_array
+ .text.memset   0x00403c00       0x9c c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-memset.o)
+                0x00403c00                memset
  .text.startup.register_fini
-                0x00403c00       0x14 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-__call_atexit.o)
- .text.atexit   0x00403c14        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-atexit.o)
-                0x00403c14                atexit
+                0x00403c9c       0x14 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-__call_atexit.o)
+ .text.atexit   0x00403cb0        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-atexit.o)
+                0x00403cb0                atexit
  .text.__libc_fini_array
-                0x00403c20       0x34 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-fini.o)
-                0x00403c20                __libc_fini_array
+                0x00403cbc       0x34 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-fini.o)
+                0x00403cbc                __libc_fini_array
  .text.__retarget_lock_acquire_recursive
-                0x00403c54        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-lock.o)
-                0x00403c54                __retarget_lock_acquire_recursive
+                0x00403cf0        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-lock.o)
+                0x00403cf0                __retarget_lock_acquire_recursive
  .text.__retarget_lock_release_recursive
-                0x00403c58        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-lock.o)
-                0x00403c58                __retarget_lock_release_recursive
+                0x00403cf4        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-lock.o)
+                0x00403cf4                __retarget_lock_release_recursive
  .text.__register_exitproc
-                0x00403c5c       0xc4 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-__atexit.o)
-                0x00403c5c                __register_exitproc
+                0x00403cf8       0xc4 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-__atexit.o)
+                0x00403cf8                __register_exitproc
  *(.glue_7t)
- .glue_7t       0x00403d20        0x0 linker stubs
+ .glue_7t       0x00403dbc        0x0 linker stubs
  *(.glue_7)
- .glue_7        0x00403d20        0x0 linker stubs
+ .glue_7        0x00403dbc        0x0 linker stubs
  *(.rodata .rodata* .gnu.linkonce.r.*)
- .rodata        0x00403d20       0x18 src/minios/system.o
+ .rodata        0x00403dbc       0x18 src/minios/system.o
  .rodata.mmc_trans_multipliers
-                0x00403d38       0x40 src/ASF/common/components/memory/sd_mmc/sd_mmc.o
-                0x00403d38                mmc_trans_multipliers
+                0x00403dd4       0x40 src/ASF/common/components/memory/sd_mmc/sd_mmc.o
+                0x00403dd4                mmc_trans_multipliers
  .rodata.sd_mmc_trans_units
-                0x00403d78       0x1c src/ASF/common/components/memory/sd_mmc/sd_mmc.o
-                0x00403d78                sd_mmc_trans_units
+                0x00403e14       0x1c src/ASF/common/components/memory/sd_mmc/sd_mmc.o
+                0x00403e14                sd_mmc_trans_units
  .rodata.sd_trans_multipliers
-                0x00403d94       0x40 src/ASF/common/components/memory/sd_mmc/sd_mmc.o
-                0x00403d94                sd_trans_multipliers
+                0x00403e30       0x40 src/ASF/common/components/memory/sd_mmc/sd_mmc.o
+                0x00403e30                sd_trans_multipliers
  .rodata._global_impure_ptr
-                0x00403dd4        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-impure.o)
-                0x00403dd4                _global_impure_ptr
+                0x00403e70        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-impure.o)
+                0x00403e70                _global_impure_ptr
  *(.ARM.extab* .gnu.linkonce.armextab.*)
-                0x00403dd8                . = ALIGN (0x4)
+                0x00403e74                . = ALIGN (0x4)
  *(.init)
- .init          0x00403dd8        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crti.o
-                0x00403dd8                _init
- .init          0x00403ddc        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtn.o
-                0x00403de4                . = ALIGN (0x4)
-                0x00403de4                __preinit_array_start = .
+ .init          0x00403e74        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crti.o
+                0x00403e74                _init
+ .init          0x00403e78        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtn.o
+                0x00403e80                . = ALIGN (0x4)
+                0x00403e80                __preinit_array_start = .
  *(.preinit_array)
-                0x00403de4                __preinit_array_end = .
-                0x00403de4                . = ALIGN (0x4)
-                0x00403de4                __init_array_start = .
+                0x00403e80                __preinit_array_end = .
+                0x00403e80                . = ALIGN (0x4)
+                0x00403e80                __init_array_start = .
  *(SORT(.init_array.*))
  .init_array.00000
-                0x00403de4        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-__call_atexit.o)
+                0x00403e80        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-__call_atexit.o)
  *(.init_array)
- .init_array    0x00403de8        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtbegin.o
-                0x00403dec                __init_array_end = .
-                0x00403dec                . = ALIGN (0x4)
+ .init_array    0x00403e84        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtbegin.o
+                0x00403e88                __init_array_end = .
+                0x00403e88                . = ALIGN (0x4)
  *crtbegin.o(.ctors)
  *(EXCLUDE_FILE(*crtend.o) .ctors)
  *(SORT(.ctors.*))
  *crtend.o(.ctors)
-                0x00403dec                . = ALIGN (0x4)
+                0x00403e88                . = ALIGN (0x4)
  *(.fini)
- .fini          0x00403dec        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crti.o
-                0x00403dec                _fini
- .fini          0x00403df0        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtn.o
-                0x00403df8                . = ALIGN (0x4)
-                0x00403df8                __fini_array_start = .
+ .fini          0x00403e88        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crti.o
+                0x00403e88                _fini
+ .fini          0x00403e8c        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtn.o
+                0x00403e94                . = ALIGN (0x4)
+                0x00403e94                __fini_array_start = .
  *(.fini_array)
- .fini_array    0x00403df8        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtbegin.o
+ .fini_array    0x00403e94        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtbegin.o
  *(SORT(.fini_array.*))
-                0x00403dfc                __fini_array_end = .
+                0x00403e98                __fini_array_end = .
  *crtbegin.o(.dtors)
  *(EXCLUDE_FILE(*crtend.o) .dtors)
  *(SORT(.dtors.*))
  *crtend.o(.dtors)
-                0x00403dfc                . = ALIGN (0x4)
-                0x00403dfc                _efixed = .
+                0x00403e98                . = ALIGN (0x4)
+                0x00403e98                _efixed = .
                 [!provide]                PROVIDE (__exidx_start, .)
 
-.vfp11_veneer   0x00403dfc        0x0
- .vfp11_veneer  0x00403dfc        0x0 linker stubs
+.vfp11_veneer   0x00403e98        0x0
+ .vfp11_veneer  0x00403e98        0x0 linker stubs
 
-.v4_bx          0x00403dfc        0x0
- .v4_bx         0x00403dfc        0x0 linker stubs
+.v4_bx          0x00403e98        0x0
+ .v4_bx         0x00403e98        0x0 linker stubs
 
-.iplt           0x00403dfc        0x0
- .iplt          0x00403dfc        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtbegin.o
+.iplt           0x00403e98        0x0
+ .iplt          0x00403e98        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtbegin.o
 
-.ARM.exidx      0x00403dfc        0x8
+.ARM.exidx      0x00403e98        0x8
  *(.ARM.exidx* .gnu.linkonce.armexidx.*)
- .ARM.exidx     0x00403dfc        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_udivmoddi4.o)
+ .ARM.exidx     0x00403e98        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_udivmoddi4.o)
                 [!provide]                PROVIDE (__exidx_end, .)
 
-.eh_frame       0x00403e04        0x0
- .eh_frame      0x00403e04        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtbegin.o
+.eh_frame       0x00403ea0        0x0
+ .eh_frame      0x00403ea0        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtbegin.o
 
-.rel.dyn        0x00403e04        0x0
- .rel.iplt      0x00403e04        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtbegin.o
+.rel.dyn        0x00403ea0        0x0
+ .rel.iplt      0x00403ea0        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtbegin.o
 
-.jcr            0x00403e04        0x0
- .jcr           0x00403e04        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtbegin.o
+.jcr            0x00403ea0        0x0
+ .jcr           0x00403ea0        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtbegin.o
 
-.igot.plt       0x00403e04        0x0
- .igot.plt      0x00403e04        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtbegin.o
-                0x00403e04                . = ALIGN (0x4)
-                0x00403e04                _etext = .
+.igot.plt       0x00403ea0        0x0
+ .igot.plt      0x00403ea0        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtbegin.o
+                0x00403ea0                . = ALIGN (0x4)
+                0x00403ea0                _etext = .
 
-.relocate       0x20000000      0x864 load address 0x00403e04
+.relocate       0x20000000      0x884 load address 0x00403ea0
                 0x20000000                . = ALIGN (0x4)
                 0x20000000                _srelocate = .
  *(.ramfunc .ramfunc.*)
@@ -11756,461 +12053,462 @@ LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin
                 0x20000018                Font08px_126
  *fill*         0x2000001e        0x2 
  .data.Font08px_32
-                0x20000020        0x3 src/ASF/common/components/display/ssd1306/font.o
+                0x20000020        0x9 src/ASF/common/components/display/ssd1306/font.o
                 0x20000020                Font08px_32
- *fill*         0x20000023        0x1 
+ *fill*         0x20000029        0x3 
  .data.Font08px_33
-                0x20000024        0x2 src/ASF/common/components/display/ssd1306/font.o
-                0x20000024                Font08px_33
- *fill*         0x20000026        0x2 
+                0x2000002c        0x9 src/ASF/common/components/display/ssd1306/font.o
+                0x2000002c                Font08px_33
+ *fill*         0x20000035        0x3 
  .data.Font08px_34
-                0x20000028        0x4 src/ASF/common/components/display/ssd1306/font.o
-                0x20000028                Font08px_34
+                0x20000038        0x9 src/ASF/common/components/display/ssd1306/font.o
+                0x20000038                Font08px_34
+ *fill*         0x20000041        0x3 
  .data.Font08px_35
-                0x2000002c        0x6 src/ASF/common/components/display/ssd1306/font.o
-                0x2000002c                Font08px_35
- *fill*         0x20000032        0x2 
+                0x20000044        0x9 src/ASF/common/components/display/ssd1306/font.o
+                0x20000044                Font08px_35
+ *fill*         0x2000004d        0x3 
  .data.Font08px_36
-                0x20000034        0x6 src/ASF/common/components/display/ssd1306/font.o
-                0x20000034                Font08px_36
- *fill*         0x2000003a        0x2 
+                0x20000050        0x9 src/ASF/common/components/display/ssd1306/font.o
+                0x20000050                Font08px_36
+ *fill*         0x20000059        0x3 
  .data.Font08px_37
-                0x2000003c        0x6 src/ASF/common/components/display/ssd1306/font.o
-                0x2000003c                Font08px_37
- *fill*         0x20000042        0x2 
- .data.Font08px_38
-                0x20000044        0x6 src/ASF/common/components/display/ssd1306/font.o
-                0x20000044                Font08px_38
- *fill*         0x2000004a        0x2 
- .data.Font08px_39
-                0x2000004c        0x2 src/ASF/common/components/display/ssd1306/font.o
-                0x2000004c                Font08px_39
- *fill*         0x2000004e        0x2 
- .data.Font08px_40
-                0x20000050        0x4 src/ASF/common/components/display/ssd1306/font.o
-                0x20000050                Font08px_40
- .data.Font08px_41
-                0x20000054        0x4 src/ASF/common/components/display/ssd1306/font.o
-                0x20000054                Font08px_41
- .data.Font08px_42
-                0x20000058        0x4 src/ASF/common/components/display/ssd1306/font.o
-                0x20000058                Font08px_42
- .data.Font08px_43
-                0x2000005c        0x4 src/ASF/common/components/display/ssd1306/font.o
-                0x2000005c                Font08px_43
- .data.Font08px_44
-                0x20000060        0x2 src/ASF/common/components/display/ssd1306/font.o
-                0x20000060                Font08px_44
+                0x2000005c        0x6 src/ASF/common/components/display/ssd1306/font.o
+                0x2000005c                Font08px_37
  *fill*         0x20000062        0x2 
- .data.Font08px_45
-                0x20000064        0x4 src/ASF/common/components/display/ssd1306/font.o
-                0x20000064                Font08px_45
- .data.Font08px_46
-                0x20000068        0x2 src/ASF/common/components/display/ssd1306/font.o
-                0x20000068                Font08px_46
+ .data.Font08px_38
+                0x20000064        0x6 src/ASF/common/components/display/ssd1306/font.o
+                0x20000064                Font08px_38
  *fill*         0x2000006a        0x2 
+ .data.Font08px_39
+                0x2000006c        0x2 src/ASF/common/components/display/ssd1306/font.o
+                0x2000006c                Font08px_39
+ *fill*         0x2000006e        0x2 
+ .data.Font08px_40
+                0x20000070        0x4 src/ASF/common/components/display/ssd1306/font.o
+                0x20000070                Font08px_40
+ .data.Font08px_41
+                0x20000074        0x4 src/ASF/common/components/display/ssd1306/font.o
+                0x20000074                Font08px_41
+ .data.Font08px_42
+                0x20000078        0x4 src/ASF/common/components/display/ssd1306/font.o
+                0x20000078                Font08px_42
+ .data.Font08px_43
+                0x2000007c        0x4 src/ASF/common/components/display/ssd1306/font.o
+                0x2000007c                Font08px_43
+ .data.Font08px_44
+                0x20000080        0x2 src/ASF/common/components/display/ssd1306/font.o
+                0x20000080                Font08px_44
+ *fill*         0x20000082        0x2 
+ .data.Font08px_45
+                0x20000084        0x4 src/ASF/common/components/display/ssd1306/font.o
+                0x20000084                Font08px_45
+ .data.Font08px_46
+                0x20000088        0x2 src/ASF/common/components/display/ssd1306/font.o
+                0x20000088                Font08px_46
+ *fill*         0x2000008a        0x2 
  .data.Font08px_47
-                0x2000006c        0x4 src/ASF/common/components/display/ssd1306/font.o
-                0x2000006c                Font08px_47
+                0x2000008c        0x4 src/ASF/common/components/display/ssd1306/font.o
+                0x2000008c                Font08px_47
  .data.Font08px_58
-                0x20000070        0x2 src/ASF/common/components/display/ssd1306/font.o
-                0x20000070                Font08px_58
- *fill*         0x20000072        0x2 
+                0x20000090        0x2 src/ASF/common/components/display/ssd1306/font.o
+                0x20000090                Font08px_58
+ *fill*         0x20000092        0x2 
  .data.Font08px_59
-                0x20000074        0x2 src/ASF/common/components/display/ssd1306/font.o
-                0x20000074                Font08px_59
- *fill*         0x20000076        0x2 
- .data.Font08px_60
-                0x20000078        0x5 src/ASF/common/components/display/ssd1306/font.o
-                0x20000078                Font08px_60
- *fill*         0x2000007d        0x3 
- .data.Font08px_61
-                0x20000080        0x5 src/ASF/common/components/display/ssd1306/font.o
-                0x20000080                Font08px_61
- *fill*         0x20000085        0x3 
- .data.Font08px_62
-                0x20000088        0x5 src/ASF/common/components/display/ssd1306/font.o
-                0x20000088                Font08px_62
- *fill*         0x2000008d        0x3 
- .data.Font08px_63
-                0x20000090        0x6 src/ASF/common/components/display/ssd1306/font.o
-                0x20000090                Font08px_63
+                0x20000094        0x2 src/ASF/common/components/display/ssd1306/font.o
+                0x20000094                Font08px_59
  *fill*         0x20000096        0x2 
+ .data.Font08px_60
+                0x20000098        0x5 src/ASF/common/components/display/ssd1306/font.o
+                0x20000098                Font08px_60
+ *fill*         0x2000009d        0x3 
+ .data.Font08px_61
+                0x200000a0        0x5 src/ASF/common/components/display/ssd1306/font.o
+                0x200000a0                Font08px_61
+ *fill*         0x200000a5        0x3 
+ .data.Font08px_62
+                0x200000a8        0x5 src/ASF/common/components/display/ssd1306/font.o
+                0x200000a8                Font08px_62
+ *fill*         0x200000ad        0x3 
+ .data.Font08px_63
+                0x200000b0        0x6 src/ASF/common/components/display/ssd1306/font.o
+                0x200000b0                Font08px_63
+ *fill*         0x200000b6        0x2 
  .data.Font08px_64
-                0x20000098        0x9 src/ASF/common/components/display/ssd1306/font.o
-                0x20000098                Font08px_64
- *fill*         0x200000a1        0x3 
+                0x200000b8        0x9 src/ASF/common/components/display/ssd1306/font.o
+                0x200000b8                Font08px_64
+ *fill*         0x200000c1        0x3 
  .data.Font08px_91
-                0x200000a4        0x4 src/ASF/common/components/display/ssd1306/font.o
-                0x200000a4                Font08px_91
+                0x200000c4        0x4 src/ASF/common/components/display/ssd1306/font.o
+                0x200000c4                Font08px_91
  .data.Font08px_92
-                0x200000a8        0x4 src/ASF/common/components/display/ssd1306/font.o
-                0x200000a8                Font08px_92
+                0x200000c8        0x4 src/ASF/common/components/display/ssd1306/font.o
+                0x200000c8                Font08px_92
  .data.Font08px_93
-                0x200000ac        0x4 src/ASF/common/components/display/ssd1306/font.o
-                0x200000ac                Font08px_93
+                0x200000cc        0x4 src/ASF/common/components/display/ssd1306/font.o
+                0x200000cc                Font08px_93
  .data.Font08px_94
-                0x200000b0        0x4 src/ASF/common/components/display/ssd1306/font.o
-                0x200000b0                Font08px_94
+                0x200000d0        0x4 src/ASF/common/components/display/ssd1306/font.o
+                0x200000d0                Font08px_94
  .data.Font08px_95
-                0x200000b4        0x4 src/ASF/common/components/display/ssd1306/font.o
-                0x200000b4                Font08px_95
+                0x200000d4        0x4 src/ASF/common/components/display/ssd1306/font.o
+                0x200000d4                Font08px_95
  .data.Font08px_96
-                0x200000b8        0x3 src/ASF/common/components/display/ssd1306/font.o
-                0x200000b8                Font08px_96
- *fill*         0x200000bb        0x1 
+                0x200000d8        0x3 src/ASF/common/components/display/ssd1306/font.o
+                0x200000d8                Font08px_96
+ *fill*         0x200000db        0x1 
  .data.Font08px_N0
-                0x200000bc        0x6 src/ASF/common/components/display/ssd1306/font.o
-                0x200000bc                Font08px_N0
- *fill*         0x200000c2        0x2 
- .data.Font08px_N1
-                0x200000c4        0x6 src/ASF/common/components/display/ssd1306/font.o
-                0x200000c4                Font08px_N1
- *fill*         0x200000ca        0x2 
- .data.Font08px_N2
-                0x200000cc        0x6 src/ASF/common/components/display/ssd1306/font.o
-                0x200000cc                Font08px_N2
- *fill*         0x200000d2        0x2 
- .data.Font08px_N3
-                0x200000d4        0x6 src/ASF/common/components/display/ssd1306/font.o
-                0x200000d4                Font08px_N3
- *fill*         0x200000da        0x2 
- .data.Font08px_N4
                 0x200000dc        0x6 src/ASF/common/components/display/ssd1306/font.o
-                0x200000dc                Font08px_N4
+                0x200000dc                Font08px_N0
  *fill*         0x200000e2        0x2 
- .data.Font08px_N5
+ .data.Font08px_N1
                 0x200000e4        0x6 src/ASF/common/components/display/ssd1306/font.o
-                0x200000e4                Font08px_N5
+                0x200000e4                Font08px_N1
  *fill*         0x200000ea        0x2 
- .data.Font08px_N6
+ .data.Font08px_N2
                 0x200000ec        0x6 src/ASF/common/components/display/ssd1306/font.o
-                0x200000ec                Font08px_N6
+                0x200000ec                Font08px_N2
  *fill*         0x200000f2        0x2 
- .data.Font08px_N7
+ .data.Font08px_N3
                 0x200000f4        0x6 src/ASF/common/components/display/ssd1306/font.o
-                0x200000f4                Font08px_N7
+                0x200000f4                Font08px_N3
  *fill*         0x200000fa        0x2 
- .data.Font08px_N8
+ .data.Font08px_N4
                 0x200000fc        0x6 src/ASF/common/components/display/ssd1306/font.o
-                0x200000fc                Font08px_N8
+                0x200000fc                Font08px_N4
  *fill*         0x20000102        0x2 
- .data.Font08px_N9
+ .data.Font08px_N5
                 0x20000104        0x6 src/ASF/common/components/display/ssd1306/font.o
-                0x20000104                Font08px_N9
+                0x20000104                Font08px_N5
  *fill*         0x2000010a        0x2 
- .data.Font08px_UA
+ .data.Font08px_N6
                 0x2000010c        0x6 src/ASF/common/components/display/ssd1306/font.o
-                0x2000010c                Font08px_UA
+                0x2000010c                Font08px_N6
  *fill*         0x20000112        0x2 
+ .data.Font08px_N7
+                0x20000114        0x6 src/ASF/common/components/display/ssd1306/font.o
+                0x20000114                Font08px_N7
+ *fill*         0x2000011a        0x2 
+ .data.Font08px_N8
+                0x2000011c        0x6 src/ASF/common/components/display/ssd1306/font.o
+                0x2000011c                Font08px_N8
+ *fill*         0x20000122        0x2 
+ .data.Font08px_N9
+                0x20000124        0x6 src/ASF/common/components/display/ssd1306/font.o
+                0x20000124                Font08px_N9
+ *fill*         0x2000012a        0x2 
+ .data.Font08px_UA
+                0x2000012c        0x6 src/ASF/common/components/display/ssd1306/font.o
+                0x2000012c                Font08px_UA
+ *fill*         0x20000132        0x2 
  .data.Font08px_UB
-                0x20000114        0x5 src/ASF/common/components/display/ssd1306/font.o
-                0x20000114                Font08px_UB
- *fill*         0x20000119        0x3 
- .data.Font08px_UC
-                0x2000011c        0x5 src/ASF/common/components/display/ssd1306/font.o
-                0x2000011c                Font08px_UC
- *fill*         0x20000121        0x3 
- .data.Font08px_UD
-                0x20000124        0x5 src/ASF/common/components/display/ssd1306/font.o
-                0x20000124                Font08px_UD
- *fill*         0x20000129        0x3 
- .data.Font08px_UE
-                0x2000012c        0x5 src/ASF/common/components/display/ssd1306/font.o
-                0x2000012c                Font08px_UE
- *fill*         0x20000131        0x3 
- .data.Font08px_UF
                 0x20000134        0x5 src/ASF/common/components/display/ssd1306/font.o
-                0x20000134                Font08px_UF
+                0x20000134                Font08px_UB
  *fill*         0x20000139        0x3 
- .data.Font08px_UG
-                0x2000013c        0x6 src/ASF/common/components/display/ssd1306/font.o
-                0x2000013c                Font08px_UG
- *fill*         0x20000142        0x2 
- .data.Font08px_UH
+ .data.Font08px_UC
+                0x2000013c        0x5 src/ASF/common/components/display/ssd1306/font.o
+                0x2000013c                Font08px_UC
+ *fill*         0x20000141        0x3 
+ .data.Font08px_UD
                 0x20000144        0x5 src/ASF/common/components/display/ssd1306/font.o
-                0x20000144                Font08px_UH
+                0x20000144                Font08px_UD
  *fill*         0x20000149        0x3 
+ .data.Font08px_UE
+                0x2000014c        0x5 src/ASF/common/components/display/ssd1306/font.o
+                0x2000014c                Font08px_UE
+ *fill*         0x20000151        0x3 
+ .data.Font08px_UF
+                0x20000154        0x5 src/ASF/common/components/display/ssd1306/font.o
+                0x20000154                Font08px_UF
+ *fill*         0x20000159        0x3 
+ .data.Font08px_UG
+                0x2000015c        0x6 src/ASF/common/components/display/ssd1306/font.o
+                0x2000015c                Font08px_UG
+ *fill*         0x20000162        0x2 
+ .data.Font08px_UH
+                0x20000164        0x5 src/ASF/common/components/display/ssd1306/font.o
+                0x20000164                Font08px_UH
+ *fill*         0x20000169        0x3 
  .data.Font08px_UI
-                0x2000014c        0x4 src/ASF/common/components/display/ssd1306/font.o
-                0x2000014c                Font08px_UI
+                0x2000016c        0x4 src/ASF/common/components/display/ssd1306/font.o
+                0x2000016c                Font08px_UI
  .data.Font08px_UJ
-                0x20000150        0x5 src/ASF/common/components/display/ssd1306/font.o
-                0x20000150                Font08px_UJ
- *fill*         0x20000155        0x3 
+                0x20000170        0x5 src/ASF/common/components/display/ssd1306/font.o
+                0x20000170                Font08px_UJ
+ *fill*         0x20000175        0x3 
  .data.Font08px_UK
-                0x20000158        0x6 src/ASF/common/components/display/ssd1306/font.o
-                0x20000158                Font08px_UK
- *fill*         0x2000015e        0x2 
+                0x20000178        0x6 src/ASF/common/components/display/ssd1306/font.o
+                0x20000178                Font08px_UK
+ *fill*         0x2000017e        0x2 
  .data.Font08px_UL
-                0x20000160        0x5 src/ASF/common/components/display/ssd1306/font.o
-                0x20000160                Font08px_UL
- *fill*         0x20000165        0x3 
- .data.Font08px_UM
-                0x20000168        0x6 src/ASF/common/components/display/ssd1306/font.o
-                0x20000168                Font08px_UM
- *fill*         0x2000016e        0x2 
- .data.Font08px_UN
-                0x20000170        0x6 src/ASF/common/components/display/ssd1306/font.o
-                0x20000170                Font08px_UN
- *fill*         0x20000176        0x2 
- .data.Font08px_UO
-                0x20000178        0x5 src/ASF/common/components/display/ssd1306/font.o
-                0x20000178                Font08px_UO
- *fill*         0x2000017d        0x3 
- .data.Font08px_UP
                 0x20000180        0x5 src/ASF/common/components/display/ssd1306/font.o
-                0x20000180                Font08px_UP
+                0x20000180                Font08px_UL
  *fill*         0x20000185        0x3 
- .data.Font08px_UQ
+ .data.Font08px_UM
                 0x20000188        0x6 src/ASF/common/components/display/ssd1306/font.o
-                0x20000188                Font08px_UQ
+                0x20000188                Font08px_UM
  *fill*         0x2000018e        0x2 
- .data.Font08px_UR
-                0x20000190        0x5 src/ASF/common/components/display/ssd1306/font.o
-                0x20000190                Font08px_UR
- *fill*         0x20000195        0x3 
- .data.Font08px_US
+ .data.Font08px_UN
+                0x20000190        0x6 src/ASF/common/components/display/ssd1306/font.o
+                0x20000190                Font08px_UN
+ *fill*         0x20000196        0x2 
+ .data.Font08px_UO
                 0x20000198        0x5 src/ASF/common/components/display/ssd1306/font.o
-                0x20000198                Font08px_US
+                0x20000198                Font08px_UO
  *fill*         0x2000019d        0x3 
+ .data.Font08px_UP
+                0x200001a0        0x5 src/ASF/common/components/display/ssd1306/font.o
+                0x200001a0                Font08px_UP
+ *fill*         0x200001a5        0x3 
+ .data.Font08px_UQ
+                0x200001a8        0x6 src/ASF/common/components/display/ssd1306/font.o
+                0x200001a8                Font08px_UQ
+ *fill*         0x200001ae        0x2 
+ .data.Font08px_UR
+                0x200001b0        0x5 src/ASF/common/components/display/ssd1306/font.o
+                0x200001b0                Font08px_UR
+ *fill*         0x200001b5        0x3 
+ .data.Font08px_US
+                0x200001b8        0x5 src/ASF/common/components/display/ssd1306/font.o
+                0x200001b8                Font08px_US
+ *fill*         0x200001bd        0x3 
  .data.Font08px_UT
-                0x200001a0        0x6 src/ASF/common/components/display/ssd1306/font.o
-                0x200001a0                Font08px_UT
- *fill*         0x200001a6        0x2 
- .data.Font08px_UU
-                0x200001a8        0x5 src/ASF/common/components/display/ssd1306/font.o
-                0x200001a8                Font08px_UU
- *fill*         0x200001ad        0x3 
- .data.Font08px_UV
-                0x200001b0        0x6 src/ASF/common/components/display/ssd1306/font.o
-                0x200001b0                Font08px_UV
- *fill*         0x200001b6        0x2 
- .data.Font08px_UW
-                0x200001b8        0x6 src/ASF/common/components/display/ssd1306/font.o
-                0x200001b8                Font08px_UW
- *fill*         0x200001be        0x2 
- .data.Font08px_UX
                 0x200001c0        0x6 src/ASF/common/components/display/ssd1306/font.o
-                0x200001c0                Font08px_UX
+                0x200001c0                Font08px_UT
  *fill*         0x200001c6        0x2 
- .data.Font08px_UY
-                0x200001c8        0x6 src/ASF/common/components/display/ssd1306/font.o
-                0x200001c8                Font08px_UY
- *fill*         0x200001ce        0x2 
- .data.Font08px_UZ
+ .data.Font08px_UU
+                0x200001c8        0x5 src/ASF/common/components/display/ssd1306/font.o
+                0x200001c8                Font08px_UU
+ *fill*         0x200001cd        0x3 
+ .data.Font08px_UV
                 0x200001d0        0x6 src/ASF/common/components/display/ssd1306/font.o
-                0x200001d0                Font08px_UZ
+                0x200001d0                Font08px_UV
  *fill*         0x200001d6        0x2 
+ .data.Font08px_UW
+                0x200001d8        0x6 src/ASF/common/components/display/ssd1306/font.o
+                0x200001d8                Font08px_UW
+ *fill*         0x200001de        0x2 
+ .data.Font08px_UX
+                0x200001e0        0x6 src/ASF/common/components/display/ssd1306/font.o
+                0x200001e0                Font08px_UX
+ *fill*         0x200001e6        0x2 
+ .data.Font08px_UY
+                0x200001e8        0x6 src/ASF/common/components/display/ssd1306/font.o
+                0x200001e8                Font08px_UY
+ *fill*         0x200001ee        0x2 
+ .data.Font08px_UZ
+                0x200001f0        0x6 src/ASF/common/components/display/ssd1306/font.o
+                0x200001f0                Font08px_UZ
+ *fill*         0x200001f6        0x2 
  .data.Font08px_la
-                0x200001d8        0x5 src/ASF/common/components/display/ssd1306/font.o
-                0x200001d8                Font08px_la
- *fill*         0x200001dd        0x3 
- .data.Font08px_lb
-                0x200001e0        0x5 src/ASF/common/components/display/ssd1306/font.o
-                0x200001e0                Font08px_lb
- *fill*         0x200001e5        0x3 
- .data.Font08px_lc
-                0x200001e8        0x5 src/ASF/common/components/display/ssd1306/font.o
-                0x200001e8                Font08px_lc
- *fill*         0x200001ed        0x3 
- .data.Font08px_ld
-                0x200001f0        0x5 src/ASF/common/components/display/ssd1306/font.o
-                0x200001f0                Font08px_ld
- *fill*         0x200001f5        0x3 
- .data.Font08px_le
                 0x200001f8        0x5 src/ASF/common/components/display/ssd1306/font.o
-                0x200001f8                Font08px_le
+                0x200001f8                Font08px_la
  *fill*         0x200001fd        0x3 
+ .data.Font08px_lb
+                0x20000200        0x5 src/ASF/common/components/display/ssd1306/font.o
+                0x20000200                Font08px_lb
+ *fill*         0x20000205        0x3 
+ .data.Font08px_lc
+                0x20000208        0x5 src/ASF/common/components/display/ssd1306/font.o
+                0x20000208                Font08px_lc
+ *fill*         0x2000020d        0x3 
+ .data.Font08px_ld
+                0x20000210        0x5 src/ASF/common/components/display/ssd1306/font.o
+                0x20000210                Font08px_ld
+ *fill*         0x20000215        0x3 
+ .data.Font08px_le
+                0x20000218        0x5 src/ASF/common/components/display/ssd1306/font.o
+                0x20000218                Font08px_le
+ *fill*         0x2000021d        0x3 
  .data.Font08px_lf
-                0x20000200        0x4 src/ASF/common/components/display/ssd1306/font.o
-                0x20000200                Font08px_lf
+                0x20000220        0x4 src/ASF/common/components/display/ssd1306/font.o
+                0x20000220                Font08px_lf
  .data.Font08px_lg
-                0x20000204        0x5 src/ASF/common/components/display/ssd1306/font.o
-                0x20000204                Font08px_lg
- *fill*         0x20000209        0x3 
+                0x20000224        0x5 src/ASF/common/components/display/ssd1306/font.o
+                0x20000224                Font08px_lg
+ *fill*         0x20000229        0x3 
  .data.Font08px_lh
-                0x2000020c        0x5 src/ASF/common/components/display/ssd1306/font.o
-                0x2000020c                Font08px_lh
- *fill*         0x20000211        0x3 
+                0x2000022c        0x5 src/ASF/common/components/display/ssd1306/font.o
+                0x2000022c                Font08px_lh
+ *fill*         0x20000231        0x3 
  .data.Font08px_li
-                0x20000214        0x2 src/ASF/common/components/display/ssd1306/font.o
-                0x20000214                Font08px_li
- *fill*         0x20000216        0x2 
+                0x20000234        0x2 src/ASF/common/components/display/ssd1306/font.o
+                0x20000234                Font08px_li
+ *fill*         0x20000236        0x2 
  .data.Font08px_lj
-                0x20000218        0x3 src/ASF/common/components/display/ssd1306/font.o
-                0x20000218                Font08px_lj
- *fill*         0x2000021b        0x1 
+                0x20000238        0x3 src/ASF/common/components/display/ssd1306/font.o
+                0x20000238                Font08px_lj
+ *fill*         0x2000023b        0x1 
  .data.Font08px_lk
-                0x2000021c        0x5 src/ASF/common/components/display/ssd1306/font.o
-                0x2000021c                Font08px_lk
- *fill*         0x20000221        0x3 
+                0x2000023c        0x5 src/ASF/common/components/display/ssd1306/font.o
+                0x2000023c                Font08px_lk
+ *fill*         0x20000241        0x3 
  .data.Font08px_ll
-                0x20000224        0x2 src/ASF/common/components/display/ssd1306/font.o
-                0x20000224                Font08px_ll
- *fill*         0x20000226        0x2 
+                0x20000244        0x2 src/ASF/common/components/display/ssd1306/font.o
+                0x20000244                Font08px_ll
+ *fill*         0x20000246        0x2 
  .data.Font08px_lm
-                0x20000228        0x6 src/ASF/common/components/display/ssd1306/font.o
-                0x20000228                Font08px_lm
- *fill*         0x2000022e        0x2 
+                0x20000248        0x6 src/ASF/common/components/display/ssd1306/font.o
+                0x20000248                Font08px_lm
+ *fill*         0x2000024e        0x2 
  .data.Font08px_ln
-                0x20000230        0x5 src/ASF/common/components/display/ssd1306/font.o
-                0x20000230                Font08px_ln
- *fill*         0x20000235        0x3 
+                0x20000250        0x5 src/ASF/common/components/display/ssd1306/font.o
+                0x20000250                Font08px_ln
+ *fill*         0x20000255        0x3 
  .data.Font08px_lo
-                0x20000238        0x5 src/ASF/common/components/display/ssd1306/font.o
-                0x20000238                Font08px_lo
- *fill*         0x2000023d        0x3 
+                0x20000258        0x5 src/ASF/common/components/display/ssd1306/font.o
+                0x20000258                Font08px_lo
+ *fill*         0x2000025d        0x3 
  .data.Font08px_lp
-                0x20000240        0x5 src/ASF/common/components/display/ssd1306/font.o
-                0x20000240                Font08px_lp
- *fill*         0x20000245        0x3 
- .data.Font08px_lq
-                0x20000248        0x5 src/ASF/common/components/display/ssd1306/font.o
-                0x20000248                Font08px_lq
- *fill*         0x2000024d        0x3 
- .data.Font08px_lr
-                0x20000250        0x4 src/ASF/common/components/display/ssd1306/font.o
-                0x20000250                Font08px_lr
- .data.Font08px_ls
-                0x20000254        0x5 src/ASF/common/components/display/ssd1306/font.o
-                0x20000254                Font08px_ls
- *fill*         0x20000259        0x3 
- .data.Font08px_lt
-                0x2000025c        0x4 src/ASF/common/components/display/ssd1306/font.o
-                0x2000025c                Font08px_lt
- .data.Font08px_lu
                 0x20000260        0x5 src/ASF/common/components/display/ssd1306/font.o
-                0x20000260                Font08px_lu
+                0x20000260                Font08px_lp
  *fill*         0x20000265        0x3 
- .data.Font08px_lv
-                0x20000268        0x6 src/ASF/common/components/display/ssd1306/font.o
-                0x20000268                Font08px_lv
- *fill*         0x2000026e        0x2 
- .data.Font08px_lw
-                0x20000270        0x6 src/ASF/common/components/display/ssd1306/font.o
-                0x20000270                Font08px_lw
- *fill*         0x20000276        0x2 
- .data.Font08px_lx
-                0x20000278        0x6 src/ASF/common/components/display/ssd1306/font.o
-                0x20000278                Font08px_lx
- *fill*         0x2000027e        0x2 
- .data.Font08px_ly
+ .data.Font08px_lq
+                0x20000268        0x5 src/ASF/common/components/display/ssd1306/font.o
+                0x20000268                Font08px_lq
+ *fill*         0x2000026d        0x3 
+ .data.Font08px_lr
+                0x20000270        0x4 src/ASF/common/components/display/ssd1306/font.o
+                0x20000270                Font08px_lr
+ .data.Font08px_ls
+                0x20000274        0x5 src/ASF/common/components/display/ssd1306/font.o
+                0x20000274                Font08px_ls
+ *fill*         0x20000279        0x3 
+ .data.Font08px_lt
+                0x2000027c        0x4 src/ASF/common/components/display/ssd1306/font.o
+                0x2000027c                Font08px_lt
+ .data.Font08px_lu
                 0x20000280        0x5 src/ASF/common/components/display/ssd1306/font.o
-                0x20000280                Font08px_ly
+                0x20000280                Font08px_lu
  *fill*         0x20000285        0x3 
+ .data.Font08px_lv
+                0x20000288        0x6 src/ASF/common/components/display/ssd1306/font.o
+                0x20000288                Font08px_lv
+ *fill*         0x2000028e        0x2 
+ .data.Font08px_lw
+                0x20000290        0x6 src/ASF/common/components/display/ssd1306/font.o
+                0x20000290                Font08px_lw
+ *fill*         0x20000296        0x2 
+ .data.Font08px_lx
+                0x20000298        0x6 src/ASF/common/components/display/ssd1306/font.o
+                0x20000298                Font08px_lx
+ *fill*         0x2000029e        0x2 
+ .data.Font08px_ly
+                0x200002a0        0x5 src/ASF/common/components/display/ssd1306/font.o
+                0x200002a0                Font08px_ly
+ *fill*         0x200002a5        0x3 
  .data.Font08px_lz
-                0x20000288        0x4 src/ASF/common/components/display/ssd1306/font.o
-                0x20000288                Font08px_lz
+                0x200002a8        0x4 src/ASF/common/components/display/ssd1306/font.o
+                0x200002a8                Font08px_lz
  .data.font_table
-                0x2000028c      0x17c src/ASF/common/components/display/ssd1306/font.o
-                0x2000028c                font_table
+                0x200002ac      0x17c src/ASF/common/components/display/ssd1306/font.o
+                0x200002ac                font_table
  .data.sd_mmc_cards
-                0x20000408       0x24 src/ASF/common/components/memory/sd_mmc/sd_mmc.o
+                0x20000428       0x24 src/ASF/common/components/memory/sd_mmc/sd_mmc.o
  .data.sd_mmc_spi_devices
-                0x2000042c        0x4 src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
+                0x2000044c        0x4 src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
  .data.SystemCoreClock
-                0x20000430        0x4 src/ASF/sam/utils/cmsis/sam4s/source/templates/system_sam4s.o
-                0x20000430                SystemCoreClock
- *fill*         0x20000434        0x4 
+                0x20000450        0x4 src/ASF/sam/utils/cmsis/sam4s/source/templates/system_sam4s.o
+                0x20000450                SystemCoreClock
+ *fill*         0x20000454        0x4 
  .data.impure_data
-                0x20000438      0x428 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-impure.o)
+                0x20000458      0x428 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-impure.o)
  .data.__atexit_recursive_mutex
-                0x20000860        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-__call_atexit.o)
-                0x20000860                __atexit_recursive_mutex
-                0x20000864                . = ALIGN (0x4)
-                0x20000864                _erelocate = .
+                0x20000880        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-__call_atexit.o)
+                0x20000880                __atexit_recursive_mutex
+                0x20000884                . = ALIGN (0x4)
+                0x20000884                _erelocate = .
 
-.bss            0x20000864      0x3d4 load address 0x00404668
-                0x20000864                . = ALIGN (0x4)
-                0x20000864                _sbss = .
-                0x20000864                _szero = .
+.bss            0x20000884      0x3d4 load address 0x00404724
+                0x20000884                . = ALIGN (0x4)
+                0x20000884                _sbss = .
+                0x20000884                _szero = .
  *(.bss .bss.*)
- .bss           0x20000864       0x1c c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtbegin.o
+ .bss           0x20000884       0x1c c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m/crtbegin.o
  .bss.g_wobits_in_rtt_mr
-                0x20000880        0x4 src/ASF/sam/drivers/rtt/rtt.o
+                0x200008a0        0x4 src/ASF/sam/drivers/rtt/rtt.o
  .bss.button_callback
-                0x20000884        0x4 src/minios/hal/hal_io.o
+                0x200008a4        0x4 src/minios/hal/hal_io.o
  .bss.timer_callback
-                0x20000888        0x4 src/minios/hal/hal_io.o
+                0x200008a8        0x4 src/minios/hal/hal_io.o
  .bss.uart1_callback
-                0x2000088c        0x4 src/minios/hal/hal_io.o
+                0x200008ac        0x4 src/minios/hal/hal_io.o
  .bss.usart1_callback
-                0x20000890        0x4 src/minios/hal/hal_io.o
- .bss.fs        0x20000894      0x230 src/minios/hal/hal_nvmem.o
+                0x200008b0        0x4 src/minios/hal/hal_io.o
+ .bss.fs        0x200008b4      0x230 src/minios/hal/hal_nvmem.o
  .bss.sdcard_fat_init
-                0x20000ac4        0x1 src/minios/hal/hal_nvmem.o
+                0x20000ae4        0x1 src/minios/hal/hal_nvmem.o
  .bss.resolution
-                0x20000ac5        0x1 src/ASF/common/components/memory/eeprom/at30tse75x/at30tse75x.o
-                0x20000ac5                resolution
- *fill*         0x20000ac6        0x2 
+                0x20000ae5        0x1 src/ASF/common/components/memory/eeprom/at30tse75x/at30tse75x.o
+                0x20000ae5                resolution
+ *fill*         0x20000ae6        0x2 
  .bss.sd_mmc_card
-                0x20000ac8        0x4 src/ASF/common/components/memory/sd_mmc/sd_mmc.o
+                0x20000ae8        0x4 src/ASF/common/components/memory/sd_mmc/sd_mmc.o
  .bss.sd_mmc_sam_systick_used
-                0x20000acc        0x1 src/ASF/common/components/memory/sd_mmc/sd_mmc.o
+                0x20000aec        0x1 src/ASF/common/components/memory/sd_mmc/sd_mmc.o
  .bss.sd_mmc_slot_sel
-                0x20000acd        0x1 src/ASF/common/components/memory/sd_mmc/sd_mmc.o
+                0x20000aed        0x1 src/ASF/common/components/memory/sd_mmc/sd_mmc.o
  .bss.sd_mmc_spi_block_size
-                0x20000ace        0x2 src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
+                0x20000aee        0x2 src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
  .bss.sd_mmc_spi_err
-                0x20000ad0        0x1 src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
- *fill*         0x20000ad1        0x1 
+                0x20000af0        0x1 src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
+ *fill*         0x20000af1        0x1 
  .bss.sd_mmc_spi_nb_block
-                0x20000ad2        0x2 src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
+                0x20000af2        0x2 src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
  .bss.sd_mmc_spi_response_32
-                0x20000ad4        0x4 src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
+                0x20000af4        0x4 src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
  .bss.sd_mmc_spi_transfert_pos
-                0x20000ad8        0x4 src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
+                0x20000af8        0x4 src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
  .bss.gs_interrupt_sources
-                0x20000adc       0x70 src/ASF/sam/drivers/pio/pio_handler.o
+                0x20000afc       0x70 src/ASF/sam/drivers/pio/pio_handler.o
  .bss.gs_ul_nb_sources
-                0x20000b4c        0x4 src/ASF/sam/drivers/pio/pio_handler.o
+                0x20000b6c        0x4 src/ASF/sam/drivers/pio/pio_handler.o
  .bss.pio_capture_handler
-                0x20000b50        0x4 src/ASF/sam/drivers/pio/pio_handler.o
+                0x20000b70        0x4 src/ASF/sam/drivers/pio/pio_handler.o
  .bss.ul_reg_val.7506
-                0x20000b54        0x4 src/ASF/sam/drivers/usart/usart.o
- .bss.FatFs     0x20000b58       0x20 src/ASF/thirdparty/fatfs/fatfs-r0.09/src/ff.o
+                0x20000b74        0x4 src/ASF/sam/drivers/usart/usart.o
+ .bss.FatFs     0x20000b78       0x20 src/ASF/thirdparty/fatfs/fatfs-r0.09/src/ff.o
  .bss.button_pressed
-                0x20000b78        0x1 src/main.o
-                0x20000b78                button_pressed
- .bss.gameover  0x20000b79        0x1 src/main.o
-                0x20000b79                gameover
+                0x20000b98        0x1 src/main.o
+                0x20000b98                button_pressed
+ .bss.gameover  0x20000b99        0x1 src/main.o
+                0x20000b99                gameover
  *(COMMON)
- *fill*         0x20000b7a        0x2 
- COMMON         0x20000b7c        0x8 src/minios/hal/hal_cpu.o
-                0x20000b7c                systick_callback
-                0x20000b80                svc_callback
- COMMON         0x20000b84        0x4 src/ASF/sam/drivers/pio/pio.o
-                0x20000b84                pio_capture_enable_flag
- COMMON         0x20000b88       0x8c src/main.o
-                0x20000b88                bullets
-                0x20000b90                seleced_button
-                0x20000b94                aliens
-                0x20000c0c                spaceship
- COMMON         0x20000c14       0x21 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-lock.o)
-                0x20000c14                __lock___atexit_recursive_mutex
-                0x20000c18                __lock___arc4random_mutex
-                0x20000c1c                __lock___env_recursive_mutex
-                0x20000c20                __lock___sinit_recursive_mutex
-                0x20000c24                __lock___malloc_recursive_mutex
-                0x20000c28                __lock___at_quick_exit_mutex
-                0x20000c2c                __lock___dd_hash_mutex
-                0x20000c30                __lock___tz_mutex
-                0x20000c34                __lock___sfp_recursive_mutex
-                0x20000c38                . = ALIGN (0x4)
- *fill*         0x20000c35        0x3 
-                0x20000c38                _ebss = .
-                0x20000c38                _ezero = .
+ *fill*         0x20000b9a        0x2 
+ COMMON         0x20000b9c        0x8 src/minios/hal/hal_cpu.o
+                0x20000b9c                systick_callback
+                0x20000ba0                svc_callback
+ COMMON         0x20000ba4        0x4 src/ASF/sam/drivers/pio/pio.o
+                0x20000ba4                pio_capture_enable_flag
+ COMMON         0x20000ba8       0x8c src/main.o
+                0x20000ba8                bullets
+                0x20000bb0                seleced_button
+                0x20000bb4                aliens
+                0x20000c2c                spaceship
+ COMMON         0x20000c34       0x21 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-lock.o)
+                0x20000c34                __lock___atexit_recursive_mutex
+                0x20000c38                __lock___arc4random_mutex
+                0x20000c3c                __lock___env_recursive_mutex
+                0x20000c40                __lock___sinit_recursive_mutex
+                0x20000c44                __lock___malloc_recursive_mutex
+                0x20000c48                __lock___at_quick_exit_mutex
+                0x20000c4c                __lock___dd_hash_mutex
+                0x20000c50                __lock___tz_mutex
+                0x20000c54                __lock___sfp_recursive_mutex
+                0x20000c58                . = ALIGN (0x4)
+ *fill*         0x20000c55        0x3 
+                0x20000c58                _ebss = .
+                0x20000c58                _ezero = .
 
-.stack          0x20000c38     0x3000 load address 0x00404a3c
-                0x20000c38                . = ALIGN (0x8)
-                0x20000c38                _sstack = .
-                0x20003c38                . = (. + __stack_size__)
- *fill*         0x20000c38     0x3000 
-                0x20003c38                . = ALIGN (0x8)
-                0x20003c38                _estack = .
-                0x20003c38                . = ALIGN (0x4)
-                0x20003c38                _end = .
+.stack          0x20000c58     0x3000 load address 0x00404af8
+                0x20000c58                . = ALIGN (0x8)
+                0x20000c58                _sstack = .
+                0x20003c58                . = (. + __stack_size__)
+ *fill*         0x20000c58     0x3000 
+                0x20003c58                . = ALIGN (0x8)
+                0x20003c58                _estack = .
+                0x20003c58                . = ALIGN (0x4)
+                0x20003c58                _end = .
 OUTPUT(MiniOS.elf elf32-littlearm)
 
 .ARM.attributes
@@ -12351,7 +12649,7 @@ OUTPUT(MiniOS.elf elf32-littlearm)
  .comment       0x00000059       0x5a src/ASF/thirdparty/fatfs/fatfs-r0.09/src/ff.o
  .comment       0x00000059       0x5a src/main.o
 
-.debug_info     0x00000000    0x29b0e
+.debug_info     0x00000000    0x2b457
  .debug_info    0x00000000      0xcd1 src/ASF/sam/drivers/rtt/rtt.o
  .debug_info    0x00000cd1      0xfeb src/minios/console/console.o
  .debug_info    0x00001cbc     0x1753 src/minios/hal/hal_cpu.o
@@ -12361,32 +12659,32 @@ OUTPUT(MiniOS.elf elf32-littlearm)
  .debug_info    0x00007b75     0x1a51 src/minios/hal/hal_nvmem.o
  .debug_info    0x000095c6      0x46a src/minios/syscalls.o
  .debug_info    0x00009a30      0x531 src/minios/system.o
- .debug_info    0x00009f61      0x22f src/shape.o
- .debug_info    0x0000a190     0x14b1 src/ASF/common/components/display/ssd1306/font.o
- .debug_info    0x0000b641     0x1f8a src/ASF/common/components/display/ssd1306/ssd1306.o
- .debug_info    0x0000d5cb     0x16f2 src/ASF/common/components/memory/eeprom/at30tse75x/at30tse75x.o
- .debug_info    0x0000ecbd     0x246f src/ASF/common/components/memory/sd_mmc/sd_mmc.o
- .debug_info    0x0001112c     0x16f9 src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
- .debug_info    0x00012825     0x10fa src/ASF/common/services/clock/sam4s/sysclk.o
- .debug_info    0x0001391f      0xa45 src/ASF/common/services/delay/sam/cycle_counter.o
- .debug_info    0x00014364     0x169c src/ASF/common/services/spi/sam_spi/spi_master.o
- .debug_info    0x00015a00     0x1836 src/ASF/sam/boards/sam4s_xplained_pro/init.o
- .debug_info    0x00017236     0x1b44 src/ASF/sam/drivers/adc/adc.o
- .debug_info    0x00018d7a     0x221d src/ASF/sam/drivers/pio/pio.o
- .debug_info    0x0001af97     0x18e2 src/ASF/sam/drivers/pio/pio_handler.o
- .debug_info    0x0001c879     0x1a1d src/ASF/sam/drivers/pmc/pmc.o
- .debug_info    0x0001e296     0x11d3 src/ASF/sam/drivers/rtc/rtc.o
- .debug_info    0x0001f469     0x11c9 src/ASF/sam/drivers/spi/spi.o
- .debug_info    0x00020632     0x142c src/ASF/sam/drivers/twi/twi.o
- .debug_info    0x00021a5e     0x1178 src/ASF/sam/drivers/uart/uart.o
- .debug_info    0x00022bd6     0x2060 src/ASF/sam/drivers/usart/usart.o
- .debug_info    0x00024c36      0xbe5 src/ASF/sam/drivers/wdt/wdt.o
- .debug_info    0x0002581b      0x6eb src/ASF/sam/utils/cmsis/sam4s/source/templates/gcc/startup_sam4s.o
- .debug_info    0x00025f06      0x458 src/ASF/sam/utils/cmsis/sam4s/source/templates/system_sam4s.o
- .debug_info    0x0002635e     0x33c0 src/ASF/thirdparty/fatfs/fatfs-r0.09/src/ff.o
- .debug_info    0x0002971e      0x3f0 src/main.o
+ .debug_info    0x00009f61     0x1c63 src/shape.o
+ .debug_info    0x0000bbc4     0x14b6 src/ASF/common/components/display/ssd1306/font.o
+ .debug_info    0x0000d07a     0x1e9a src/ASF/common/components/display/ssd1306/ssd1306.o
+ .debug_info    0x0000ef14     0x16f2 src/ASF/common/components/memory/eeprom/at30tse75x/at30tse75x.o
+ .debug_info    0x00010606     0x246f src/ASF/common/components/memory/sd_mmc/sd_mmc.o
+ .debug_info    0x00012a75     0x16f9 src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
+ .debug_info    0x0001416e     0x10fa src/ASF/common/services/clock/sam4s/sysclk.o
+ .debug_info    0x00015268      0xa45 src/ASF/common/services/delay/sam/cycle_counter.o
+ .debug_info    0x00015cad     0x169c src/ASF/common/services/spi/sam_spi/spi_master.o
+ .debug_info    0x00017349     0x1836 src/ASF/sam/boards/sam4s_xplained_pro/init.o
+ .debug_info    0x00018b7f     0x1b44 src/ASF/sam/drivers/adc/adc.o
+ .debug_info    0x0001a6c3     0x221d src/ASF/sam/drivers/pio/pio.o
+ .debug_info    0x0001c8e0     0x18e2 src/ASF/sam/drivers/pio/pio_handler.o
+ .debug_info    0x0001e1c2     0x1a1d src/ASF/sam/drivers/pmc/pmc.o
+ .debug_info    0x0001fbdf     0x11d3 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_info    0x00020db2     0x11c9 src/ASF/sam/drivers/spi/spi.o
+ .debug_info    0x00021f7b     0x142c src/ASF/sam/drivers/twi/twi.o
+ .debug_info    0x000233a7     0x1178 src/ASF/sam/drivers/uart/uart.o
+ .debug_info    0x0002451f     0x2060 src/ASF/sam/drivers/usart/usart.o
+ .debug_info    0x0002657f      0xbe5 src/ASF/sam/drivers/wdt/wdt.o
+ .debug_info    0x00027164      0x6eb src/ASF/sam/utils/cmsis/sam4s/source/templates/gcc/startup_sam4s.o
+ .debug_info    0x0002784f      0x458 src/ASF/sam/utils/cmsis/sam4s/source/templates/system_sam4s.o
+ .debug_info    0x00027ca7     0x33c0 src/ASF/thirdparty/fatfs/fatfs-r0.09/src/ff.o
+ .debug_info    0x0002b067      0x3f0 src/main.o
 
-.debug_abbrev   0x00000000     0x59f9
+.debug_abbrev   0x00000000     0x5c69
  .debug_abbrev  0x00000000      0x256 src/ASF/sam/drivers/rtt/rtt.o
  .debug_abbrev  0x00000256      0x385 src/minios/console/console.o
  .debug_abbrev  0x000005db      0x3ae src/minios/hal/hal_cpu.o
@@ -12396,32 +12694,32 @@ OUTPUT(MiniOS.elf elf32-littlearm)
  .debug_abbrev  0x0000105b      0x35c src/minios/hal/hal_nvmem.o
  .debug_abbrev  0x000013b7       0xff src/minios/syscalls.o
  .debug_abbrev  0x000014b6      0x10e src/minios/system.o
- .debug_abbrev  0x000015c4       0xe4 src/shape.o
- .debug_abbrev  0x000016a8      0x1ab src/ASF/common/components/display/ssd1306/font.o
- .debug_abbrev  0x00001853      0x38e src/ASF/common/components/display/ssd1306/ssd1306.o
- .debug_abbrev  0x00001be1      0x323 src/ASF/common/components/memory/eeprom/at30tse75x/at30tse75x.o
- .debug_abbrev  0x00001f04      0x468 src/ASF/common/components/memory/sd_mmc/sd_mmc.o
- .debug_abbrev  0x0000236c      0x3c3 src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
- .debug_abbrev  0x0000272f      0x311 src/ASF/common/services/clock/sam4s/sysclk.o
- .debug_abbrev  0x00002a40      0x1b3 src/ASF/common/services/delay/sam/cycle_counter.o
- .debug_abbrev  0x00002bf3      0x3c1 src/ASF/common/services/spi/sam_spi/spi_master.o
- .debug_abbrev  0x00002fb4      0x2fa src/ASF/sam/boards/sam4s_xplained_pro/init.o
- .debug_abbrev  0x000032ae      0x337 src/ASF/sam/drivers/adc/adc.o
- .debug_abbrev  0x000035e5      0x3ff src/ASF/sam/drivers/pio/pio.o
- .debug_abbrev  0x000039e4      0x368 src/ASF/sam/drivers/pio/pio_handler.o
- .debug_abbrev  0x00003d4c      0x315 src/ASF/sam/drivers/pmc/pmc.o
- .debug_abbrev  0x00004061      0x2e3 src/ASF/sam/drivers/rtc/rtc.o
- .debug_abbrev  0x00004344      0x398 src/ASF/sam/drivers/spi/spi.o
- .debug_abbrev  0x000046dc      0x371 src/ASF/sam/drivers/twi/twi.o
- .debug_abbrev  0x00004a4d      0x288 src/ASF/sam/drivers/uart/uart.o
- .debug_abbrev  0x00004cd5      0x406 src/ASF/sam/drivers/usart/usart.o
- .debug_abbrev  0x000050db      0x230 src/ASF/sam/drivers/wdt/wdt.o
- .debug_abbrev  0x0000530b      0x17c src/ASF/sam/utils/cmsis/sam4s/source/templates/gcc/startup_sam4s.o
- .debug_abbrev  0x00005487      0x102 src/ASF/sam/utils/cmsis/sam4s/source/templates/system_sam4s.o
- .debug_abbrev  0x00005589      0x321 src/ASF/thirdparty/fatfs/fatfs-r0.09/src/ff.o
- .debug_abbrev  0x000058aa      0x14f src/main.o
+ .debug_abbrev  0x000015c4      0x354 src/shape.o
+ .debug_abbrev  0x00001918      0x1ab src/ASF/common/components/display/ssd1306/font.o
+ .debug_abbrev  0x00001ac3      0x38e src/ASF/common/components/display/ssd1306/ssd1306.o
+ .debug_abbrev  0x00001e51      0x323 src/ASF/common/components/memory/eeprom/at30tse75x/at30tse75x.o
+ .debug_abbrev  0x00002174      0x468 src/ASF/common/components/memory/sd_mmc/sd_mmc.o
+ .debug_abbrev  0x000025dc      0x3c3 src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
+ .debug_abbrev  0x0000299f      0x311 src/ASF/common/services/clock/sam4s/sysclk.o
+ .debug_abbrev  0x00002cb0      0x1b3 src/ASF/common/services/delay/sam/cycle_counter.o
+ .debug_abbrev  0x00002e63      0x3c1 src/ASF/common/services/spi/sam_spi/spi_master.o
+ .debug_abbrev  0x00003224      0x2fa src/ASF/sam/boards/sam4s_xplained_pro/init.o
+ .debug_abbrev  0x0000351e      0x337 src/ASF/sam/drivers/adc/adc.o
+ .debug_abbrev  0x00003855      0x3ff src/ASF/sam/drivers/pio/pio.o
+ .debug_abbrev  0x00003c54      0x368 src/ASF/sam/drivers/pio/pio_handler.o
+ .debug_abbrev  0x00003fbc      0x315 src/ASF/sam/drivers/pmc/pmc.o
+ .debug_abbrev  0x000042d1      0x2e3 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_abbrev  0x000045b4      0x398 src/ASF/sam/drivers/spi/spi.o
+ .debug_abbrev  0x0000494c      0x371 src/ASF/sam/drivers/twi/twi.o
+ .debug_abbrev  0x00004cbd      0x288 src/ASF/sam/drivers/uart/uart.o
+ .debug_abbrev  0x00004f45      0x406 src/ASF/sam/drivers/usart/usart.o
+ .debug_abbrev  0x0000534b      0x230 src/ASF/sam/drivers/wdt/wdt.o
+ .debug_abbrev  0x0000557b      0x17c src/ASF/sam/utils/cmsis/sam4s/source/templates/gcc/startup_sam4s.o
+ .debug_abbrev  0x000056f7      0x102 src/ASF/sam/utils/cmsis/sam4s/source/templates/system_sam4s.o
+ .debug_abbrev  0x000057f9      0x321 src/ASF/thirdparty/fatfs/fatfs-r0.09/src/ff.o
+ .debug_abbrev  0x00005b1a      0x14f src/main.o
 
-.debug_loc      0x00000000    0x10e08
+.debug_loc      0x00000000    0x10ea2
  .debug_loc     0x00000000      0x1c7 src/ASF/sam/drivers/rtt/rtt.o
  .debug_loc     0x000001c7      0x428 src/minios/console/console.o
  .debug_loc     0x000005ef      0x17b src/minios/hal/hal_cpu.o
@@ -12429,29 +12727,29 @@ OUTPUT(MiniOS.elf elf32-littlearm)
  .debug_loc     0x00001a84      0x520 src/minios/hal/hal_nvmem.o
  .debug_loc     0x00001fa4      0x446 src/minios/syscalls.o
  .debug_loc     0x000023ea       0xdb src/minios/system.o
- .debug_loc     0x000024c5      0x1d9 src/shape.o
- .debug_loc     0x0000269e      0x33e src/ASF/common/components/display/ssd1306/ssd1306.o
- .debug_loc     0x000029dc      0x735 src/ASF/common/components/memory/eeprom/at30tse75x/at30tse75x.o
- .debug_loc     0x00003111     0x111c src/ASF/common/components/memory/sd_mmc/sd_mmc.o
- .debug_loc     0x0000422d      0x8b8 src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
- .debug_loc     0x00004ae5      0x143 src/ASF/common/services/clock/sam4s/sysclk.o
- .debug_loc     0x00004c28      0xab0 src/ASF/common/services/spi/sam_spi/spi_master.o
- .debug_loc     0x000056d8      0x21a src/ASF/sam/boards/sam4s_xplained_pro/init.o
- .debug_loc     0x000058f2      0x9e6 src/ASF/sam/drivers/adc/adc.o
- .debug_loc     0x000062d8      0xdef src/ASF/sam/drivers/pio/pio.o
- .debug_loc     0x000070c7      0x549 src/ASF/sam/drivers/pio/pio_handler.o
- .debug_loc     0x00007610      0xb91 src/ASF/sam/drivers/pmc/pmc.o
- .debug_loc     0x000081a1      0xa18 src/ASF/sam/drivers/rtc/rtc.o
- .debug_loc     0x00008bb9      0x5ac src/ASF/sam/drivers/spi/spi.o
- .debug_loc     0x00009165      0xa21 src/ASF/sam/drivers/twi/twi.o
- .debug_loc     0x00009b86      0x241 src/ASF/sam/drivers/uart/uart.o
- .debug_loc     0x00009dc7      0xe59 src/ASF/sam/drivers/usart/usart.o
- .debug_loc     0x0000ac20      0x145 src/ASF/sam/drivers/wdt/wdt.o
- .debug_loc     0x0000ad65       0xa1 src/ASF/sam/utils/cmsis/sam4s/source/templates/gcc/startup_sam4s.o
- .debug_loc     0x0000ae06     0x5f20 src/ASF/thirdparty/fatfs/fatfs-r0.09/src/ff.o
- .debug_loc     0x00010d26       0xe2 src/main.o
+ .debug_loc     0x000024c5      0x2e7 src/shape.o
+ .debug_loc     0x000027ac      0x2ca src/ASF/common/components/display/ssd1306/ssd1306.o
+ .debug_loc     0x00002a76      0x735 src/ASF/common/components/memory/eeprom/at30tse75x/at30tse75x.o
+ .debug_loc     0x000031ab     0x111c src/ASF/common/components/memory/sd_mmc/sd_mmc.o
+ .debug_loc     0x000042c7      0x8b8 src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
+ .debug_loc     0x00004b7f      0x143 src/ASF/common/services/clock/sam4s/sysclk.o
+ .debug_loc     0x00004cc2      0xab0 src/ASF/common/services/spi/sam_spi/spi_master.o
+ .debug_loc     0x00005772      0x21a src/ASF/sam/boards/sam4s_xplained_pro/init.o
+ .debug_loc     0x0000598c      0x9e6 src/ASF/sam/drivers/adc/adc.o
+ .debug_loc     0x00006372      0xdef src/ASF/sam/drivers/pio/pio.o
+ .debug_loc     0x00007161      0x549 src/ASF/sam/drivers/pio/pio_handler.o
+ .debug_loc     0x000076aa      0xb91 src/ASF/sam/drivers/pmc/pmc.o
+ .debug_loc     0x0000823b      0xa18 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_loc     0x00008c53      0x5ac src/ASF/sam/drivers/spi/spi.o
+ .debug_loc     0x000091ff      0xa21 src/ASF/sam/drivers/twi/twi.o
+ .debug_loc     0x00009c20      0x241 src/ASF/sam/drivers/uart/uart.o
+ .debug_loc     0x00009e61      0xe59 src/ASF/sam/drivers/usart/usart.o
+ .debug_loc     0x0000acba      0x145 src/ASF/sam/drivers/wdt/wdt.o
+ .debug_loc     0x0000adff       0xa1 src/ASF/sam/utils/cmsis/sam4s/source/templates/gcc/startup_sam4s.o
+ .debug_loc     0x0000aea0     0x5f20 src/ASF/thirdparty/fatfs/fatfs-r0.09/src/ff.o
+ .debug_loc     0x00010dc0       0xe2 src/main.o
 
-.debug_aranges  0x00000000     0x12d8
+.debug_aranges  0x00000000     0x12e0
  .debug_aranges
                 0x00000000       0x60 src/ASF/sam/drivers/rtt/rtt.o
  .debug_aranges
@@ -12471,55 +12769,55 @@ OUTPUT(MiniOS.elf elf32-littlearm)
  .debug_aranges
                 0x000002c8       0x30 src/minios/system.o
  .debug_aranges
-                0x000002f8       0x48 src/shape.o
+                0x000002f8       0x50 src/shape.o
  .debug_aranges
-                0x00000340       0x18 src/ASF/common/components/display/ssd1306/font.o
+                0x00000348       0x18 src/ASF/common/components/display/ssd1306/font.o
  .debug_aranges
-                0x00000358       0x30 src/ASF/common/components/display/ssd1306/ssd1306.o
+                0x00000360       0x30 src/ASF/common/components/display/ssd1306/ssd1306.o
  .debug_aranges
-                0x00000388       0x50 src/ASF/common/components/memory/eeprom/at30tse75x/at30tse75x.o
+                0x00000390       0x50 src/ASF/common/components/memory/eeprom/at30tse75x/at30tse75x.o
  .debug_aranges
-                0x000003d8       0xa8 src/ASF/common/components/memory/sd_mmc/sd_mmc.o
+                0x000003e0       0xa8 src/ASF/common/components/memory/sd_mmc/sd_mmc.o
  .debug_aranges
-                0x00000480       0xb0 src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
+                0x00000488       0xb0 src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
  .debug_aranges
-                0x00000530       0x30 src/ASF/common/services/clock/sam4s/sysclk.o
+                0x00000538       0x30 src/ASF/common/services/clock/sam4s/sysclk.o
  .debug_aranges
-                0x00000560       0x20 src/ASF/common/services/delay/sam/cycle_counter.o
+                0x00000568       0x20 src/ASF/common/services/delay/sam/cycle_counter.o
  .debug_aranges
-                0x00000580       0x50 src/ASF/common/services/spi/sam_spi/spi_master.o
+                0x00000588       0x50 src/ASF/common/services/spi/sam_spi/spi_master.o
  .debug_aranges
-                0x000005d0       0x20 src/ASF/sam/boards/sam4s_xplained_pro/init.o
+                0x000005d8       0x20 src/ASF/sam/boards/sam4s_xplained_pro/init.o
  .debug_aranges
-                0x000005f0      0x188 src/ASF/sam/drivers/adc/adc.o
+                0x000005f8      0x188 src/ASF/sam/drivers/adc/adc.o
  .debug_aranges
-                0x00000778      0x1a8 src/ASF/sam/drivers/pio/pio.o
+                0x00000780      0x1a8 src/ASF/sam/drivers/pio/pio.o
  .debug_aranges
-                0x00000920       0x58 src/ASF/sam/drivers/pio/pio_handler.o
+                0x00000928       0x58 src/ASF/sam/drivers/pio/pio_handler.o
  .debug_aranges
-                0x00000978      0x208 src/ASF/sam/drivers/pmc/pmc.o
+                0x00000980      0x208 src/ASF/sam/drivers/pmc/pmc.o
  .debug_aranges
-                0x00000b80       0xd0 src/ASF/sam/drivers/rtc/rtc.o
+                0x00000b88       0xd0 src/ASF/sam/drivers/rtc/rtc.o
  .debug_aranges
-                0x00000c50       0x90 src/ASF/sam/drivers/spi/spi.o
+                0x00000c58       0x90 src/ASF/sam/drivers/spi/spi.o
  .debug_aranges
-                0x00000ce0       0xc8 src/ASF/sam/drivers/twi/twi.o
+                0x00000ce8       0xc8 src/ASF/sam/drivers/twi/twi.o
  .debug_aranges
-                0x00000da8       0xe8 src/ASF/sam/drivers/uart/uart.o
+                0x00000db0       0xe8 src/ASF/sam/drivers/uart/uart.o
  .debug_aranges
-                0x00000e90      0x210 src/ASF/sam/drivers/usart/usart.o
+                0x00000e98      0x210 src/ASF/sam/drivers/usart/usart.o
  .debug_aranges
-                0x000010a0       0x48 src/ASF/sam/drivers/wdt/wdt.o
+                0x000010a8       0x48 src/ASF/sam/drivers/wdt/wdt.o
  .debug_aranges
-                0x000010e8       0x28 src/ASF/sam/utils/cmsis/sam4s/source/templates/gcc/startup_sam4s.o
+                0x000010f0       0x28 src/ASF/sam/utils/cmsis/sam4s/source/templates/gcc/startup_sam4s.o
  .debug_aranges
-                0x00001110       0x30 src/ASF/sam/utils/cmsis/sam4s/source/templates/system_sam4s.o
+                0x00001118       0x30 src/ASF/sam/utils/cmsis/sam4s/source/templates/system_sam4s.o
  .debug_aranges
-                0x00001140      0x170 src/ASF/thirdparty/fatfs/fatfs-r0.09/src/ff.o
+                0x00001148      0x170 src/ASF/thirdparty/fatfs/fatfs-r0.09/src/ff.o
  .debug_aranges
-                0x000012b0       0x28 src/main.o
+                0x000012b8       0x28 src/main.o
 
-.debug_ranges   0x00000000     0x1508
+.debug_ranges   0x00000000     0x1518
  .debug_ranges  0x00000000       0x50 src/ASF/sam/drivers/rtt/rtt.o
  .debug_ranges  0x00000050       0x68 src/minios/console/console.o
  .debug_ranges  0x000000b8       0x48 src/minios/hal/hal_cpu.o
@@ -12528,31 +12826,31 @@ OUTPUT(MiniOS.elf elf32-littlearm)
  .debug_ranges  0x000002c0       0x58 src/minios/hal/hal_nvmem.o
  .debug_ranges  0x00000318       0x18 src/minios/syscalls.o
  .debug_ranges  0x00000330       0x38 src/minios/system.o
- .debug_ranges  0x00000368       0x38 src/shape.o
- .debug_ranges  0x000003a0       0x50 src/ASF/common/components/display/ssd1306/ssd1306.o
- .debug_ranges  0x000003f0       0x58 src/ASF/common/components/memory/eeprom/at30tse75x/at30tse75x.o
- .debug_ranges  0x00000448      0x1f0 src/ASF/common/components/memory/sd_mmc/sd_mmc.o
- .debug_ranges  0x00000638       0xa0 src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
- .debug_ranges  0x000006d8       0x20 src/ASF/common/services/clock/sam4s/sysclk.o
- .debug_ranges  0x000006f8       0x10 src/ASF/common/services/delay/sam/cycle_counter.o
- .debug_ranges  0x00000708       0x88 src/ASF/common/services/spi/sam_spi/spi_master.o
- .debug_ranges  0x00000790       0x10 src/ASF/sam/boards/sam4s_xplained_pro/init.o
- .debug_ranges  0x000007a0      0x178 src/ASF/sam/drivers/adc/adc.o
- .debug_ranges  0x00000918      0x1b0 src/ASF/sam/drivers/pio/pio.o
- .debug_ranges  0x00000ac8       0x60 src/ASF/sam/drivers/pio/pio_handler.o
- .debug_ranges  0x00000b28      0x1f8 src/ASF/sam/drivers/pmc/pmc.o
- .debug_ranges  0x00000d20       0xc0 src/ASF/sam/drivers/rtc/rtc.o
- .debug_ranges  0x00000de0       0x80 src/ASF/sam/drivers/spi/spi.o
- .debug_ranges  0x00000e60       0xb8 src/ASF/sam/drivers/twi/twi.o
- .debug_ranges  0x00000f18       0xd8 src/ASF/sam/drivers/uart/uart.o
- .debug_ranges  0x00000ff0      0x200 src/ASF/sam/drivers/usart/usart.o
- .debug_ranges  0x000011f0       0x38 src/ASF/sam/drivers/wdt/wdt.o
- .debug_ranges  0x00001228       0x18 src/ASF/sam/utils/cmsis/sam4s/source/templates/gcc/startup_sam4s.o
- .debug_ranges  0x00001240       0x20 src/ASF/sam/utils/cmsis/sam4s/source/templates/system_sam4s.o
- .debug_ranges  0x00001260      0x258 src/ASF/thirdparty/fatfs/fatfs-r0.09/src/ff.o
- .debug_ranges  0x000014b8       0x50 src/main.o
+ .debug_ranges  0x00000368       0x40 src/shape.o
+ .debug_ranges  0x000003a8       0x58 src/ASF/common/components/display/ssd1306/ssd1306.o
+ .debug_ranges  0x00000400       0x58 src/ASF/common/components/memory/eeprom/at30tse75x/at30tse75x.o
+ .debug_ranges  0x00000458      0x1f0 src/ASF/common/components/memory/sd_mmc/sd_mmc.o
+ .debug_ranges  0x00000648       0xa0 src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
+ .debug_ranges  0x000006e8       0x20 src/ASF/common/services/clock/sam4s/sysclk.o
+ .debug_ranges  0x00000708       0x10 src/ASF/common/services/delay/sam/cycle_counter.o
+ .debug_ranges  0x00000718       0x88 src/ASF/common/services/spi/sam_spi/spi_master.o
+ .debug_ranges  0x000007a0       0x10 src/ASF/sam/boards/sam4s_xplained_pro/init.o
+ .debug_ranges  0x000007b0      0x178 src/ASF/sam/drivers/adc/adc.o
+ .debug_ranges  0x00000928      0x1b0 src/ASF/sam/drivers/pio/pio.o
+ .debug_ranges  0x00000ad8       0x60 src/ASF/sam/drivers/pio/pio_handler.o
+ .debug_ranges  0x00000b38      0x1f8 src/ASF/sam/drivers/pmc/pmc.o
+ .debug_ranges  0x00000d30       0xc0 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_ranges  0x00000df0       0x80 src/ASF/sam/drivers/spi/spi.o
+ .debug_ranges  0x00000e70       0xb8 src/ASF/sam/drivers/twi/twi.o
+ .debug_ranges  0x00000f28       0xd8 src/ASF/sam/drivers/uart/uart.o
+ .debug_ranges  0x00001000      0x200 src/ASF/sam/drivers/usart/usart.o
+ .debug_ranges  0x00001200       0x38 src/ASF/sam/drivers/wdt/wdt.o
+ .debug_ranges  0x00001238       0x18 src/ASF/sam/utils/cmsis/sam4s/source/templates/gcc/startup_sam4s.o
+ .debug_ranges  0x00001250       0x20 src/ASF/sam/utils/cmsis/sam4s/source/templates/system_sam4s.o
+ .debug_ranges  0x00001270      0x258 src/ASF/thirdparty/fatfs/fatfs-r0.09/src/ff.o
+ .debug_ranges  0x000014c8       0x50 src/main.o
 
-.debug_macro    0x00000000    0x1ad74
+.debug_macro    0x00000000    0x1b707
  .debug_macro   0x00000000      0x52e src/ASF/sam/drivers/rtt/rtt.o
  .debug_macro   0x0000052e      0x8d4 src/ASF/sam/drivers/rtt/rtt.o
  .debug_macro   0x00000e02      0x16d src/ASF/sam/drivers/rtt/rtt.o
@@ -12711,52 +13009,53 @@ OUTPUT(MiniOS.elf elf32-littlearm)
  .debug_macro   0x00011000      0x819 src/minios/hal/hal_nvmem.o
  .debug_macro   0x00011819       0x46 src/minios/syscalls.o
  .debug_macro   0x0001185f       0x50 src/minios/system.o
- .debug_macro   0x000118af       0x2d src/shape.o
- .debug_macro   0x000118dc      0x52d src/ASF/common/components/display/ssd1306/font.o
- .debug_macro   0x00011e09      0x622 src/ASF/common/components/display/ssd1306/ssd1306.o
- .debug_macro   0x0001242b       0xf1 src/ASF/common/components/display/ssd1306/ssd1306.o
- .debug_macro   0x0001251c       0x12 src/ASF/common/components/display/ssd1306/ssd1306.o
- .debug_macro   0x0001252e      0x815 src/ASF/common/components/memory/eeprom/at30tse75x/at30tse75x.o
- .debug_macro   0x00012d43      0x6d0 src/ASF/common/components/memory/sd_mmc/sd_mmc.o
- .debug_macro   0x00013413       0x10 src/ASF/common/components/memory/sd_mmc/sd_mmc.o
- .debug_macro   0x00013423       0x1c src/ASF/common/components/memory/sd_mmc/sd_mmc.o
- .debug_macro   0x0001343f      0x2c0 src/ASF/common/components/memory/sd_mmc/sd_mmc.o
- .debug_macro   0x000136ff      0x8e4 src/ASF/common/components/memory/sd_mmc/sd_mmc.o
- .debug_macro   0x00013fe3      0xd3f src/ASF/common/components/memory/sd_mmc/sd_mmc.o
- .debug_macro   0x00014d22       0xa0 src/ASF/common/components/memory/sd_mmc/sd_mmc.o
- .debug_macro   0x00014dc2       0x52 src/ASF/common/components/memory/sd_mmc/sd_mmc.o
- .debug_macro   0x00014e14      0x672 src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
- .debug_macro   0x00015486       0x82 src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
- .debug_macro   0x00015508      0x5a3 src/ASF/common/services/clock/sam4s/sysclk.o
- .debug_macro   0x00015aab      0x533 src/ASF/common/services/delay/sam/cycle_counter.o
- .debug_macro   0x00015fde       0x22 src/ASF/common/services/delay/sam/cycle_counter.o
- .debug_macro   0x00016000      0x5e0 src/ASF/common/services/spi/sam_spi/spi_master.o
- .debug_macro   0x000165e0      0x5ea src/ASF/sam/boards/sam4s_xplained_pro/init.o
- .debug_macro   0x00016bca      0x53d src/ASF/sam/drivers/adc/adc.o
- .debug_macro   0x00017107      0x539 src/ASF/sam/drivers/pio/pio.o
- .debug_macro   0x00017640       0x8e src/ASF/sam/drivers/pio/pio.o
- .debug_macro   0x000176ce      0x543 src/ASF/sam/drivers/pio/pio_handler.o
- .debug_macro   0x00017c11      0x539 src/ASF/sam/drivers/pmc/pmc.o
- .debug_macro   0x0001814a       0x52 src/ASF/sam/drivers/pmc/pmc.o
- .debug_macro   0x0001819c      0x546 src/ASF/sam/drivers/rtc/rtc.o
- .debug_macro   0x000186e2      0x5ac src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00018c8e       0x10 src/ASF/sam/drivers/spi/spi.o
- .debug_macro   0x00018c9e      0x55d src/ASF/sam/drivers/twi/twi.o
- .debug_macro   0x000191fb       0x46 src/ASF/sam/drivers/twi/twi.o
- .debug_macro   0x00019241      0x533 src/ASF/sam/drivers/uart/uart.o
- .debug_macro   0x00019774       0x16 src/ASF/sam/drivers/uart/uart.o
- .debug_macro   0x0001978a      0x569 src/ASF/sam/drivers/usart/usart.o
- .debug_macro   0x00019cf3       0x28 src/ASF/sam/drivers/usart/usart.o
- .debug_macro   0x00019d1b      0x546 src/ASF/sam/drivers/wdt/wdt.o
- .debug_macro   0x0001a261      0x325 src/ASF/sam/utils/cmsis/sam4s/source/templates/gcc/startup_sam4s.o
- .debug_macro   0x0001a586      0x32d src/ASF/sam/utils/cmsis/sam4s/source/templates/system_sam4s.o
- .debug_macro   0x0001a8b3      0x28e src/ASF/thirdparty/fatfs/fatfs-r0.09/src/ff.o
- .debug_macro   0x0001ab41       0xee src/ASF/thirdparty/fatfs/fatfs-r0.09/src/ff.o
- .debug_macro   0x0001ac2f       0x8e src/ASF/thirdparty/fatfs/fatfs-r0.09/src/ff.o
- .debug_macro   0x0001acbd       0x58 src/ASF/thirdparty/fatfs/fatfs-r0.09/src/ff.o
- .debug_macro   0x0001ad15       0x5f src/main.o
+ .debug_macro   0x000118af      0x7f9 src/shape.o
+ .debug_macro   0x000120a8      0x1d1 src/shape.o
+ .debug_macro   0x00012279      0x52d src/ASF/common/components/display/ssd1306/font.o
+ .debug_macro   0x000127a6      0x622 src/ASF/common/components/display/ssd1306/ssd1306.o
+ .debug_macro   0x00012dc8       0xf1 src/ASF/common/components/display/ssd1306/ssd1306.o
+ .debug_macro   0x00012eb9       0x12 src/ASF/common/components/display/ssd1306/ssd1306.o
+ .debug_macro   0x00012ecb      0x815 src/ASF/common/components/memory/eeprom/at30tse75x/at30tse75x.o
+ .debug_macro   0x000136e0      0x6d0 src/ASF/common/components/memory/sd_mmc/sd_mmc.o
+ .debug_macro   0x00013db0       0x10 src/ASF/common/components/memory/sd_mmc/sd_mmc.o
+ .debug_macro   0x00013dc0       0x1c src/ASF/common/components/memory/sd_mmc/sd_mmc.o
+ .debug_macro   0x00013ddc      0x2c0 src/ASF/common/components/memory/sd_mmc/sd_mmc.o
+ .debug_macro   0x0001409c      0x8e4 src/ASF/common/components/memory/sd_mmc/sd_mmc.o
+ .debug_macro   0x00014980      0xd3f src/ASF/common/components/memory/sd_mmc/sd_mmc.o
+ .debug_macro   0x000156bf       0xa0 src/ASF/common/components/memory/sd_mmc/sd_mmc.o
+ .debug_macro   0x0001575f       0x52 src/ASF/common/components/memory/sd_mmc/sd_mmc.o
+ .debug_macro   0x000157b1      0x672 src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
+ .debug_macro   0x00015e23       0x82 src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
+ .debug_macro   0x00015ea5      0x5a3 src/ASF/common/services/clock/sam4s/sysclk.o
+ .debug_macro   0x00016448      0x533 src/ASF/common/services/delay/sam/cycle_counter.o
+ .debug_macro   0x0001697b       0x22 src/ASF/common/services/delay/sam/cycle_counter.o
+ .debug_macro   0x0001699d      0x5e0 src/ASF/common/services/spi/sam_spi/spi_master.o
+ .debug_macro   0x00016f7d      0x5ea src/ASF/sam/boards/sam4s_xplained_pro/init.o
+ .debug_macro   0x00017567      0x53d src/ASF/sam/drivers/adc/adc.o
+ .debug_macro   0x00017aa4      0x539 src/ASF/sam/drivers/pio/pio.o
+ .debug_macro   0x00017fdd       0x8e src/ASF/sam/drivers/pio/pio.o
+ .debug_macro   0x0001806b      0x543 src/ASF/sam/drivers/pio/pio_handler.o
+ .debug_macro   0x000185ae      0x539 src/ASF/sam/drivers/pmc/pmc.o
+ .debug_macro   0x00018ae7       0x52 src/ASF/sam/drivers/pmc/pmc.o
+ .debug_macro   0x00018b39      0x546 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_macro   0x0001907f      0x5ac src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x0001962b       0x10 src/ASF/sam/drivers/spi/spi.o
+ .debug_macro   0x0001963b      0x55d src/ASF/sam/drivers/twi/twi.o
+ .debug_macro   0x00019b98       0x46 src/ASF/sam/drivers/twi/twi.o
+ .debug_macro   0x00019bde      0x533 src/ASF/sam/drivers/uart/uart.o
+ .debug_macro   0x0001a111       0x16 src/ASF/sam/drivers/uart/uart.o
+ .debug_macro   0x0001a127      0x569 src/ASF/sam/drivers/usart/usart.o
+ .debug_macro   0x0001a690       0x28 src/ASF/sam/drivers/usart/usart.o
+ .debug_macro   0x0001a6b8      0x546 src/ASF/sam/drivers/wdt/wdt.o
+ .debug_macro   0x0001abfe      0x325 src/ASF/sam/utils/cmsis/sam4s/source/templates/gcc/startup_sam4s.o
+ .debug_macro   0x0001af23      0x32d src/ASF/sam/utils/cmsis/sam4s/source/templates/system_sam4s.o
+ .debug_macro   0x0001b250      0x28e src/ASF/thirdparty/fatfs/fatfs-r0.09/src/ff.o
+ .debug_macro   0x0001b4de       0xee src/ASF/thirdparty/fatfs/fatfs-r0.09/src/ff.o
+ .debug_macro   0x0001b5cc       0x8e src/ASF/thirdparty/fatfs/fatfs-r0.09/src/ff.o
+ .debug_macro   0x0001b65a       0x58 src/ASF/thirdparty/fatfs/fatfs-r0.09/src/ff.o
+ .debug_macro   0x0001b6b2       0x55 src/main.o
 
-.debug_line     0x00000000    0x17920
+.debug_line     0x00000000    0x18aaf
  .debug_line    0x00000000      0xb3b src/ASF/sam/drivers/rtt/rtt.o
  .debug_line    0x00000b3b      0x4be src/minios/console/console.o
  .debug_line    0x00000ff9     0x12df src/minios/hal/hal_cpu.o
@@ -12766,56 +13065,56 @@ OUTPUT(MiniOS.elf elf32-littlearm)
  .debug_line    0x00003aac     0x135d src/minios/hal/hal_nvmem.o
  .debug_line    0x00004e09      0x140 src/minios/syscalls.o
  .debug_line    0x00004f49      0x17a src/minios/system.o
- .debug_line    0x000050c3      0x12f src/shape.o
- .debug_line    0x000051f2      0xa9c src/ASF/common/components/display/ssd1306/font.o
- .debug_line    0x00005c8e      0xe60 src/ASF/common/components/display/ssd1306/ssd1306.o
- .debug_line    0x00006aee     0x12bf src/ASF/common/components/memory/eeprom/at30tse75x/at30tse75x.o
- .debug_line    0x00007dad     0x1076 src/ASF/common/components/memory/sd_mmc/sd_mmc.o
- .debug_line    0x00008e23      0xf54 src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
- .debug_line    0x00009d77      0xc08 src/ASF/common/services/clock/sam4s/sysclk.o
- .debug_line    0x0000a97f      0xab6 src/ASF/common/services/delay/sam/cycle_counter.o
- .debug_line    0x0000b435      0xdb3 src/ASF/common/services/spi/sam_spi/spi_master.o
- .debug_line    0x0000c1e8      0xd19 src/ASF/sam/boards/sam4s_xplained_pro/init.o
- .debug_line    0x0000cf01      0xe76 src/ASF/sam/drivers/adc/adc.o
- .debug_line    0x0000dd77      0xf5f src/ASF/sam/drivers/pio/pio.o
- .debug_line    0x0000ecd6      0xb7a src/ASF/sam/drivers/pio/pio_handler.o
- .debug_line    0x0000f850     0x1042 src/ASF/sam/drivers/pmc/pmc.o
- .debug_line    0x00010892      0xcf5 src/ASF/sam/drivers/rtc/rtc.o
- .debug_line    0x00011587      0xd0f src/ASF/sam/drivers/spi/spi.o
- .debug_line    0x00012296      0xd14 src/ASF/sam/drivers/twi/twi.o
- .debug_line    0x00012faa      0xc63 src/ASF/sam/drivers/uart/uart.o
- .debug_line    0x00013c0d     0x102c src/ASF/sam/drivers/usart/usart.o
- .debug_line    0x00014c39      0xb02 src/ASF/sam/drivers/wdt/wdt.o
- .debug_line    0x0001573b      0x88b src/ASF/sam/utils/cmsis/sam4s/source/templates/gcc/startup_sam4s.o
- .debug_line    0x00015fc6      0x8bd src/ASF/sam/utils/cmsis/sam4s/source/templates/system_sam4s.o
- .debug_line    0x00016883      0xf03 src/ASF/thirdparty/fatfs/fatfs-r0.09/src/ff.o
- .debug_line    0x00017786      0x19a src/main.o
+ .debug_line    0x000050c3     0x12f7 src/shape.o
+ .debug_line    0x000063ba      0xa9c src/ASF/common/components/display/ssd1306/font.o
+ .debug_line    0x00006e56      0xe49 src/ASF/common/components/display/ssd1306/ssd1306.o
+ .debug_line    0x00007c9f     0x12bf src/ASF/common/components/memory/eeprom/at30tse75x/at30tse75x.o
+ .debug_line    0x00008f5e     0x1076 src/ASF/common/components/memory/sd_mmc/sd_mmc.o
+ .debug_line    0x00009fd4      0xf54 src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
+ .debug_line    0x0000af28      0xc08 src/ASF/common/services/clock/sam4s/sysclk.o
+ .debug_line    0x0000bb30      0xab6 src/ASF/common/services/delay/sam/cycle_counter.o
+ .debug_line    0x0000c5e6      0xdb3 src/ASF/common/services/spi/sam_spi/spi_master.o
+ .debug_line    0x0000d399      0xd19 src/ASF/sam/boards/sam4s_xplained_pro/init.o
+ .debug_line    0x0000e0b2      0xe76 src/ASF/sam/drivers/adc/adc.o
+ .debug_line    0x0000ef28      0xf5f src/ASF/sam/drivers/pio/pio.o
+ .debug_line    0x0000fe87      0xb7a src/ASF/sam/drivers/pio/pio_handler.o
+ .debug_line    0x00010a01     0x1042 src/ASF/sam/drivers/pmc/pmc.o
+ .debug_line    0x00011a43      0xcf5 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_line    0x00012738      0xd0f src/ASF/sam/drivers/spi/spi.o
+ .debug_line    0x00013447      0xd14 src/ASF/sam/drivers/twi/twi.o
+ .debug_line    0x0001415b      0xc63 src/ASF/sam/drivers/uart/uart.o
+ .debug_line    0x00014dbe     0x102c src/ASF/sam/drivers/usart/usart.o
+ .debug_line    0x00015dea      0xb02 src/ASF/sam/drivers/wdt/wdt.o
+ .debug_line    0x000168ec      0x88b src/ASF/sam/utils/cmsis/sam4s/source/templates/gcc/startup_sam4s.o
+ .debug_line    0x00017177      0x8bd src/ASF/sam/utils/cmsis/sam4s/source/templates/system_sam4s.o
+ .debug_line    0x00017a34      0xf03 src/ASF/thirdparty/fatfs/fatfs-r0.09/src/ff.o
+ .debug_line    0x00018937      0x178 src/main.o
 
 .debug_str      0x00000000    0x5e68a
  .debug_str     0x00000000    0x4a714 src/ASF/sam/drivers/rtt/rtt.o
                               0x4aaed (size before relaxing)
  .debug_str     0x0004a714      0xd38 src/minios/console/console.o
                                0x7ba9 (size before relaxing)
- .debug_str     0x0004b44c     0x7d8f src/minios/hal/hal_cpu.o
-                              0x53234 (size before relaxing)
- .debug_str     0x000531db     0x13fb src/minios/hal/hal_io.o
-                              0x54716 (size before relaxing)
- .debug_str     0x000545d6      0x14c src/minios/hal/hal_memreg.o
+ .debug_str     0x0004b44c     0x7dfa src/minios/hal/hal_cpu.o
+                              0x53235 (size before relaxing)
+ .debug_str     0x00053246     0x13fb src/minios/hal/hal_io.o
+                              0x54717 (size before relaxing)
+ .debug_str     0x00054641      0x14c src/minios/hal/hal_memreg.o
                                0x3263 (size before relaxing)
- .debug_str     0x00054722      0x425 src/minios/hal/hal_nvmem.o
-                              0x532e0 (size before relaxing)
- .debug_str     0x00054b47      0x1e2 src/minios/syscalls.o
+ .debug_str     0x0005478d      0x425 src/minios/hal/hal_nvmem.o
+                              0x532e1 (size before relaxing)
+ .debug_str     0x00054bb2      0x177 src/minios/syscalls.o
                                0x3496 (size before relaxing)
  .debug_str     0x00054d29       0x3e src/minios/system.o
                                0x33e5 (size before relaxing)
  .debug_str     0x00054d67       0xa2 src/shape.o
-                               0x319d (size before relaxing)
+                              0x533bb (size before relaxing)
  .debug_str     0x00054e09       0x34 src/ASF/common/components/display/ssd1306/font.o
-                              0x4aee8 (size before relaxing)
+                              0x4aee9 (size before relaxing)
  .debug_str     0x00054e3d       0xfa src/ASF/common/components/display/ssd1306/ssd1306.o
-                              0x504c7 (size before relaxing)
+                              0x504c8 (size before relaxing)
  .debug_str     0x00054f37      0x3be src/ASF/common/components/memory/eeprom/at30tse75x/at30tse75x.o
-                              0x528b6 (size before relaxing)
+                              0x528b7 (size before relaxing)
  .debug_str     0x000552f5     0x52c9 src/ASF/common/components/memory/sd_mmc/sd_mmc.o
                               0x54a03 (size before relaxing)
  .debug_str     0x0005a5be      0x404 src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
@@ -12855,9 +13154,9 @@ OUTPUT(MiniOS.elf elf32-littlearm)
  .debug_str     0x0005da87      0xb80 src/ASF/thirdparty/fatfs/fatfs-r0.09/src/ff.o
                                0x3c86 (size before relaxing)
  .debug_str     0x0005e607       0x83 src/main.o
-                               0x361a (size before relaxing)
+                               0x360e (size before relaxing)
 
-.debug_frame    0x00000000     0x3160
+.debug_frame    0x00000000     0x3194
  .debug_frame   0x00000000       0xac src/ASF/sam/drivers/rtt/rtt.o
  .debug_frame   0x000000ac       0x9c src/minios/console/console.o
  .debug_frame   0x00000148       0xbc src/minios/hal/hal_cpu.o
@@ -12866,41 +13165,41 @@ OUTPUT(MiniOS.elf elf32-littlearm)
  .debug_frame   0x000005ac      0x108 src/minios/hal/hal_nvmem.o
  .debug_frame   0x000006b4       0x44 src/minios/syscalls.o
  .debug_frame   0x000006f8       0x6c src/minios/system.o
- .debug_frame   0x00000764       0x98 src/shape.o
- .debug_frame   0x000007fc       0x90 src/ASF/common/components/display/ssd1306/ssd1306.o
- .debug_frame   0x0000088c       0xec src/ASF/common/components/memory/eeprom/at30tse75x/at30tse75x.o
- .debug_frame   0x00000978      0x1ec src/ASF/common/components/memory/sd_mmc/sd_mmc.o
- .debug_frame   0x00000b64      0x260 src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
- .debug_frame   0x00000dc4       0x58 src/ASF/common/services/clock/sam4s/sysclk.o
- .debug_frame   0x00000e1c       0x20 src/ASF/common/services/delay/sam/cycle_counter.o
- .debug_frame   0x00000e3c      0x108 src/ASF/common/services/spi/sam_spi/spi_master.o
- .debug_frame   0x00000f44       0x30 src/ASF/sam/boards/sam4s_xplained_pro/init.o
- .debug_frame   0x00000f74      0x340 src/ASF/sam/drivers/adc/adc.o
- .debug_frame   0x000012b4      0x384 src/ASF/sam/drivers/pio/pio.o
- .debug_frame   0x00001638       0xf4 src/ASF/sam/drivers/pio/pio_handler.o
- .debug_frame   0x0000172c      0x408 src/ASF/sam/drivers/pmc/pmc.o
- .debug_frame   0x00001b34      0x1f0 src/ASF/sam/drivers/rtc/rtc.o
- .debug_frame   0x00001d24      0x140 src/ASF/sam/drivers/spi/spi.o
- .debug_frame   0x00001e64      0x1d4 src/ASF/sam/drivers/twi/twi.o
- .debug_frame   0x00002038      0x1bc src/ASF/sam/drivers/uart/uart.o
- .debug_frame   0x000021f4      0x48c src/ASF/sam/drivers/usart/usart.o
- .debug_frame   0x00002680       0x7c src/ASF/sam/drivers/wdt/wdt.o
- .debug_frame   0x000026fc       0x38 src/ASF/sam/utils/cmsis/sam4s/source/templates/gcc/startup_sam4s.o
- .debug_frame   0x00002734       0x40 src/ASF/sam/utils/cmsis/sam4s/source/templates/system_sam4s.o
- .debug_frame   0x00002774      0x634 src/ASF/thirdparty/fatfs/fatfs-r0.09/src/ff.o
- .debug_frame   0x00002da8       0x44 src/main.o
- .debug_frame   0x00002dec       0xac c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubdf3.o)
- .debug_frame   0x00002e98       0x50 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_muldivdf3.o)
- .debug_frame   0x00002ee8       0x24 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_fixunsdfsi.o)
- .debug_frame   0x00002f0c       0x2c c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_aeabi_uldivmod.o)
- .debug_frame   0x00002f38       0x34 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_udivmoddi4.o)
- .debug_frame   0x00002f6c       0x2c c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-init.o)
- .debug_frame   0x00002f98       0x34 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-memset.o)
- .debug_frame   0x00002fcc       0x5c c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-__call_atexit.o)
- .debug_frame   0x00003028       0x20 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-atexit.o)
- .debug_frame   0x00003048       0x34 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-fini.o)
- .debug_frame   0x0000307c       0xb0 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-lock.o)
- .debug_frame   0x0000312c       0x34 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-__atexit.o)
+ .debug_frame   0x00000764       0xc8 src/shape.o
+ .debug_frame   0x0000082c       0x90 src/ASF/common/components/display/ssd1306/ssd1306.o
+ .debug_frame   0x000008bc       0xec src/ASF/common/components/memory/eeprom/at30tse75x/at30tse75x.o
+ .debug_frame   0x000009a8      0x1ec src/ASF/common/components/memory/sd_mmc/sd_mmc.o
+ .debug_frame   0x00000b94      0x260 src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
+ .debug_frame   0x00000df4       0x58 src/ASF/common/services/clock/sam4s/sysclk.o
+ .debug_frame   0x00000e4c       0x20 src/ASF/common/services/delay/sam/cycle_counter.o
+ .debug_frame   0x00000e6c      0x108 src/ASF/common/services/spi/sam_spi/spi_master.o
+ .debug_frame   0x00000f74       0x30 src/ASF/sam/boards/sam4s_xplained_pro/init.o
+ .debug_frame   0x00000fa4      0x340 src/ASF/sam/drivers/adc/adc.o
+ .debug_frame   0x000012e4      0x384 src/ASF/sam/drivers/pio/pio.o
+ .debug_frame   0x00001668       0xf4 src/ASF/sam/drivers/pio/pio_handler.o
+ .debug_frame   0x0000175c      0x408 src/ASF/sam/drivers/pmc/pmc.o
+ .debug_frame   0x00001b64      0x1f0 src/ASF/sam/drivers/rtc/rtc.o
+ .debug_frame   0x00001d54      0x140 src/ASF/sam/drivers/spi/spi.o
+ .debug_frame   0x00001e94      0x1d4 src/ASF/sam/drivers/twi/twi.o
+ .debug_frame   0x00002068      0x1bc src/ASF/sam/drivers/uart/uart.o
+ .debug_frame   0x00002224      0x48c src/ASF/sam/drivers/usart/usart.o
+ .debug_frame   0x000026b0       0x7c src/ASF/sam/drivers/wdt/wdt.o
+ .debug_frame   0x0000272c       0x38 src/ASF/sam/utils/cmsis/sam4s/source/templates/gcc/startup_sam4s.o
+ .debug_frame   0x00002764       0x40 src/ASF/sam/utils/cmsis/sam4s/source/templates/system_sam4s.o
+ .debug_frame   0x000027a4      0x634 src/ASF/thirdparty/fatfs/fatfs-r0.09/src/ff.o
+ .debug_frame   0x00002dd8       0x48 src/main.o
+ .debug_frame   0x00002e20       0xac c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_addsubdf3.o)
+ .debug_frame   0x00002ecc       0x50 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_muldivdf3.o)
+ .debug_frame   0x00002f1c       0x24 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_arm_fixunsdfsi.o)
+ .debug_frame   0x00002f40       0x2c c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x00002f6c       0x34 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7e-m\libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x00002fa0       0x2c c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-init.o)
+ .debug_frame   0x00002fcc       0x34 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-memset.o)
+ .debug_frame   0x00003000       0x5c c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x0000305c       0x20 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-atexit.o)
+ .debug_frame   0x0000307c       0x34 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-fini.o)
+ .debug_frame   0x000030b0       0xb0 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-lock.o)
+ .debug_frame   0x00003160       0x34 c:/program files (x86)/atmel/studio/7.0/toolchain/arm/arm-gnu-toolchain/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m\libc.a(lib_a-__atexit.o)
 
 Cross Reference Table
 
@@ -13656,6 +13955,7 @@ hal_display_gotoxy                                src/minios/hal/hal_io.o
 hal_display_numlines                              src/minios/hal/hal_io.o
                                                   src/minios/syscalls.o
 hal_display_putc                                  src/minios/hal/hal_io.o
+                                                  src/shape.o
                                                   src/minios/system.o
                                                   src/minios/syscalls.o
 hal_display_start                                 src/minios/hal/hal_io.o
@@ -13931,6 +14231,7 @@ pmc_wait_wakeup_clocks_restore                    src/ASF/sam/drivers/pmc/sleep.
 portable_delay_cycles                             src/ASF/common/services/delay/sam/cycle_counter.o
                                                   src/ASF/common/components/memory/sd_mmc/sd_mmc.o
                                                   src/ASF/common/components/display/ssd1306/ssd1306.o
+                                                  src/shape.o
                                                   src/minios/hal/hal_nvmem.o
                                                   src/minios/hal/hal_io.o
                                                   src/minios/hal/hal_cpu.o
@@ -14080,6 +14381,7 @@ spi_configure_cs_behavior                         src/ASF/sam/drivers/spi/spi.o
 spi_deselect_device                               src/ASF/common/services/spi/sam_spi/spi_master.o
                                                   src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
                                                   src/ASF/common/components/display/ssd1306/ssd1306.o
+                                                  src/shape.o
                                                   src/minios/hal/hal_io.o
 spi_disable_clock                                 src/ASF/sam/drivers/spi/spi.o
 spi_enable_clock                                  src/ASF/sam/drivers/spi/spi.o
@@ -14097,6 +14399,7 @@ spi_read_packet                                   src/ASF/common/services/spi/sa
 spi_select_device                                 src/ASF/common/services/spi/sam_spi/spi_master.o
                                                   src/ASF/common/components/memory/sd_mmc/sd_mmc_spi.o
                                                   src/ASF/common/components/display/ssd1306/ssd1306.o
+                                                  src/shape.o
                                                   src/minios/hal/hal_io.o
 spi_set_baudrate_div                              src/ASF/sam/drivers/spi/spi.o
                                                   src/ASF/common/services/spi/sam_spi/spi_master.o

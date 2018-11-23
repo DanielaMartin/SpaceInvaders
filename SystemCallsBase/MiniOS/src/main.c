@@ -20,7 +20,10 @@ Shape spaceship;
 Shape aliens [ALIEN_NUM];
 Shape bullets;
 
-
+//b1 = EXT3_PIN_9;
+//b2 = EXT3_PIN_3;
+//b3 = EXT3_PIN_4;
+//ioport_get_pin_level()
 
 void button_callback (tButtonNum);
 
@@ -44,11 +47,11 @@ int main(void)
 		// a block of 3*5 aliens at the top right corner of the screen
 		// start at position (10,0)
 		uint16_t x = 0;
-		for (uint16_t i = 0; i < 15; i++)
+		for (uint16_t i = 0; i < ALIEN_NUM; i++)
 		{
 			//TODO: check if this really works
-			aliens[i] = make_shape(alien, x + 10, i % 4);
-			x = (i % 4 == 3) ? x+1 : x;
+			aliens[i] = make_shape(alien, (x + 10), i % 3);
+			x = ((i % 3) == 2) ? x+1 : x;
 		}
 		
 		// initialize the spaceship
@@ -59,7 +62,7 @@ int main(void)
 		bullets.exists = false;
 		
 		// display all the aliens and the space ship
-		for (uint16_t i = 0; i < 15; i++)
+		for (uint16_t i = 0; i < ALIEN_NUM; i++)
 		{
 			draw_shape(aliens[i]);
 		}

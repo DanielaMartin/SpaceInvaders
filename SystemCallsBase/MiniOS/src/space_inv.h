@@ -27,14 +27,14 @@ typedef struct shape {
 
 void move_shape(gfx_shape shp, uint16_t x, uint16_t y);
 Shape make_shape(gfx_shape shp, uint16_t x, uint16_t y);
-void draw_shape(Shape shp);
-void alien_invade(Shape aliens[]);
+void draw_shape(Shape* shp);
+void alien_invade(Shape* aliens[]);
 void shoot(gfx_shape ship, Shape aliens []);
 
-void move_shape_up(Shape shp);
-void move_shape_down(Shape shp);
-void move_shape_left(Shape shp);
-void move_shape_right(Shape shp);
+void move_shape_up(Shape* shp);
+void move_shape_down(Shape* shp);
+void move_shape_left(Shape* shp);
+void move_shape_right(Shape* shp);
 
 //	This function will be used to
 void display();

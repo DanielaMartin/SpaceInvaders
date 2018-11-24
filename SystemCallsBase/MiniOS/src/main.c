@@ -10,6 +10,7 @@
 #include <asf.h>
 
 #define ALIEN_NUM 15
+#define ALIEN_UPDATE 5
 
 bool gameover = false;
 bool button_pressed = false;
@@ -20,7 +21,11 @@ Shape* spaceship;
 Shape* aliens [ALIEN_NUM];
 Shape* bullets;
 
+bool aliens_at_top = true;
+uint16_t update_alien = 0;
+
 void button_callback (tButtonNum);
+void move_aliens (void);
 
 int main(void)
 {
@@ -147,7 +152,12 @@ int main(void)
 			// advance bullets
 			if (bullets->exists)
 				move_shape_right(bullets);
-			// move every thing else every second or third time
+				
+			// move the aliens every second or third time
+			if (update_alien == ALIEN_UPDATE)
+				move_aliens();
+			
+			update_alien = (update_alien == ALIEN_UPDATE) ? 0 : update_alien + 1;
 			
 			bool collision_found = false;
 			Shape* collided_alian = NULL;
@@ -155,7 +165,7 @@ int main(void)
 			for (uint16_t i = 0; i < ALIEN_NUM; i++)
 			{
 				Shape* current_alien = aliens[i];
-				if ((current_alien->x == bullets->x) && (current_alien->y == bullets->y) && current_alien->exists)
+				if (bullets->exists && (current_alien->x == bullets->x) && (current_alien->y == bullets->y) && current_alien->exists)
 				{
 					collision_found = true;
 					collided_alian = current_alien;
@@ -188,9 +198,25 @@ int main(void)
 			// check if all the aliens are gone -> then game is over
 		}
 		
-		// game is over -> display gameoverstate
+		// game is over -> display gameover state
+		// game is over when the aliens have reached the left side of the screen
+		for (uint16_t i = 0; i < ALIEN_NUM; i++)
+		{
+			Shape* current_alien = aliens[i];
+			if ((current_alien->x == 0) && current_alien->exists)
+				gameover = true;
+		}
 		
 		// wait for button to be pressed for a new game state
+		if (gameover)
+		{
+			//display gameover screen
+			
+			// wait for button to be pressed
+			while(!button_pressed);
+			button_pressed = false;
+			gameover = false;
+		}
 	}
 }
 
@@ -198,5 +224,25 @@ void button_callback (tButtonNum b)
 {
 	button_pressed = true;
 	seleced_button = b;
+}
+
+void move_aliens ()
+{
+	//move all the aliens in a sort of zig zag movement
+	bool move_down = aliens_at_top;
+	for (uint16_t i = 0; i<ALIEN_NUM; i++)
+	{
+		if (move_down)
+		{
+			// move alien down
+			move_shape_down(aliens[i]);
+		} else {
+			// else move it up
+			move_shape_up(aliens[i]);
+		}
+		// and move the aliens to left
+		move_shape_left(aliens[i]);
+	}
+	aliens_at_top = !move_down;
 }
 

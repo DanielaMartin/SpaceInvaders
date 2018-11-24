@@ -61,11 +61,12 @@ void move_shape_up(Shape* shp) {
 void move_shape_left(Shape* shp)
 {
 	uint16_t x = shp->x;
+	// check if it is still in bounds
+	if (x == 0)
+		return;
 	// subtract one from the x axis
 	x --;
-	// check if it is still in bounds
-	if (x >= 0) 
-		shp->x = x;
+	shp->x = x;
 }
 
 void move_shape_right(Shape* shp)

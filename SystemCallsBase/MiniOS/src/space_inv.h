@@ -36,8 +36,10 @@ void move_shape_down(Shape* shp);
 void move_shape_left(Shape* shp);
 void move_shape_right(Shape* shp);
 
-//	This function will be used to
-void display();
+//	This function will be used to display the start screen
+void start_display();
+//  This one will display the end screen
+void end_display();
 
 
 #endif /* INCFILE1_H_ */

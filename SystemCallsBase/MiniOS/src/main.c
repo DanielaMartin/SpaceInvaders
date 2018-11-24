@@ -242,4 +242,11 @@ void print_string (uint8_t* string)
 		hal_display_putc(string[i]);
 	}
 }
+void start_display() {
+	
+}
+
+void end_display() {
+	
+}
 

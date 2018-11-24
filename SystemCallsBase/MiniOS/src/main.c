@@ -10,6 +10,7 @@
 #include <asf.h>
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 
 #define ALIEN_NUM 15
 #define ALIEN_UPDATE 5
@@ -25,16 +26,16 @@ Shape* bullets;
 
 bool aliens_at_top = true;
 uint16_t update_alien = 0;
+uint16_t score = 0;
 
 void button_callback (tButtonNum);
 void move_aliens (void);
+void print_string (uint8_t*);
 
 int main(void)
 {
 	//Initializes the system
 	system_init();		
-//	sysclk_init();
-//	board_init();
 	
 	// start button
 	hal_button_start_int(button_callback);
@@ -78,6 +79,8 @@ int main(void)
 		}
 		draw_shape(spaceship);
 		
+		// set the score to 0
+		score = 0;
 		
 		while (!gameover)
 		{
@@ -152,6 +155,7 @@ int main(void)
 			{
 				collided_alian->exists = false;
 				bullets->exists = false;
+				score += 10;
 			}
 			
 			
@@ -189,6 +193,9 @@ int main(void)
 		free(Alien);
 		//display gameover screen
 		hal_display_cls();
+		uint8_t string [20];
+		sprintf(string, "Score: %d", score);
+		print_string(string);
 			
 		// wait for button to be pressed
 		while(!button_pressed)
@@ -228,5 +235,13 @@ void move_aliens ()
 		move_shape_left(aliens[i]);
 	}
 	aliens_at_top = !move_down;
+}
+
+void print_string (uint8_t* string)
+{
+	for (uint i = 0; i < strlen(string); i++)	
+	{
+		hal_display_putc(string[i]);
+	}
 }
 

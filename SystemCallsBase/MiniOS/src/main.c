@@ -8,6 +8,8 @@
 #include <stddef.h>
 #include <stdbool.h>
 #include <asf.h>
+#include <stdio.h>
+#include <stdlib.h>
 
 #define ALIEN_NUM 15
 #define ALIEN_UPDATE 5
@@ -49,43 +51,16 @@ int main(void)
 		// create all the aliens
 		// a block of 3*5 aliens at the top right corner of the screen
 		// start at position (10,0)
-		/*uint16_t x = 0;
-		for (uint16_t i = 0; i < ALIEN_NUM; i++)
-		{
-			Shape Alien = make_shape(alien, (x + 10), i % 3);
-			aliens[i] = &Alien;
-			x = ((i % 3) == 2) ? x+1 : x;
-		}*/
-		Shape Alien = make_shape(alien, 10, 0);
-		aliens[0] = &Alien;
-		Shape Alien1 = make_shape(alien, 10, 1);
-		aliens[1] = &Alien1;
-		 Shape Alien2 = make_shape(alien, 10, 2);
-		aliens[2] = &Alien2;
-		Shape Alien3 = make_shape(alien, 11, 0);
-		aliens[3] = &Alien3;
-		Shape Alien4 = make_shape(alien, 11, 1);
-		aliens[4] = &Alien4;
-		Shape Alien5 = make_shape(alien, 11, 2);
-		aliens[5] = &Alien5;
-		Shape Alien6 = make_shape(alien, 12, 0);
-		aliens[6] = &Alien6;
-		Shape Alien7 = make_shape(alien, 12, 1);
-		aliens[7] = &Alien7;
-		Shape Alien8 = make_shape(alien, 12, 2);
-		aliens[8] = &Alien8;
-		Shape Alien9 = make_shape(alien, 13, 0);
-		aliens[9] = &Alien9;
-		Shape Alien10 = make_shape(alien, 13, 1);
-		aliens[10] = &Alien10;
-		Shape Alien11 = make_shape(alien, 13, 2);
-		aliens[11] = &Alien11;
-		Shape Alien12 = make_shape(alien, 14, 0);
-		aliens[12] = &Alien12;
-		Shape Alien13 = make_shape(alien, 14, 1);
-		aliens[13] = &Alien13;
-		Shape Alien14 = make_shape(alien, 14, 2);
-		aliens[14] = &Alien14;
+		Shape *Alien = malloc(15*sizeof(Shape));
+		uint16_t k=0;
+		for (uint16_t i=10; i<15; i++) {
+			for (uint16_t j=0; j<3; j++) {
+				Alien[k] = make_shape(alien, i, j);
+				aliens[k] = &Alien[k];
+				k++;
+			}
+		}
+	
 		
 		// initialize the spaceship
 		Shape Ship = make_shape(ship, 0, 2);

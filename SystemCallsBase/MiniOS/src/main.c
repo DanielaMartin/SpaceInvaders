@@ -15,6 +15,7 @@
 #define ALIEN_NUM 15
 #define ALIEN_UPDATE 5
 
+tLedState led_state = LedOff;
 bool gameover = false;
 bool button_pressed = false;
 tButtonNum seleced_button;
@@ -61,7 +62,7 @@ int main(void)
 				k++;
 			}
 		}
-	
+		aliens_at_top = true;
 		
 		// initialize the spaceship
 		Shape Ship = make_shape(ship, 0, 2);
@@ -134,12 +135,12 @@ int main(void)
 				
 			// move the aliens every second or third time
 			if (update_alien == ALIEN_UPDATE)
-				move_aliens();
+				move_aliens();//bug here?
 			
 			update_alien = (update_alien == ALIEN_UPDATE) ? 0 : update_alien + 1;
 			
 			bool collision_found = false;
-			Shape* collided_alian = NULL;
+			Shape* collided_alien = NULL;
 			// check for collisions
 			for (uint16_t i = 0; i < ALIEN_NUM; i++)
 			{
@@ -147,13 +148,13 @@ int main(void)
 				if (bullets->exists && (current_alien->x == bullets->x) && (current_alien->y == bullets->y) && current_alien->exists)
 				{
 					collision_found = true;
-					collided_alian = current_alien;
+					collided_alien = current_alien;
 				}
 			}
 			
 			if (collision_found)
 			{
-				collided_alian->exists = false;
+				collided_alien->exists = false;
 				bullets->exists = false;
 				score += 10;
 			}
@@ -200,12 +201,9 @@ int main(void)
 		// wait for button to be pressed
 		while(!button_pressed)
 		{
-			hal_led_write(Led1, LedOn);
-			hal_led_write(Led2, LedOn);
-			hal_led_write(Led3, LedOn);
-			hal_led_write(Led1, LedOff);
-			hal_led_write(Led2, LedOff);
-			hal_led_write(Led3, LedOff);
+			hal_led_write(Led1, !led_state);
+			hal_led_write(Led2, !led_state);
+			hal_led_write(Led3, !led_state);
 		}
 		button_pressed = false;
 	}

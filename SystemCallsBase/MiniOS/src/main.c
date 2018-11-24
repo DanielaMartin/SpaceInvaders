@@ -218,7 +218,12 @@ int main(void)
 		// wait for button to be pressed
 		while(!button_pressed)
 		{
-			
+			hal_led_write(Led1, LedOn);
+			hal_led_write(Led2, LedOn);
+			hal_led_write(Led3, LedOn);
+			hal_led_write(Led1, LedOff);
+			hal_led_write(Led2, LedOff);
+			hal_led_write(Led3, LedOff);
 		}
 		button_pressed = false;
 	}

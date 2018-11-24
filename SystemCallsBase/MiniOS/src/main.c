@@ -39,6 +39,7 @@ int main(void)
 	
 	while (true)
 	{
+		gameover = false;
 		//display start screen
 		// press any button to start
 		
@@ -196,7 +197,7 @@ int main(void)
 				draw_shape(bullets);
 			
 			// check if all the aliens are gone -> then game is over
-		}
+		
 		
 		// game is over -> display gameover state
 		// game is over when the aliens have reached the left side of the screen
@@ -204,19 +205,22 @@ int main(void)
 		{
 			Shape* current_alien = aliens[i];
 			if ((current_alien->x == 0) && current_alien->exists)
+			{
 				gameover = true;
+			}
 		}
-		
+		}
 		// wait for button to be pressed for a new game state
-		if (gameover)
-		{
-			//display gameover screen
+		
+		//display gameover screen
+		hal_display_cls();
 			
-			// wait for button to be pressed
-			while(!button_pressed);
-			button_pressed = false;
-			gameover = false;
+		// wait for button to be pressed
+		while(!button_pressed)
+		{
+			
 		}
+		button_pressed = false;
 	}
 }
 

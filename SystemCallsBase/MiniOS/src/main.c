@@ -186,7 +186,7 @@ int main(void)
 		}
 		}
 		// wait for button to be pressed for a new game state
-		
+		free(Alien);
 		//display gameover screen
 		hal_display_cls();
 			

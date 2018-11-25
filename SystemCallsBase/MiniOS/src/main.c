@@ -249,6 +249,7 @@ void print_string (uint8_t* string)
 	}
 }
 void start_display() {
+	hal_display_cls();
 	ssd1306_set_column_address(10);
 	ssd1306_set_page_address(0);
 	print_string("! SPACE INVADERS \"");
@@ -270,5 +271,15 @@ void end_display() {
 	uint8_t string [20];
 	sprintf(string, "Score: %d", score);
 	print_string(string);
+}
+
+void win_intermediate_display() {
+	hal_display_cls();
+	//print Beat level ...
+	ssd1306_set_page_address(0);
+	ssd1306_set_column_address(40);
+	uint8_t string [20];
+	sprintf(string, "BEAT LEVEL %d", score);
+	print_string("string");
 }
 

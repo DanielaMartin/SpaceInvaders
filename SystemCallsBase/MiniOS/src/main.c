@@ -147,6 +147,7 @@ int main(void)
 				
 			// move the aliens every second or third time
 			if (update_alien == ALIEN_UPDATE)
+			
 				move_aliens();
 			
 			update_alien = (update_alien == ALIEN_UPDATE) ? 0 : update_alien + 1;

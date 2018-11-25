@@ -13,7 +13,7 @@
 #include <string.h>
 
 #define ALIEN_NUM 15
-#define ALIEN_UPDATE 7
+#define ALIEN_UPDATE 10
 
 tLedState led_state = LedOff;
 bool gameover = false;
@@ -193,6 +193,7 @@ int main(void)
 		
 		// game is over -> display gameover state
 		// game is over when the aliens have reached the left side of the screen
+		win = true;
 		for (uint16_t i = 0; i < ALIEN_NUM; i++)
 		{
 			Shape* current_alien = aliens[i];
@@ -200,10 +201,21 @@ int main(void)
 			{
 				gameover = true;
 			}
+			else if (current_alien->exists) {
+				win = false;
+			}
+		}
+		if (win == true) {
+			win_num++;
+			gameover = true;
 		}
 		}
+/*		win = true;
+		for (uint16_t i=0; i<ALIEN_NUM; i++) {
+	//		Shape* current_alien
+			if (aliens[i]->)
+		}*/
 		// wait for button to be pressed for a new game state
-		free(Alien);
 		//display gameover screen
 		end_display();
 			
@@ -215,6 +227,8 @@ int main(void)
 			hal_led_write(Led3, !led_state);
 		}
 		button_pressed = false;
+		
+		free(Alien);
 	}
 }
 
@@ -274,4 +288,3 @@ void end_display() {
 	sprintf(string, "Score: %d", score);
 	print_string(string);
 }
-

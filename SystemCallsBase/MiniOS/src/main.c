@@ -41,11 +41,20 @@ int main(void)
 	// start button
 	hal_button_start_int(button_callback);
 	
+	//display start screen
+	// press any button to start
+	start_display();
+	while(!button_pressed)
+	{
+		
+			hal_led_write(Led1, led_state);
+			hal_led_write(Led2, led_state);
+			hal_led_write(Led3, led_state);
+	}
+	button_pressed = false;
 	while (true)
 	{
 		gameover = false;
-		//display start screen
-		// press any button to start
 		
 		// wait for button to be pressed
 		
@@ -243,7 +252,12 @@ void print_string (uint8_t* string)
 	}
 }
 void start_display() {
-	
+	ssd1306_set_column_address(10);
+	ssd1306_set_page_address(0);
+	print_string("! SPACE INVADERS \"");
+	ssd1306_set_column_address(15);
+	ssd1306_set_page_address(2);
+	print_string("PRESS ANY BUTTON");
 }
 
 void end_display() {

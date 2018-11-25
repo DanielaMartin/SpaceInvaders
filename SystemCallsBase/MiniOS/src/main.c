@@ -202,10 +202,7 @@ int main(void)
 		// wait for button to be pressed for a new game state
 		free(Alien);
 		//display gameover screen
-		hal_display_cls();
-		uint8_t string [20];
-		sprintf(string, "Score: %d", score);
-		print_string(string);
+		end_display();
 			
 		// wait for button to be pressed
 		while(!button_pressed)
@@ -261,6 +258,17 @@ void start_display() {
 }
 
 void end_display() {
+	hal_display_cls();
+	// print GAME OVER
+	ssd1306_set_page_address(0);
+	ssd1306_set_column_address(40);
+	print_string("GAME OVER");
 	
+	ssd1306_set_page_address(10);
+	ssd1306_set_column_address(50);
+	// print score
+	uint8_t string [20];
+	sprintf(string, "Score: %d", score);
+	print_string(string);
 }
 

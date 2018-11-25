@@ -40,6 +40,8 @@ void move_shape_right(Shape* shp);
 void start_display();
 //  This one will display the end screen
 void end_display();
+//  This one will display the winning screen
+void win_intermediate_display();
 
 
 #endif /* INCFILE1_H_ */

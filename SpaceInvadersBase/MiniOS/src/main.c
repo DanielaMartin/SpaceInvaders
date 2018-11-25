@@ -13,7 +13,7 @@
 #include <string.h>
 
 #define ALIEN_NUM 15
-#define ALIEN_UPDATE 10
+uint16_t ALIEN_UPDATE = 10;
 
 tLedState led_state = LedOff;
 bool gameover = false;
@@ -94,7 +94,7 @@ int main(void)
 		draw_shape(spaceship);
 		
 		// set the score to 0
-		score = 0;
+//		score = 0;
 		
 		while (!gameover)
 		{
@@ -207,18 +207,18 @@ int main(void)
 		}
 		if (win == true) {
 			win_num++;
+			ALIEN_UPDATE--;
 			gameover = true;
 		}
 		}
-/*		win = true;
-		for (uint16_t i=0; i<ALIEN_NUM; i++) {
-	//		Shape* current_alien
-			if (aliens[i]->)
-		}*/
+
 		// wait for button to be pressed for a new game state
 		//display gameover screen if game lost
-		if (!win)
+		if (!win) {
 			end_display();
+			score = 0;
+			ALIEN_UPDATE = 10;
+		}
 		else
 			// display winning screen
 		win_intermediate_display();

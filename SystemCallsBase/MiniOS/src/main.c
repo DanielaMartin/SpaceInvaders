@@ -118,10 +118,9 @@ int main(void)
 						{
 							// create a new bullet
 							// set bullet position
-							// it should be the position right to the current position of the spaceship 
-						//	bullets = make_shape(bullet, (spaceship->x + 1), spaceship->y);
+							// it should be on the same position as the spaceship
 							bullets->exists = true;
-							bullets->x = spaceship->x + 1;
+							bullets->x = spaceship->x;
 							bullets->y = spaceship->y;
 						}
 						break;

@@ -217,8 +217,12 @@ int main(void)
 			if (aliens[i]->)
 		}*/
 		// wait for button to be pressed for a new game state
-		//display gameover screen
-		end_display();
+		//display gameover screen if game lost
+		if (!win)
+			end_display();
+		else
+			// display winning screen
+		win_intermediate_display();
 			
 		// wait for button to be pressed
 		while(!button_pressed)

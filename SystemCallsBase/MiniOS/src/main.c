@@ -46,6 +46,7 @@ int main(void)
 	
 	//display start screen
 	// press any button to start
+	//  This one will display the winning screen
 	start_display();
 	while(!button_pressed)
 	{
@@ -146,7 +147,7 @@ int main(void)
 				
 			// move the aliens every second or third time
 			if (update_alien == ALIEN_UPDATE)
-				move_aliens();//bug here?
+				move_aliens();
 			
 			update_alien = (update_alien == ALIEN_UPDATE) ? 0 : update_alien + 1;
 			
@@ -265,6 +266,7 @@ void print_string (uint8_t* string)
 	}
 }
 void start_display() {
+	hal_display_cls();
 	ssd1306_set_column_address(10);
 	ssd1306_set_page_address(0);
 	print_string("! SPACE INVADERS \"");
@@ -287,3 +289,19 @@ void end_display() {
 	sprintf(string, "Score: %d", score);
 	print_string(string);
 }
+
+void win_intermediate_display() {
+	hal_display_cls();
+	//print Beat level ...
+	ssd1306_set_page_address(0);
+	ssd1306_set_column_address(25);
+	uint8_t string [20];
+	sprintf(string, "BEAT LEVEL %d", win_num);
+	print_string(string);
+	
+	// PRESS ANY BUTTON
+	ssd1306_set_column_address(15);
+	ssd1306_set_page_address(2);
+	print_string("PRESS ANY BUTTON");
+}
+

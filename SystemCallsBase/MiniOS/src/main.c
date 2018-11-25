@@ -13,11 +13,14 @@
 #include <string.h>
 
 #define ALIEN_NUM 15
-#define ALIEN_UPDATE 5
+#define ALIEN_UPDATE 7
 
 tLedState led_state = LedOff;
 bool gameover = false;
 bool button_pressed = false;
+bool win = false;
+uint16_t win_num = 0;
+
 tButtonNum seleced_button;
 
 // shape instances

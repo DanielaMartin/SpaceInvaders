@@ -218,6 +218,7 @@ int main(void)
 			end_display();
 			score = 0;
 			ALIEN_UPDATE = 10;
+			win_num = 0;
 		}
 		else
 			// display winning screen
@@ -300,7 +301,7 @@ void win_intermediate_display() {
 	ssd1306_set_page_address(0);
 	ssd1306_set_column_address(25);
 	uint8_t string [20];
-	sprintf(string, "BEAT LEVEL %d", win_num);
+	sprintf(string, "BEAT LEVEL %d", win_num+1);
 	print_string(string);
 	
 	// PRESS ANY BUTTON
